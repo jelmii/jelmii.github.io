@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Category hosting Setting up new domain and page
+title: Ciudad de Panamá, Panamá, Panamá
 subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
 author:
 tags: featured
