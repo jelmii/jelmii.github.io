@@ -14,7 +14,7 @@ featured:
     tag: featured
 section:
     title: Ayuda 24/7
-    subtitle: Si tienes alguna pregunta no dudes en escribirnos (WhatsApp) +507 6503-7188
+    subtitle: Si tienes alguna pregunta, no dudes en escribirnos: (WhatsApp) +507 6503-7188
 cta:
     title: ¿No encontraste lo que estabas buscando?
     subtitle: Get in touch with us for details on additional services and custom work pricing
