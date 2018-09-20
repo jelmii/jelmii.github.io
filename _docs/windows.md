@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Selecting the right fonts and colors
+title: Las Vegas, Nevada, Estados Unidos
 subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
 author:
 tags: othertag
