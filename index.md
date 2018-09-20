@@ -2,13 +2,13 @@
 layout: home
 hero:
     title: ¿Buscas hoteles en Panamá?
-    subtitle: Permitenos ser tu amigo, o tal vez una guia que muchas veces necesitamos para realizar una buena eleccion, trabajamos con  hoteles de marca mundial, escribenos y te ofreceremos espectaculares descuentos que no encontraras en ningun otro sitio web.
+    subtitle: Permítenos ser tu amigo, o tal vez una guía que muchas veces necesitamos para realizar una buena elección, trabajamos con  hoteles de marca mundial, escríbenos y te ofreceremos espectaculares descuentos que no encontraras en ningún otro sitio web..
     image: imac.svg
     search: true
 categories:
     columns: 3
-    title: Browse Topics
-    subtitle: Get your answers fast, jump to most popular documentation content
+    title: Otros Servicios 
+    subtitle: Nos gusta la comodidad igual que a ti, por eso ofrecemos servicios complementarios los cuales te ayudaran a tener un viaje más placentero, tranquilo y seguro.
 featured:
     title: Popular Articles
     tag: featured
