@@ -11,9 +11,9 @@ tags: featured
 * TOC
 {:toc}
 
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
+El Courtyard by Marriott Panama at Metromall Mall cuenta con restaurantes, tiendas y entretenimiento. El establecimiento está situado a solo 8 km del Aeropuerto Internacional de Tocumen y a 15 km del centro de la ciudad de Panamá. El establecimiento también ofrece gimnasio y piscina al aire libre rodeada de jardines. Se proporciona servicio de enlace con el aeropuerto disponible por un suplemento de 15 USD.
 
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
+Las habitaciones elegantes disponen de aire acondicionado, TV LCD de 32 pulgadas, conexión WiFi y por cable de alta velocidad gratuita, ventanas insonorizadas exclusivas, sábanas de algodón egipcio de 300 hilos y cubrecolchón de plumas de lujo.
 
 ## Image Lightbox Example
 Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
