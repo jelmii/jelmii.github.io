@@ -1,7 +1,7 @@
 ---
 layout: home
 hero:
-    title: ¿Adónde irás?
+    title: ¿Buscas hoteles en Panamá?
     subtitle: Permitenos ser tu amigo, o tal vez una guia que muchas veces necesitamos para realizar una buena eleccion, trabajamos con  hoteles de marca mundial, escribenos y te ofreceremos espectaculares descuentos que no encontraras en ningun otro sitio web.
     image: imac.svg
     search: true
