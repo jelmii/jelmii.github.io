@@ -1,16 +1,16 @@
 # Categories home page navigation
 
-- title: Getting Started
+- title: Transporte o Rentar un auto
   desc: Get your account up and running in just few easy steps
   icon: settings
   doc: home
 
-- title: Account and Billing
+- title: City Tours
   desc: Managing your account, creating new users and exporting data
   icon: credit-card
   doc: frontmatter
 
-- title: Troubleshooting
+- title: Bares y Restaurantes 
   desc: Answers to most common configuration issues
   icon: cog
   doc: variables
