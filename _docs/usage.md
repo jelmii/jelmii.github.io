@@ -11,6 +11,7 @@ author:
 {:toc}
 
 Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
+<iframe name=miami src="https://www.booking.com/searchresults.en.html?city=20023181&aid=856525&no_rooms=1&group_adults=1" width=100% height=5500 frameborder="0" scrolling=yes marginwidth=2 marginheight=4 align=left>Tu navegador no soporta frames!!</iframe>
 
 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
 
