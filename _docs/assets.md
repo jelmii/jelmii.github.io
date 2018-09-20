@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Courtyard by Marriott Panama at Metromall Mall
+title: Courtyard by Marriott Panama at Metromall
 categories: [Getting Started, Troubleshooting]
 author: John Black
 tags: featured
