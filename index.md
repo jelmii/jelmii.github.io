@@ -1,24 +1,24 @@
 ---
 layout: home
 hero:
-    title: How Can We Help?
-    subtitle: Search or browse in depth articles and videos on everything Jekyll, from basic theme setup and hosting to customisation and development
+    title: ¿Buscas hoteles en Panamá?
+    subtitle: Permítenos ser tu amigo, o tal vez una guía que muchas veces necesitamos para realizar una buena elección, trabajamos con  hoteles de marca mundial, escríbenos y te ofreceremos espectaculares descuentos que no encontraras en ningún otro sitio web.
     image: imac.svg
     search: true
 categories:
     columns: 3
-    title: Browse Topics
-    subtitle: Get your answers fast, jump to most popular documentation content
+    title: Otros Servicios 
+    subtitle: Nos gusta la comodidad igual que a ti, por eso ofrecemos servicios complementarios los cuales te ayudaran a tener un viaje más placentero, tranquilo y seguro.
 featured:
-    title: Popular Articles
+    title: Lo más buscado
     tag: featured
 section:
-    title: Need More?
-    subtitle: This section displays optional page content lorem ipsum
+    title: Ayuda 24/7
+    subtitle: Si tienes alguna pregunta no dudes en escribirnos (WhatsApp) +507 6503-7188
 cta:
-    title: Didn't find an answer to your question?
-    subtitle: Get in touch with us for details on additional services and custom work pricing
-    button_text: Contact Us   
+    title: ¿No encontraste lo que estabas buscando?
+    subtitle: Lo más importante para nosotros es que juntos encontremos una solución, bríndanos más información de lo que buscas.
+    button_text: Contáctanos   
     button_url: /contact/  
 ---
 
