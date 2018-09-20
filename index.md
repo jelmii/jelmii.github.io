@@ -10,13 +10,13 @@ categories:
     title: Otros Servicios 
     subtitle: Nos gusta la comodidad igual que a ti, por eso ofrecemos servicios complementarios los cuales te ayudaran a tener un viaje más placentero, tranquilo y seguro.
 featured:
-    title: Popular Articles
+    title: Lo más buscado
     tag: featured
 section:
     title: Need More?
     subtitle: This section displays optional page content lorem ipsum
 cta:
-    title: Didn't find an answer to your question?
+    title: ¿No encontraste lo que estabas buscando?
     subtitle: Get in touch with us for details on additional services and custom work pricing
     button_text: Contact Us   
     button_url: /contact/  
