@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Cancelling a website subscription
+title: New York, New York State, USA
 subtitle: Vestibulum ante ipsum primis orci luctus et ultrices posuere cubilia Curae.
 tags: featured
 ---
