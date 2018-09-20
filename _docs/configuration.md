@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Purchasing domain name and DNS setup
+title: Bocas del Toro, Panamá
 subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
 author:
 tags: othertag
