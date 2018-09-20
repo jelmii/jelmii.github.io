@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: ¿Cuantos Aeropuertos tienes Panamá?
+title: ¿Cuantos aeropuertos tiene la ciudad de Panamá?
 subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
 author:
 tags: featured
@@ -15,7 +15,7 @@ Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendiss
 
 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
 
-## Image Lightbox Example
+## Aeropuerto Tocumen
 Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
 
 {% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
