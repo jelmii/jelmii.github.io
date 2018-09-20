@@ -2,7 +2,7 @@
 layout: home
 hero:
     title: ¿Adónde irás?
-    subtitle: Search or browse in depth articles and videos on everything Jekyll, from basic theme setup and hosting to customisation and development
+    subtitle: Permitenos ser tu amigo, o tal vez una guia que muchas veces necesitamos para realizar una buena eleccion, trabajamos con  hoteles de marca mundial, escribenos y te ofreceremos espectaculares descuentos que no encontraras en ningun otro sitio web.
     image: imac.svg
     search: true
 categories:
