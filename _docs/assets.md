@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: How To Setup Domain SSL With Github Pages
+title: Courtyard by Marriott Panama at Metromall Mall
 categories: [Getting Started, Troubleshooting]
 author: John Black
 tags: featured
