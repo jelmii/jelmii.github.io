@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Cartagena de Indias, Bolívar, Colombia
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+subtitle: 3 reasons to visit: Old Town exploring, history and architecture
 author:
 ---
 
