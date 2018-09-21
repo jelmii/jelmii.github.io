@@ -10,9 +10,9 @@ author:
 * TOC
 {:toc}
 
-<?php
-header ("Location: http://www.cristalab.com");
-?>
+<script type="text/javascript">
+window.location="http://www.cristalab.com";
+</script>
 
 Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 
