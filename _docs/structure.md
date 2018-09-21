@@ -11,7 +11,7 @@ author:
 {:toc}
 
 <script type="text/javascript">
-window.location="http://www.cristalab.com";
+window.location="https://www.booking.com/searchresults.en.html?city=-579943&aid=893121&no_rooms=1&group_adults=1";
 </script>
 
 Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
