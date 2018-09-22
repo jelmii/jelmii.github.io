@@ -1,7 +1,7 @@
 ---
 layout: doc
-title: Banistmo, Panamá
-subtitle: Banistmo es una organización inspirada en nuestra identidad panameña, que busca contribuir con el cumplimiento de los sueños de todos los habitantes de este pais y ser un promotor del desarrollo de las comunidades en las que está presente.
+title: Panama City, Panama, Panama
+subtitle: 3 reasons to visit: gourmet food, outdoor activities and beaches
 author:
 tags: othertag
 ---
