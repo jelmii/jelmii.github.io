@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Playa Blanca, Coclé, Panamá
+title: Estados Unidos
 categories: [Getting Started, Troubleshooting]
 author: John Black
 tags: featured
