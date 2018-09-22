@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Bogotá, Colombia
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+subtitle: 3 reasons to visit: museums, culture and food.
 tags: othertag
 author:
 ---
