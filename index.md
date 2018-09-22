@@ -1,8 +1,8 @@
 ---
 layout: home
 hero:
-    title: ¿Buscas un banco?
-    subtitle: Permítenos ser tu amigo o, tal vez esa guía que necesitamos para tomar una buena decisión.
+    title: ¿Qué estas buscando?
+    subtitle: Permítenos ayudarte a encontrar los que buscas en Panamá 
   
     search: true
 categories:
