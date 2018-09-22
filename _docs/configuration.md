@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Banistmo, Panamá
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+subtitle: Banistmo es una organización inspirada en nuestra identidad panameña, que busca contribuir con el cumplimiento de los sueños de todos los habitantes de este pais y ser un promotor del desarrollo de las comunidades en las que está presente.
 author:
 tags: othertag
 ---
