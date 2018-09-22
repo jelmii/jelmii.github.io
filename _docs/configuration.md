@@ -12,7 +12,29 @@ tags: othertag
 {:toc}
 
 Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
-
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Field</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">First column **fields**</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+</tr>
+<tr>
+<td markdown="span">Second column **fields**</td>
+<td markdown="span">Some more descriptive text.
+</td>
+</tr>
+</tbody>
+</table>
 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
 
 ## Image Lightbox Example
