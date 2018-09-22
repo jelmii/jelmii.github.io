@@ -2,7 +2,7 @@
 layout: home
 hero:
     title: ¿Buscas un banco?
-    subtitle: Permítenos ser tu amigo, o tal vez una guía que muchas veces necesitamos para realizar una buena elección, trabajamos con  hoteles de marca mundial, escríbenos y te ofreceremos espectaculares descuentos que no encontraras en ningún otro sitio web.
+    subtitle: Permítenos ser tu amigo, o tal vez una guía que muchas veces necesitamos para realizar una buena elección.
   
     search: true
 categories:
