@@ -14,8 +14,9 @@ tags: featured
 Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 
 <tr><td>
+<img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/89356115.jpg?k=770b5922ba19430b41d3b5b46d44f9064da755dacd49d2c37e28d493cee2a18d&o=" alt="" ></td><td>
 <img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/89356115.jpg?k=770b5922ba19430b41d3b5b46d44f9064da755dacd49d2c37e28d493cee2a18d&o=" alt="" ></td>
-<td>Tryp by Wyndham Panama Centro is located 1 km away from Panama town centre and 10 minutes’ drive from Panama International Airport. It features an outdoor pool, fitness center and a rooftop with city views.Air-conditioned rooms offer free WiFi, a work desk, ironing facilities, flat-screen cable TV and a coffe maker. All rooms also have a mini fridge. The bathroom is private and has a hairdryer, shower and free toiletries. All of the rooms have city views.</td>
+Tryp by Wyndham Panama Centro is located 1 km away from Panama town centre and 10 minutes’ drive from Panama International Airport. It features an outdoor pool, fitness center and a rooftop with city views.Air-conditioned rooms offer free WiFi, a work desk, ironing facilities, flat-screen cable TV and a coffe maker. All rooms also have a mini fridge. The bathroom is private and has a hairdryer, shower and free toiletries. All of the rooms have city views.<tr>
 
 
 
