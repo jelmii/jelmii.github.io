@@ -12,6 +12,12 @@ tags: featured
 {:toc}
 
 Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
+<table  align="center" width="*%" border=1 frame="box" rules="all" cellspacing=1 cellpadding=1>
+<tr><td>
+<img src="http://www.forosdelweb.com/images/buttons/reply.gif" alt="" ></td>
+<td>Esto es una prueba para poner texto al lado de una imagen. <br>Pero no se como hacer que el texto se alinee en la parte de arriba<br> y no en la de abajo</td>
+</tr></table> 
+
 <i class="fa fa-camera-retro fa-2x"></i> fa-2x
 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
 
