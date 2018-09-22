@@ -2,7 +2,7 @@
 layout: home
 hero:
     title: ¿Buscas un banco?
-    subtitle: Permítenos ser tu amigo o, tal vez esa guía que muchas veces necesitamos para tomar una buena elección.
+    subtitle: Permítenos ser tu amigo o, tal vez esa guía que necesitamos para tomar una buena decisión.
   
     search: true
 categories:
