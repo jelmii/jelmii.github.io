@@ -12,7 +12,7 @@ tags: othertag
 {:toc}
 
 Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
-<iframe src="https://www.booking.com/index.html?aid=893121" width="100%" height="100%"></iframe>
+<iframe src="pagina_fuente.html" width=290 height=250>Texto para cuando el navegador no conoce la etiqueta iframe</iframe>
 
 
 <table>
