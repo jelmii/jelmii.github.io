@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Bocas del Toro, Panamá
+title: Banistmo, Panamá
 subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
 author:
 tags: othertag
