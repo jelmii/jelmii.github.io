@@ -12,13 +12,9 @@ tags: featured
 {:toc}
 
 
-## Allbank Corp
+## [Allbank Corp](https://www.allbank.com.pa)
 Habiendo realizado estudios y análisis exhaustivos del mercado Panameño, el pasado 13 de Julio 2012 ALLBANK Corp., inicio operaciones en Panamá, una Institución cuya Misión es ofrecer productos y servicios financieros con el mayor valor agregado hacia nuestros clientes.
-[Allbank Corp](https://www.allbank.com.pa/)
 
-```
-## Allbank Corp
-Habiendo realizado estudios y análisis exhaustivos del mercado Panameño, el pasado 13 de Julio 2012 ALLBANK Corp., inicio operaciones en Panamá, una Institución cuya Misión es ofrecer productos y servicios financieros con el mayor valor agregado hacia nuestros clientes.
-[Allbank Corp](https://www.allbank.com.pa/)
-```
+## [Banco Aliado](https://www.bancoaliado.com)
+Somos una institución joven, ágil, moderna, abierta a los constantes cambios a los que está sujeto el mundo, y esta industria, con una estructura sencilla y transparente; pero sobre sólidas bases, como son su patrimonio, la experiencia de su equipo gerencial, y vocación de servicio de todos y cada uno de nuestros colaboradores.
 
