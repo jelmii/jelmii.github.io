@@ -6,7 +6,7 @@ author:
 tags: featured
 ---
 
-#### Sections in this article
+#### Resultados encontrados
 {:.no_toc}
 * TOC
 {:toc}
