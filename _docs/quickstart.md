@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Bancos, Panamá
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+subtitle: Exiten mas de 53 bancos en Panamá reportados por la Superintendencia de Bancos de Panamá.
 author:
 tags: featured
 ---
