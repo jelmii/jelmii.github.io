@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Bancos, Panamá
-subtitle: Exiten mas de 53 bancos en Panamá reportados por la Superintendencia de Bancos de Panamá.
+subtitle: Exiten 53 bancos reportados por la Superintendencia de Bancos de Panamá.
 author:
 tags: featured
 ---
