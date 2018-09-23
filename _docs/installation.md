@@ -5,4 +5,4 @@ subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imp
 author:
 tags: featured
 ---
-<iframe src="https://www.booking.com/hotel/ar/sheraton-libertador-buenos-aires.en.html?aid=893121&no_rooms=1&group_adults=1" width="50%" height="8000"></iframe>
+<iframe src="https://www.booking.com/hotel/ar/sheraton-libertador-buenos-aires.en.html?aid=893121&no_rooms=1&group_adults=1" width="90%" height="8000"></iframe>
