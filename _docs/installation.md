@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: What is a 'Broker'
+title: Banistmo, Panamá
 subtitle: A broker is an individual or firm that charges a fee or commission for executing buy and sell orders submitted by an investor. A broker also refers to the role of a firm when it acts as an agent for a customer and charges the customer a commission for its services.
 author:
 tags: othertag
@@ -16,11 +16,9 @@ Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendiss
 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
 
 ## Image Lightbox Example
-Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
 
-{% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
+<iframe src="https://drive.google.com/file/d/1JsMLAHXBFV6lfH76oTUyfgNr-C8vRgUQ/preview" width="100%" height="480"></iframe>
 
-Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
 
 ## Example Of Code Block
 In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
