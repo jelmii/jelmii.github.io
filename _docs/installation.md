@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Avicii, Wake Me Up
-subtitle: Banistmo inicio operaciones en 1984 y mediante crecimiento orgánico y varias fusiones y adquisiciones se transformó en uno de los bancos más grandes de Panamá Durante ese tiempo.
+subtitle: 
 author:
 tags: featured
 ---
@@ -12,9 +12,13 @@ tags: featured
 {:toc}
 
 
-La siguiente información se basa en un estudio realizado por Fitch Ratings, es un proveedor líder de calificaciones crediticias, comentarios e investigación. bankhing.con hace uso de esta información pública para compartirla con nuestros visitantes, para mayor información visite: [fitchratings.com](https://www.fitchratings.com)
-
-## Informe de Calificación
+## Avicii, Wake Me Up
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/IcrbM1l_BoI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+<center>Feeling my way through the darkness
+Guided by a beating heart
+I can't tell where the journey will end
+But I know where to start</center>
 
