@@ -2,7 +2,7 @@
 layout: home
 hero:
     title: Bankhing
-    subtitle: Una manera distinta de entender a los bancos
+    subtitle: Bankhing te ayuda a comprender conceptos financieros complejos, mejorar sus habilidades de inversión, adquisición de crédito y aprender a administrar su dinero.
   
     search: true
 categories:
