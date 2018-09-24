@@ -1,8 +1,8 @@
 ---
 layout: doc
-title: Banistmo, Panama
-subtitle: Banistmo inicio operaciones en 1984 y mediante crecimiento orgánico y varias fuciones y adquisiciones se transformó en uno de los bancos mas grandes de Panamá. Durente este tiempo, el banco ha sido propiedad de empresas locales (hasta 2006) y bancos extranjeros: HSBC Holdings (2006-2013) y Bancolombia (desde cotubre 2016).
-author: Fitch
+title: Banistmo, Panamá
+subtitle: Banistmo inicio operaciones
+author:
 tags: featured
 ---
 
