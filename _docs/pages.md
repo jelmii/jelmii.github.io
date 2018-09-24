@@ -1,46 +1,73 @@
 ---
 layout: doc
-title: Santiago, Región Metropolitana, Chile
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-author:
-tags: othertag
+title: Ed Sheeran, Galway Girl
+subtitle: 
+author: Ed Sheeran
+tags: featured
 ---
 
-#### Sections in this article
-{:.no_toc}
-* TOC
-{:toc}
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/87gWaABqGYs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
+<center>She played the fiddle in an Irish band
+But she fell in love with an English man
+Kissed her on the neck and then I took her by the hand
+Said, "Baby, I just want to dance"</center>
 
-## Image Lightbox Example
-Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
+<center>I met her on Grafton street right outside of the bar
+She shared a cigarette with me while her brother played the guitar
+She asked me what does it mean the Gaelic ink on your arm?
+Said it was one of my friend's songs do you want to drink on?</center>
 
-{% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
+<center>She took Jamie as a chaser, Jack for the fun
+She got Arthur on the table, with Johnny riding as shot gun
+Chatted some more, one more drink at the bar
+Then put Van on the jukebox, got up to dance, you know</center>
 
-Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
+<center>She played the fiddle in an Irish band
+But she fell in love with an English man
+Kissed her on the neck and then I took her by the hand
+Said, "Baby, I just want to dance"</center>
 
-## Example Of Code Block
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+<center>With my pretty little Galway Girl
+You're my pretty little Galway Girl</center>
 
-```html
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  <link rel="shortcut icon" type="image/png" href="{{ "assets/img/favicon.png" | relative_url }}" >
-  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
-</head>
-```
+<center>You know she beat me at darts and then she beat me at pool
+And then she kissed me like there was nobody else in the room
+As last orders were called, was when she stood on the stool
+After dancing to Cèilidh, singing to trad tunes
+I never heard Carrickfergus ever sung so sweet
+Acapella in the bar using her feet for a beat
+Oh I could have that voice playing on repeat for a week
+And in this packed out room, swear she was singing to me, you know</center>
 
-## Text and Quote
-Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
+<center>She played the fiddle in an Irish band
+But she fell in love with an English man
+Kissed her on the neck and then I took her by the hand
+Said, "Baby, I just want to dance"</center>
 
-> Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet
+<center>My pretty little Galway girl
+My my my my my my my Galway girl
+My my my my my my my Galway girl
+My my my my my my my Galway girl</center>
 
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+<center>Now we've outstayed our welcome and it's closing time
+I was holding her hand, her hand was holding mine
+Our coats both smell of smoke, whisky and wine
+As we fill up our lungs with the cold air of the night</center>
 
-Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.
+<center>I walked her home then she took me inside
+Finish some Doritos and another bottle of wine
+I swear I'm going to put you in a song that I write
+About a Galway girl and a perfect night</center>
+
+<center>I walked her home then she took me inside
+Finish some Doritos and another bottle of wine
+I swear I'm going to put you in a song that I write
+About a Galway girl and a perfect night</center>
+
+<center>My pretty little Galway girl
+My my my my my my my Galway girl
+My my my my my my my Galway girl
+My my my my my my my Galway girl</center>
+
