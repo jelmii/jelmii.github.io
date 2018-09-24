@@ -1,12 +1,12 @@
 # Navbar menu navigation links
-- title: Help
+- title: Ayuda
   url: /
 
-- title: News
+- title: Noticias
   url: /news/
 
-- title: Changelog
+- title: Bolsa
   url: /changelog/
 
-- title: Contact
+- title: Contacto
   url: /contact/
