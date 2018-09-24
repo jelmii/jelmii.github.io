@@ -2,7 +2,7 @@
 layout: doc
 title: Ed Sheeran, Photograph
 subtitle: 
-author: Avicii
+author: Ed Sheeran
 tags: featured
 ---
 
