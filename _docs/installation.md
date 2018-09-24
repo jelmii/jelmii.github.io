@@ -11,9 +11,9 @@ tags: othertag
 * TOC
 {:toc}
 
-la siguiente informacion se baba en el estudio realizado por Fitch Ratings, es una corporación financiera cuyas divisiones incluyen Fitch Solutions, Fitch learning y BMI Research. Fitch Ratings es una agencia internacional de calificación crediticia de doble sede en Nueva York y Londres.
+La siguiente informacion se basa en un estudio realizado por Fitch Ratings, es una corporación financiera cuyas divisiones incluyen Fitch Solutions, Fitch learning y BMI Research. Fitch Ratings es una agencia internacional de calificación crediticia de doble sede en Nueva York y Londres.
 
-Fitch Ratings es un proveedor líder de calificaciones crediticias, comentarios e investigación. Dedicado a proporcionar valor más allá de la calificación a través de opiniones de crédito independientes y prospectivas, Fitch Ratings ofrece perspectivas globales moldeadas por la sólida experiencia del mercado local y la experiencia del mercado crediticio. El contexto adicional, la perspectiva y los conocimientos que brindamos han ayudado a los inversores a financiar un siglo de crecimiento y emitir juicios crediticios importantes con confianza. para mayor información visite: [fitchratings.com](https://www.fitchratings.com)
+Fitch Ratings es un proveedor líder de calificaciones crediticias, comentarios e investigación. Dedicado a proporcionar valor más allá de la calificación a través de opiniones de crédito independientes y prospectivas, bankhing.con no espropietario ni responsable de dicha infomacion, nos limitamos a comparitrla para el buen uso de nuestros visitantes, para mayor información visite: [fitchratings.com](https://www.fitchratings.com)
 
 ## Informe de Calificación
 
