@@ -6,7 +6,7 @@ author: Ed Sheeran
 tags: featured
 ---
 
-<iframe width="560" height="415" src="https://www.youtube.com/embed/JGwWNGJdvx8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/JGwWNGJdvx8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 <center>The club isn't the best place to find a lover
