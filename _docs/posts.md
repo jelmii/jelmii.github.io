@@ -1,46 +1,72 @@
 ---
 layout: doc
-title: Quito, Ecuador
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-author:
+title: Ed Sheeran, Dive
+subtitle: 
+author: Ed Sheeran
 tags: featured
 ---
 
-#### Sections in this article
-{:.no_toc}
-* TOC
-{:toc}
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/Wv2rLZmbPMA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
+<center>Maybe I came on too strong
+Maybe I waited too long
+Maybe I played my cards wrong
+Oh just a little bit wrong
+Baby I apologise for it</center>
 
-## Image Lightbox Example
-Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
+<center>I could fall or I could fly
+Here in your aeroplane
+And I could live, I could die
+Hanging on the words you say
+I've been known to give my all
+And jumping in harder than
+10,000 rocks on the lake</center>
 
-{% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
+<center>So don't call me baby
+Unless you mean it
+And don't tell me you need me
+If you don't believe it
+So let me know the truth
+Before I dive right into you</center>
 
-Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
+<center>You're a mystery
+I have travelled the world
+And there's no other girl like you, no one
+What's your history?
+Do you have a tendency to lead some people on?
+Cause I heard you do</center>
 
-## Example Of Code Block
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+<center>I could fall or I could fly
+Here in your aeroplane
+And I could live, I could die
+Hanging on the words you say
+And I've been known to give my all
+And lie awake, every day
+Don't know how much I can take</center>
 
-```html
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  <link rel="shortcut icon" type="image/png" href="{{ "assets/img/favicon.png" | relative_url }}" >
-  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
-</head>
-```
+<center>So don't call me baby
+Unless you mean it
+And don't tell me you need me
+If you don't believe it
+So let me know the truth
+Before I dive right into you</center>
 
-## Text and Quote
-Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
+<center>I could fall or I could fly
+Here in your aeroplane
+I could live, I could die
+Hanging on the words you say
+I've been known to give my all
+Sitting back, looking at
+Every mess that I made</center>
 
-> Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet
+<center>So don't call me baby
+Unless you mean it
+And don't tell me you need me
+If you don't believe it
+let me know the truth
+Before I dive right into you
+Before I dive right into you
+Before I dive right into you</center>
 
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
 
-Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.
