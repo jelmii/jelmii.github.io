@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Banistmo, Panamá
-subtitle: Banistmo inicio operaciones
+subtitle: Banistmo inició operaciones en 1984 y mediante crecimiento orgánico y varias fusiones y adquisiciones se transformó en uno de los bancos más grandes de Panamá. Durante este tiempo, el banco ha sido propiedad de empresarios locales (hasta 2006) y bancos extranjeros: HSBC Holdings (2006-2013) y Bancolombia (desde octubre 2013).
 author:
 tags: featured
 ---
@@ -14,33 +14,7 @@ tags: featured
 
 La siguiente información se basa en un estudio realizado por Fitch Ratings, es un proveedor líder de calificaciones crediticias, comentarios e investigación. bankhing.con hace uso de esta información pública para compartirla con nuestros visitantes, para mayor información visite: [fitchratings.com](https://www.fitchratings.com)
 
-## Factores Clave de las Calificaciones
+## Informe de Calificación
 
-<iframe src="https://drive.google.com/file/d/1JsMLAHXBFV6lfH76oTUyfgNr-C8vRgUQ/preview" width="100%" height="480"></iframe>
-
-
-## Sensibilidad de las Calificaciones
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
-
-```html
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  <link rel="shortcut icon" type="image/png" href="{{ "assets/img/favicon.png" | relative_url }}" >
-  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
-</head>
-```
-
-## Entorno Operativo
-Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
-
-> Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet
-
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
-
-Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.
-
-## Perfil de la Empresa
+<iframe src="https://drive.google.com/file/d/1JsMLAHXBFV6lfH76oTUyfgNr-C8vRgUQ/preview" width="640" height="1480"></iframe>
 
