@@ -1,47 +1,84 @@
 ---
 layout: doc
-title: Bogotá, Colombia
-subtitle: 3 reasons to visit: museums, culture and food.
-tags: othertag
-author:
+title: Ed Sheeran, Photograph
+subtitle: 
+author: Avicii
+tags: featured
 ---
-<iframe src="https://www.booking.com/searchresults.en.html?city=-578472&aid=893121&no_rooms=1&group_adults=1" width="100%" height="100%"></iframe>
 
-#### Sections in this article
-{:.no_toc}
-* TOC
-{:toc}
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/nSDgHBxUbVQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
+<center>Loving can hurt
+Loving can hurt sometimes
+But it's the only thing that I know
+When it gets hard
+You know it can get hard sometimes
+It is the only thing that makes us feel alive</center>
 
-## Image Lightbox Example
-Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
+<center>We keep this love in a photograph
+We made these memories for ourselves
+Where our eyes are never closing
+Hearts are never broken
+Times forever frozen still
+</center>
 
-{% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
+<center>So you can keep me
+Inside the pocket
+Of your ripped jeans
+Holdin' me closer
+'Til our eyes meet
+You won't ever be alone
+Wait for me to come home</center>
 
-Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
+<center>Loving can heal
+Loving can mend your soul
+And it's the only thing that I know (know)
+I swear it will get easier
+Remember that with every piece of ya
+And it's the only thing we take with us when we die</center>
 
-## Example Of Code Block
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+<center>We keep this love in this photograph
+We made these memories for ourselves
+Where our eyes are never closing
+Hearts were never broken
+Times forever frozen still</center>
 
-```html
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  <link rel="shortcut icon" type="image/png" href="{{ "assets/img/favicon.png" | relative_url }}" >
-  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
-</head>
-```
+<center>So you can keep me
+Inside the pocket
+Of your ripped jeans
+Holdin' me closer
+'Til our eyes meet
+You won't ever be alone</center>
 
-## Text and Quote
-Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
+<center>And if you hurt me
+That's OK, baby, only words bleed
+Inside these pages you just hold me
+And I won't ever let you go</center>
 
-> Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet
+<center>Wait for me to come home [4x]</center>
 
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+<center>Oh you can fit me
+Inside the necklace you got when you were 16
+Next to your heartbeat
+Where I should be
+Keep it deep within your soul</center>
 
-Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.
+<center>And if you hurt me
+Well, that's OK, baby, only words bleed
+Inside these pages you just hold me
+And I won't ever let you go</center>
+<center>When I'm away
+I will remember how you kissed me
+Under the lamppost
+Back on 6th street
+Hearing you whisper through the phone,
+"Wait for me to come home."</center>
+<center></center>
+<center></center>
+<center></center>
+
+
+
+
+
