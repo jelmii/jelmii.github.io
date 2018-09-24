@@ -1,50 +1,114 @@
 ---
 layout: doc
-title: ¿Qué es un dividendo?
-subtitle: A dividend is a distribution of a portion of a company's earnings, decided by the board of directors, paid to a class of its shareholders. Dividends can be issued as cash payments, as shares of stock, or other property..
-author:
+title: Ed Sheeran, Shape Of You
+subtitle: 
+author: Ed Sheeran
 tags: featured
 ---
 
-#### Sections in this article
-{:.no_toc}
-* TOC
-{:toc}
-
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
+<iframe width="560" height="415" src="https://www.youtube.com/embed/JGwWNGJdvx8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
+<center>The club isn't the best place to find a lover
+So the bar is where I go (mmmm)
+Me and my friends at the table doing shots
+Drinking fast and then we talk slow (mmmm)
+And you come over and start up a conversation with just me
+And trust me I'll give it a chance now (mmmm)
+Take my hand, stop, put Van The Man on the jukebox
+And then we start to dance
+And now I'm singing like</center>
 
+<center>Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, boy, let's not talk too much
+Grab on my waist and put that body on me
+Come on now, follow my lead
+Come, come on now, follow my lead (mmmm)</center>
 
+<center>I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body
+Last night you were in my room
+And now my bedsheets smell like you
+Every day discovering something brand new
+I'm in love with your body</center>
 
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
+<center>Oh I oh I oh I oh I
+I'm in love with your body
+Oh I oh I oh I oh I
+I'm in love with your body
+Oh I oh I oh I oh I
+I'm in love with your body
+Every day discovering something brand new
+I'm in love with the shape of you</center>
 
-## Image Lightbox Example
-Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
+<center>One week in we let the story begin
+We're going out on our first date (mmmm)
+You and me are thrifty, so go all you can eat
+Fill up your bag and I fill up a plate (mmmm)
+We talk for hours and hours about the sweet and the sour
+And how your family is doing okay (mmmm)
+And leave and get in a taxi, then kiss in the backseat
+Tell the driver make the radio play
+And I'm singing like</center>
 
-{% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
+<center>Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, boy, let's not talk too much
+Grab on my waist and put that body on me
+Come on now, follow my lead
+Come, come on now, follow my lead (mmmm)</center>
 
-Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
+<center>I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body
+Last night you were in my room
+And now my bedsheets smell like you
+Every day discovering something brand new
+I'm in love with your body</center>
 
-## Example Of Code Block
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+<center>Oh I oh I oh I oh I
+I'm in love with your body
+Oh I oh I oh I oh I
+I'm in love with your body
+Oh I oh I oh I oh I
+I'm in love with your body
+Every day discovering something brand new
+I'm in love with the shape of you</center>
 
-```html
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  <link rel="shortcut icon" type="image/png" href="{{ "assets/img/favicon.png" | relative_url }}" >
-  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
-</head>
-```
+<center>Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on</center>
 
-## Text and Quote
-Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
+<center>I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body
+Last night you were in my room
+And now my bedsheets smell like you
+Every day discovering something brand new
+I'm in love with your body</center>
 
-> Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet
-
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
-
-Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.
+<center>Come on, be my baby, come on
+Come on, be my baby, come on
+I'm in love with your body
+Come on, be my baby, come on
+Come on, be my baby, come on
+I'm in love with your body
+Come on, be my baby, come on
+Come on, be my baby, come on
+I'm in love with your body
+Every day discovering something brand new
+I'm in love with the shape of you</center>
