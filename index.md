@@ -1,8 +1,8 @@
 ---
 layout: home
 hero:
-    title: ¿Qué estas buscando?
-    subtitle: Permítenos ayudarte a encontrar los que buscas en Panamá 
+    title: Bankhing
+    subtitle: Una manera distinta de entender a los bancos
   
     search: true
 categories:
