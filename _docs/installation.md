@@ -1,7 +1,7 @@
 ---
 layout: doc
-title: Quito, Ecuador
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+title: Banistmo, Panamá
+subtitle: Banistmo inicio operaciones en 1984 y mediante crecimiento orgánico y varias fusiones y adquisiciones se transformó en uno de los bancos más grandes de Panamá Durante ese tiempo, el banco ha sido propiedad de empresarios locales (hasta 2006) y bancos extranjeros.
 author:
 tags: featured
 ---
