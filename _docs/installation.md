@@ -6,8 +6,6 @@ author: Avicii
 tags: featured
 ---
 
-## Avicii, Wake Me Up
-
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/IcrbM1l_BoI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
@@ -16,3 +14,42 @@ Guided by a beating heart
 I can't tell where the journey will end
 But I know where to start</center>
 
+<center>They tell me I'm too young to understand
+They say I'm caught up in a dream
+Well, life will pass me by if I don't open up my eyes
+Well, that's fine by me</center>
+
+<center>So wake me up when it's all over
+When I'm wiser and I'm older
+All this time I was finding myself
+And I didn't know I was lost</center>
+
+<center>So wake me up when it's all over
+When I'm wiser and I'm older
+All this time I was finding myself
+And I didn't know I was lost</center>
+
+<center>I tried carrying the weight of the world
+But I only have two hands
+I hope I get the chance to travel the world
+But I don't have any plans</center>
+
+<center>I wish that I could stay forever this young
+Not afraid to close my eyes
+Life's a game made for everyone
+And love is the prize</center>
+
+<center>So wake me up when it's all over
+When I'm wiser and I'm older
+All this time I was finding myself
+And I didn't know I was lostt</center>
+
+<center>So wake me up when it's all over
+When I'm wiser and I'm older
+All this time I was finding myself
+And I didn't know I was lost</center>
+
+<center>I didn't know I was lost
+I didn't know I was lost
+I didn't know I was lost
+I didn't know (didn't know)</center>
