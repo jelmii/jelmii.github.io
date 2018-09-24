@@ -2,15 +2,9 @@
 layout: doc
 title: Avicii, Wake Me Up
 subtitle: 
-author:
+author: Avicii
 tags: featured
 ---
-
-#### Sections in this article
-{:.no_toc}
-* TOC
-{:toc}
-
 
 ## Avicii, Wake Me Up
 
