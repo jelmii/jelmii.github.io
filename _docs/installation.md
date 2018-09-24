@@ -11,9 +11,9 @@ tags: othertag
 * TOC
 {:toc}
 
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
+la siguiente informacion se baba en el estudio realizado por Fitch Ratings, es una corporación financiera cuyas divisiones incluyen Fitch Solutions, Fitch learning y BMI Research. Fitch Ratings es una agencia internacional de calificación crediticia de doble sede en Nueva York y Londres.
 
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
+Fitch Ratings es un proveedor líder de calificaciones crediticias, comentarios e investigación. Dedicado a proporcionar valor más allá de la calificación a través de opiniones de crédito independientes y prospectivas, Fitch Ratings ofrece perspectivas globales moldeadas por la sólida experiencia del mercado local y la experiencia del mercado crediticio. El contexto adicional, la perspectiva y los conocimientos que brindamos han ayudado a los inversores a financiar un siglo de crecimiento y emitir juicios crediticios importantes con confianza. para mayor información visite: [fitchratings.com](https://www.fitchratings.com)
 
 ## Informe de Calificación
 
