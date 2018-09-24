@@ -1,47 +1,62 @@
 ---
 layout: doc
-title: Cartagena de Indias, Bolivar, Colombia
-subtitle: 3 reasons to visit: Old Town exploring, history and architecture
-author:
-tags: othertag
----
-
-#### Sections in this article
-{:.no_toc}
-* TOC
-{:toc}
-
----
-layout: doc
-title: Estados Unidos
-categories: [Getting Started, Troubleshooting]
-author: John Black
+title: Ed Sheeran, Thinking Out Loud
+subtitle: 
+author: Avicii
 tags: featured
 ---
 
-#### Sections in this article
-{:.no_toc}
-* TOC
-{:toc}
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/lp-EO5I60KA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe src="https://www.booking.com/searchresults.en.html?city=-579943&aid=893121&no_rooms=1&group_adults=1" width="100%" height="5000"></iframe>
+<center>When your legs don't work like they used to before
+And I can't sweep you off of your feet
+Will your mouth still remember the taste of my love?
+Will your eyes still smile from your cheeks?</center>
 
+<center>And, darling, I will be loving you 'til we're 70
+And, baby, my heart could still fall as hard at 23
+And I'm thinking 'bout how people fall in love in mysterious ways
+Maybe just the touch of a hand
+Well, me—I fall in love with you every single day
+And I just wanna tell you I am</center>
 
+<center>So, honey, now
+Take me into your loving arms
+Kiss me under the light of a thousand stars
+Place your head on my beating heart
+I'm thinking out loud
+Maybe we found love right where we are
+</center>
 
+<center>When my hair's all but gone and my memory fades
+And the crowds don't remember my name
+When my hands don't play the strings the same way (mmm...)
+I know you will still love me the same</center>
 
+<center>'Cause, honey, your soul could never grow old, it's evergreen
+And, baby, your smile's forever in my mind and memory
+I'm thinking 'bout how people fall in love in mysterious ways
+Maybe it's all part of a plan
+Well, I'll just keep on making the same mistakes
+Hoping that you'll understand</center>
 
-## Text and Quote
-Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
+<center>That, baby, now
+Take me into your loving arms
+Kiss me under the light of a thousand stars
+Place your head on my beating heart
+Thinking out loud
+Maybe we found love right where we are (oh, oh)</center>
 
-> Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet
+<center>La, la, la, la, la, la, la, la, lo-ud</center>
 
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
-
-Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.
-
-<iframe src="https://www.booking.com/index.html?aid=893121" width="100%" height="5000"></iframe>
-
-
+<center>So, baby, now
+Take me into your loving arms
+Kiss me under the light of a thousand stars
+Oh, darling, place your head on my beating heart
+I'm thinking out loud
+But maybe we found love right where we are
+Oh, baby, we found love right where we are
+And we found love right where we are</center>
 
 
 
