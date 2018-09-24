@@ -2,7 +2,7 @@
 layout: doc
 title: Ed Sheeran, Thinking Out Loud
 subtitle: 
-author: Avicii
+author: Ed Sheeran
 tags: featured
 ---
 
