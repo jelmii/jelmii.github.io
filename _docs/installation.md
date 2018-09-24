@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Quito, Ecuador
-subtitle: Banistmo inició operaciones en 1984 y mediante crecimiento orgánico y varias fusiones y adquisiciones se transformó en uno de los bancos más grandes de Panamá. Durante este tiempo, el banco ha sido propiedad de empresarios locales (hasta 2006) y bancos extranjeros: HSBC Holdings (2006-2013) y Bancolombia (desde octubre 2013).
+subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
 author:
 tags: featured
 ---
@@ -10,6 +10,7 @@ tags: featured
 {:.no_toc}
 * TOC
 {:toc}
+
 
 La siguiente información se basa en un estudio realizado por Fitch Ratings, es un proveedor líder de calificaciones crediticias, comentarios e investigación. bankhing.con hace uso de esta información pública para compartirla con nuestros visitantes, para mayor información visite: [fitchratings.com](https://www.fitchratings.com)
 
