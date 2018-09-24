@@ -1,45 +1,101 @@
 ---
 layout: doc
-title: Miami, Florida, Estados Unidos
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-author:
+title: Ed Sheeran - The A Team
+subtitle: 
+author: Ed Sheeran
+tags: featured
 ---
 
-#### Sections in this article
-{:.no_toc}
-* TOC
-{:toc}
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/UAWcs5H-qgQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
+<center>White lips, pale face
+Breathing in snowflakes
+Burnt lungs, sour taste
+Light's gone, day's end
+Struggling to pay rent
+Long nights, strange men</center>
 
-## Image Lightbox Example
-Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
+<center>And they say
+She's in the Class A Team
+Stuck in her daydream
+Been this way since eighteen
+But lately her face seems
+Slowly sinking, wasting
+Crumbling like pastries
+And they scream
+The worst things in life come free to us
+'Cause we're just under the upper hand
+And go mad for a couple grams
+And she don't want to go outside tonight
+And in a pipe she flies to the Motherland
+Or sells love to another man
+It's too cold outside
+For angels to fly
+Angels to fly</center>
 
-{% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
+<center>Ripped gloves, raincoat
+Tried to swim and stay afloat
+Dry house, wet clothes
+Loose change, bank notes
+Weary-eyed, dry throat
+Call girl, no phone</center>
 
-Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
+<center>And they say
+She's in the Class A Team
+Stuck in her daydream
+Been this way since eighteen
+But lately her face seems
+Slowly sinking, wasting
+Crumbling like pastries
+And they scream
+The worst things in life come free to us
+'Cause we're just under the upper hand
+And go mad for a couple grams
+And she don't want to go outside tonight
+And in a pipe she flies to the Motherland
+Or sells love to another man
+It's too cold outside
+For angels to fly
+An angel will die
+Covered in white
+Closed eye
+And hoping for a better life
+This time, we'll fade out tonight
+Straight down the line</center>
 
-## Example Of Code Block
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+<center>And they say
+She's in the Class A Team
+Stuck in her daydream
+Been this way since eighteen
+But lately her face seems
+Slowly sinking, wasting
+Crumbling like pastries
+They scream
+The worst things in life come free to us
+And we're all under the upper hand
+Go mad for a couple grams
+And we don't want to go outside tonight
+And in a pipe we fly to the Motherland
+Or sell love to another man
+It's too cold outside
+For angels to fly
+Angels to fly
+To fly, fly
+For angels to fly, to fly, to fly
+For angels to die</center>
 
-```html
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  <link rel="shortcut icon" type="image/png" href="{{ "assets/img/favicon.png" | relative_url }}" >
-  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
-</head>
-```
+<center></center>
 
-## Text and Quote
-Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
+<center></center>
 
-> Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet
+<center></center>
 
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+<center></center>
 
-Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.
+<center></center>
+
+<center></center>
+
+<center></center>
+
