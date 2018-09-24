@@ -1,7 +1,7 @@
 ---
 layout: doc
-title: Panama City, Panamá, Panamá
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+title: ¿Qué es un dividendo?
+subtitle: A dividend is a distribution of a portion of a company's earnings, decided by the board of directors, paid to a class of its shareholders. Dividends can be issued as cash payments, as shares of stock, or other property..
 author:
 tags: featured
 ---
