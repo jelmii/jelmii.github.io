@@ -15,7 +15,7 @@ Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendiss
 
 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
 
-## Image Lightbox Example
+## Informe de Calificación
 
 <iframe src="https://drive.google.com/file/d/1JsMLAHXBFV6lfH76oTUyfgNr-C8vRgUQ/preview" width="100%" height="480"></iframe>
 
