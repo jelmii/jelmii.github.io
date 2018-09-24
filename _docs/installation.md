@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Banistmo, Panamá
+title: Avicii, Wake Me Up
 subtitle: Banistmo inicio operaciones en 1984 y mediante crecimiento orgánico y varias fusiones y adquisiciones se transformó en uno de los bancos más grandes de Panamá Durante ese tiempo.
 author:
 tags: featured
