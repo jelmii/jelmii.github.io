@@ -16,5 +16,5 @@ La siguiente información se basa en un estudio realizado por Fitch Ratings, es 
 
 ## Informe de Calificación
 
-<iframe src="https://drive.google.com/file/d/1JsMLAHXBFV6lfH76oTUyfgNr-C8vRgUQ/preview" width="640" height="1480"></iframe>
+<iframe src="https://drive.google.com/file/d/1JsMLAHXBFV6lfH76oTUyfgNr-C8vRgUQ/preview" width="640" height="2480"></iframe>
 
