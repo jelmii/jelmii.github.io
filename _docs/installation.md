@@ -1,7 +1,7 @@
 ---
 layout: doc
-title: Valparaiso, Chile
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+title: What is a 'Broker'
+subtitle: A broker is an individual or firm that charges a fee or commission for executing buy and sell orders submitted by an investor. A broker also refers to the role of a firm when it acts as an agent for a customer and charges the customer a commission for its services.
 author:
 tags: othertag
 ---
