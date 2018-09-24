@@ -13,10 +13,7 @@ tags: featured
 
 Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 
-<tr><td>
-<img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/89356115.jpg?k=770b5922ba19430b41d3b5b46d44f9064da755dacd49d2c37e28d493cee2a18d&o=" alt="" ></td><td>
-<img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/35468739.jpg?k=3802db0f4dcb96b9836a79e7cbd11f152895bc8790e6124095987e6d09bc2ed3&o=" alt="" ></td>
-<tr>
+
 
 
 
