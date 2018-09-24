@@ -1,23 +1,80 @@
 ---
 layout: doc
-title: Bancos, Panamá
-subtitle: Exiten 53 bancos reportados por la Superintendencia de Bancos de Panamá.
-author:
+title: Ed Sheeran, Give Me Love
+subtitle: 
+author: Ed Sheeran
 tags: featured
 ---
 
-#### Resultados encontrados
-{:.no_toc}
-* TOC
-{:toc}
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/FOjdXSrtUxA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+<center>Give me love like her,
+'Cause lately I've been waking up alone,
+Paint splattered teardrops on my shirt,
+Told you I'd let them go,</center>
 
-## [Allbank Corp](https://www.allbank.com.pa)
-Habiendo realizado estudios y análisis exhaustivos del mercado Panameño, el pasado 13 de Julio 2012 ALLBANK Corp., inicio operaciones en Panamá, una Institución cuya Misión es ofrecer productos y servicios financieros con el mayor valor agregado hacia nuestros clientes. (507) 307-8300 [Ver Mapa](https://www.google.com/maps/place/ALLBANK/@8.9797556,-79.5281407,15z/data=!4m5!3m4!1s0x0:0xb6e2b2e0214c9069!8m2!3d8.9797556!4d-79.5281407)
+<center>And that I'll fight my corner,
+Maybe tonight I'll call ya,
+After my blood turns into alcohol,
+No, I just wanna hold ya.</center>
 
+<center>Give a little time to me or burn this out,
+We'll play hide and seek to turn this around,
+All I want is the taste that your lips allow,
+My, my, my, my, oh give me love,
+My, my, my, my, oh give me love,
+My, my, my, my, oh give me love,
+My, my, my, my, oh give me love,
+My, my, my, my, give me love,</center>
 
-## [Banco Aliado](https://www.bancoaliado.com)
-Somos una institución joven, ágil, moderna, abierta a los constantes cambios a los que está sujeto el mundo, y esta industria, con una estructura sencilla y transparente; pero sobre sólidas bases, como son su patrimonio, la experiencia de su equipo gerencial, y vocación de servicio de todos y cada uno de nuestros colaboradores.
-(507) 302-1555 [Ver Mapa](https://www.google.com/maps/place/Banco+Aliado/@8.98367,-79.5229174,16.25z/data=!4m12!1m6!3m5!1s0x8faca8e323430179:0x68b22157d80c4957!2sBanco+Aliado!8m2!3d8.9835342!4d-79.5188033!3m4!1s0x8faca8e323430179:0x68b22157d80c4957!8m2!3d8.9835342!4d-79.5188033)
+<center>Give me love like never before,
+'Cause lately I've been craving more,
+And it's been a while but I still feel the same,
+Maybe I should let you go,</center>
 
+<center>You know I'll fight my corner,
+And that tonight I'll call ya,
+After my blood is drowning in alcohol,
+No, I just wanna hold ya.</center>
+
+<center>Give a little time to me or burn this out,
+We'll play hide and seek to turn this around,
+All I want is the taste that your lips allow,
+My, my, my, my, oh give me love,</center>
+
+<center>Give a little time to me or burn this out,
+We'll play hide and seek to turn this around,
+All I want is the taste that your lips allow,
+My, my, my, my, oh give me love,
+My, my, my, my, oh give me love,
+My, my, my, my, oh give me love,
+My, my, my, my, oh give me love,
+My, my, my, my, oh give me love.</center>
+
+<center>M-my my, m-my my, m-my my, give me love, lover,
+M-my my, m-my my, m-my my, give me love, lover,
+M-my my, m-my my, m-my my, give me love, lover,
+M-my my, m-my my, m-my my, give me love, lover.</center>
+
+<center>M-my my, m-my my, m-my my, give me love, lover,
+M-my my, m-my my, m-my my, give me love, lover,
+M-my my, m-my my, m-my my, give me love, lover,
+M-my my, m-my my, m-my my, give me love, lover (love me, love me, love me).</center>
+
+<center>M-my my, m-my my, m-my my, give me love, lover (give me love),
+M-my my, m-my my, m-my my, give me love, lover (give me love),
+M-my my, m-my my, m-my my, give me love, lover (give me love, love me),
+M-my my, m-my my, m-my my, give me love, lover (give me love).</center>
+
+<center>My, my, my, my, oh give me love,
+My, my, my, my, oh give me love,
+My, my, my, my, oh give me love,
+My, my, my, my, oh give me love,
+My, my, my, my, oh give me love,
+My, my, my, my, oh give me love,
+My, my, my, my, oh give me love,
+My, my, my, my, oh give me love,
+My, my, my, my, oh give me love.</center>
+
+<center></center>
 
