@@ -2,7 +2,7 @@
 layout: home
 hero:
     title: Bankhing.com
-    subtitle: Bankhing.com es un metofdo facil de aprenderte tus canciones favoritas miestras disfrutar del video
+    subtitle: Bankhing.com es un método fácil y divertido  de aprender tus canciones favoritas
   
     search: true
 categories:
