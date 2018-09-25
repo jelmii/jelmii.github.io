@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Ed Sheeran - Happier
+title: Ed Sheeran, Happier
 subtitle: 
 author: Ed Sheeran
 tags: featured
