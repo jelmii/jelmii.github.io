@@ -1,8 +1,8 @@
 ---
 layout: home
 hero:
-    title: Bankhing.com
-    subtitle: Encuentra las letras de tus canciones favoritas, sube el volumen y canta con pasión!
+    title: ¿ Estas buscando Hoteles en Panamá?
+    subtitle: Tenemos las mejores tarifas de hoteles en Panamá!
   
     search: true
 categories:
