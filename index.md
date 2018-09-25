@@ -2,7 +2,7 @@
 layout: home
 hero:
     title: Bankhing.com
-    subtitle: Bankhing.com es un método fácil y divertido  de aprender tus canciones favoritas
+    subtitle: Encuentra las letras de tus canciones favoritas, sube el volumen y canta con pasión!
   
     search: true
 categories:
