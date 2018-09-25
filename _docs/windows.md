@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Ed Sheeran - How Would You Feel
+title: Ed Sheeran, How Would You Feel
 subtitle: 
 author: Ed Sheeran
 tags: featured
