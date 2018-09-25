@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Ed Sheeran - The A Team
+title: Ed Sheeran, The A Team
 subtitle: 
 author: Ed Sheeran
 tags: featured
