@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Ed Sheeran - Supermarket Flowers
+title: Ed Sheeran, Supermarket Flowers
 subtitle: 
 author: Ed Sheeran
 tags: featured
