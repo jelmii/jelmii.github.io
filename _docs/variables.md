@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Ed Sheeran - Lego House
+title: Ed Sheeran, Lego House
 subtitle: 
 author: Ed Sheeran
 tags: featured
