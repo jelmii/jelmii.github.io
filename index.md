@@ -1,8 +1,8 @@
 ---
 layout: home
 hero:
-    title: Bankhing
-    subtitle: Bankhing te ayuda a comprender conceptos financieros complejos, mejorar sus habilidades de inversión, adquisición de crédito y aprender a administrar su dinero.
+    title: Bankhing.com
+    subtitle: Bankhing.com es un metofdo facil de aprenderte tus canciones favoritas miestras disfrutar del video
   
     search: true
 categories:
