@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: How To Setup Domain SSL With Github Pages
+title: go to, go on, go for, go -ing
 categories: [Getting Started, Troubleshooting]
 author: John Black
 tags: featured
@@ -15,8 +15,17 @@ Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendiss
 
 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
 
-## Image Lightbox Example
-Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
+## go to...
+go to work | go to London | go to a concert etc.
+
+<ul>
+  <li>What time do you usually go to work?</li>
+  <li>I'm going to France next week.</li>
+  <li>Tom didn't want to go to the concert</li>
+  <li>Where's Ann?</li>
+  <li>I went to the dentist</li>
+  
+</ul>
 
 {% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
 
