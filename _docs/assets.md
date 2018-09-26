@@ -47,24 +47,26 @@ tags: featured
     <td>Alabama</td>
     <td>Alaska</td>
     <td>Arizona</td>
+    <td>Arkansas</td>
   </tr>
   <tr>
-    <td>Arkansas</td>
     <td>California</td>
     <td>Carolina del Norte</td>
+    <td>Carolina del Sur</td>
+    <td>Colorado</td>
   </tr>
   <tr>
+    <td>Columbia</td>
     <td>Centro comercial Moctezuma</td>
     <td>Francisco Chang</td>
     <td>Mexico</td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
+    
+   
   </tr>
   <tr>
-    <td>Island Trading</td>
+    <td>Connecticut</td>
     <td>Helen Bennett</td>
     <td>UK</td>
   </tr>
