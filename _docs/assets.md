@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: How To Setup Domain SSL With Github Pages
+title: Estados Unidos
 categories: [Getting Started, Troubleshooting]
 author: John Black
 tags: featured
@@ -13,7 +13,124 @@ tags: featured
 
 Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
+<html>
+<head>
+<style>
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+</style>
+</head>
+<body>
+
+<table id="customers">
+  <tr>
+  </tr>
+  <tr>
+    <td>Alabama</td>
+    <td>Alaska</td>
+    <td>Arizona</td>
+  </tr>
+  <tr>
+    <td>Arkansas</td>
+    <td>California</td>    
+    <td>Carolina del Norte</td>
+  </tr>
+   <tr>
+    <td>Carolina del Sur</td>
+    <td>Colorado</td>
+    <td>Columbia</td>
+  </tr>
+  <tr>
+    <td>Connecticut</td>  
+    <td>Dakota del Norte</td>
+    <td>Dakota del Sur</td>
+  </tr> 
+  <tr>
+    <td>Delaware</td>
+    <td>Florida</td>
+    <td>Georgia</td>       
+  </tr> 
+     <td>Hawái</td>
+    <td>Idaho</td>
+    <td>Illinois</td>
+  <tr> 
+        <td>Indiana</td>
+    <td>Iowa</td>    
+    <td>Kansas</td>
+  </tr>  
+   <tr> 
+     <td>Kentucky</td>
+    <td>Luisiana</td>
+    <td>Maine</td>   
+  </tr> 
+    <tr> 
+    <td>Maryland</td>       
+   <td>Massachusetts</td>
+   <td>Míchigan</td>
+ </tr> 
+      <tr> 
+    <td>Minnesota</td>   
+   <td>Misisipi</td>
+   <td>Misuri</td>          
+    </tr> 
+      <tr> 
+   <td>Montana</td>
+   <td>Nebraska</td>
+   <td>Nevada</td>          
+  </tr> 
+      <tr> 
+   <td>Nuevo Hampshire</td>          
+   <td>Nueva Jersey</td>     
+   <td>Nueva York</td>       
+  </tr> 
+      <tr> 
+    <td>Nuevo México</td>
+   <td>Ohio</td>   
+   <td>Oklahoma</td>      
+  </tr> 
+      <tr> 
+    <td>Oregón</td> 
+       <td>Pensilvania</td>
+   <td>Rhode Island</td>      
+  </tr> 
+   <td>Tennessee</td>   
+   <td>Texas</td>
+   <td>	Utah</td>        
+  </tr> 
+   <tr>
+   <td>Vermont</td>
+   <td>	Virginia</td>
+   <td>Virginia Occidental</td>   
+   </tr>
+  <tr>   
+   <td>Washington</td>
+   <td>Wisconsin</td>     
+   <td>Wyoming</td>      
+  </tr>     
+</table>
+</body>
+</html>
+
 
 ## Image Lightbox Example
 Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
