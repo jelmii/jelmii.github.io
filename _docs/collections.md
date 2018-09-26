@@ -83,7 +83,19 @@ html {
         <p> 
 <img src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" align="left">Marriott</p>
         <p>This 5-star Arlington hotel is within a 10-minute drive of Washington, D.C. The hotel offers an on-site restaurant and modern guest rooms with flat-screen TVs.</p>
-        <p>1250 South Hayes Street, Arlington, VA 22202, USA</p>
+        <ins class="bookingaff" data-aid="1617463" data-target_aid="1617463" data-prod="rw" data-width="0" data-height="0" data-lang="en" data-show_rw_badge="1" data-show_rw_text="1" data-show_rw_border="1" data-hid="181022">
+    <!-- Anything inside will go away once widget is loaded. -->
+    <a href="//www.booking.com?aid=1617463">Booking.com</a>
+</ins>
+<script type="text/javascript">
+    (function(d, sc, u) {
+      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = u + '?v=' + (+new Date());
+      p.parentNode.insertBefore(s,p);
+      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
+</script>
         <p><button class="button">Reservar</button></p>
       </div>
     </div>
