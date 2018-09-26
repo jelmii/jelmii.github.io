@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Ed Sheeran, Happier
+title: Alaska
 subtitle: 
 author: Ed Sheeran
 tags: featured
