@@ -83,7 +83,7 @@ html {
         <p> 
 <img src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" align="left">Marriott</p>
         <p>This 5-star Arlington hotel is within a 10-minute drive of Washington, D.C. The hotel offers an on-site restaurant and modern guest rooms with flat-screen TVs.</p>
-<a href="default.asp" target="_blank" class="button">Reservar</a>
+<p><a href="default.asp" target="_self" class="button">Reservar</a></p>
       </div>
     </div>
   </div>
