@@ -83,7 +83,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="http://www.bankhing.com/assets/posts/trcdove.jpg" alt="Jane" style="width:100%">
+      <img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/15722148.jpg?k=14a7de0668ed6c18a3bc5d844f56553eb192a17bb1ef4a207cc3ce0acfd3b005&o=" alt="Jane" style="width:100%">
       <div class="container">
         <h2>Jane Doe</h2>
         <p class="title">CEO & Founder</p>
