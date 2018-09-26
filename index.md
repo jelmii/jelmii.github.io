@@ -1,7 +1,7 @@
 ---
 layout: home
 hero:
-    title: English forever
+    title: Welcome to bankhing.com.
     subtitle: Find everything you need to know about English
   
     search: true
