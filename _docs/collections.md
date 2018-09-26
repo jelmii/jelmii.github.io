@@ -78,7 +78,7 @@ html {
         <p> 
 <img src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" align="left">Marriott</p>
         <p>This 5-star Arlington hotel is within a 10-minute drive of Washington, D.C. The hotel offers an on-site restaurant and modern guest rooms with flat-screen TVs.</p>
-<p><h2><a href="https://www.booking.com/hotel/us/ritz-carlton-pentagon-city.en.html?aid=893121&no_rooms=1&group_adults=1" style="text-decoration:none" target="_self" class="button">Reservar</a></h2></p>
+<p><h1><a href="https://www.booking.com/hotel/us/ritz-carlton-pentagon-city.en.html?aid=893121&no_rooms=1&group_adults=1" style="text-decoration:none" target="_self" class="button">Reservar</a></h1></p>
       </div>
     </div>
   </div>
