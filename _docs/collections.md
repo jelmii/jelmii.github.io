@@ -1,11 +1,24 @@
 ---
 layout: doc
 title: The Ritz-Carlton, Marriott
-subtitle: A result is something that occurs as a consequence of some action. 
+subtitle: THE GOLD STANDARD, The Ritz-Carlton inspires life's most meaningful journeys.. 
 author:
 tags: featured
 ---
 
+#### Sections in this article
+{:.no_toc}
+* TOC
+{:toc}
+
+Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
+
+
+## Headquarters
+10400 Fernwood Road,
+Bethesda, MD 20817, United States.
+Phone: (301) 380-3000
+Reservations: (800) 241-3333
 
 <html>
 <head>
