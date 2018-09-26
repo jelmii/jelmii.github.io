@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: result
+title: The Ritz-Carlton
 subtitle: A result is something that occurs as a consequence of some action. 
 author:
 tags: featured
