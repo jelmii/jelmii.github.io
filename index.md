@@ -2,7 +2,7 @@
 layout: home
 hero:
     title: Welcome to bankhing.com.
-    subtitle: Find everything you need to know about English
+    subtitle: The Hotel Brands
   
     search: true
 categories:
