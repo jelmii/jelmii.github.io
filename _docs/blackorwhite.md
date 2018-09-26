@@ -1,7 +1,7 @@
 ---
 layout: doc
-title: Michael Jackson, Black Or White
-subtitle: 
+title: result
+subtitle:A result is something that occurs as a consequence of some action. The result of your practical joke is a puddle of water on the floor and a lump on your cousin's head where the bucket hit him. 
 author: Michael Jackson
 tags: featured
 ---
