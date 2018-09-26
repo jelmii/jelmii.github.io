@@ -51,26 +51,72 @@ tags: featured
     <td>California</td>
   </tr>
   <tr>
-    <td>California</td>
     <td>Carolina del Norte</td>
     <td>Carolina del Sur</td>
     <td>Colorado</td>
     <td>Columbia</td>
+    <td>Connecticut</td>  
   </tr>
    <tr>
-    <td>Connecticut</td>
     <td>Dakota del Norte</td>
     <td>Dakota del Sur</td>
     <td>Delaware</td>
     <td>Florida</td>
+    <td>Georgia</td>    
   </tr>
   <tr>
-    <td>California</td>
-    <td>Carolina del Norte</td>
-    <td>Carolina del Sur</td>
-    <td>Colorado</td>
-    <td>Columbia</td>
+    <td>Hawái</td>
+    <td>Idaho</td>
+    <td>Illinois</td>
+    <td>Indiana</td>
+    <td>Iowa</td>
   </tr> 
+  <tr>
+    <td>Kansas</td>
+    <td>Kentucky</td>
+    <td>Luisiana</td>
+    <td>Maine</td>
+    <td>Maryland</td>
+  </tr>     
+  <tr>
+   <td>Massachusetts</td>
+   <td>Míchigan</td>
+   <td>Minnesota</td>   
+   <td>Misisipi</td>
+   <td>Misuri</td>        
+  </tr>   
+   <tr>
+   <td>Montana</td>
+   <td>Nebraska</td>
+   <td>Nevada</td>   
+   <td>Nuevo Hampshire/td>
+   <td>Nueva Jersey</td>        
+  </tr> 
+   <tr>
+   <td>Nueva York</td>
+   <td>Nuevo México</td>
+   <td>Ohio</td>   
+   <td>Oklahoma</td>
+   <td>Oregón</td>        
+  </tr> 
+   <tr>
+   <td>Pensilvania</td>
+   <td>Rhode Island</td>
+   <td>Tennessee</td>   
+   <td>Texas</td>
+   <td>	Utah</td>        
+  </tr> 
+   <tr>
+   <td>Vermont</td>
+   <td>	Virginia</td>
+   <td>Virginia Occidental</td>   
+   <td>Washington</td>
+   <td>Wisconsin</td>    
+   <td>Wyoming</td>      
+  </tr>
+  <tr>   
+   <td>Wyoming</td>      
+  </tr>     
 </table>
 </body>
 </html>
