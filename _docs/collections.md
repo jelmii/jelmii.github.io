@@ -79,7 +79,7 @@ html {
     <div class="card">
       <img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/26050987.jpg?k=c5d96916426e87a16842ed32ec4b088297a30d00936c56c94891fda7980e6407&o=" alt="Jane" style="width:100%">
       <div class="container">
-        <h2>The Ritz Carlton, Pentagon City</h2>
+        <h2>The Ritz Carlton, Pentagon City $155</h2>
         <p> 
 <img src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" align="left">Marriott</p>
         <p>This 5-star Arlington hotel is within a 10-minute drive of Washington, D.C. The hotel offers an on-site restaurant and modern guest rooms with flat-screen TVs.</p>
