@@ -1,8 +1,8 @@
 ---
 layout: home
 hero:
-    title: ¿ Estas buscando Hoteles en Panamá?
-    subtitle: Tenemos las mejores tarifas de hoteles en Panamá!
+    title: English forever
+    subtitle: Find everything you need to know about English
   
     search: true
 categories:
