@@ -43,7 +43,7 @@ tags: featured
 
 <table id="customers">
   <tr>
-    <th>Estados Unidos</th>
+   
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
