@@ -1,7 +1,7 @@
 ---
 layout: doc
-title: Category hosting Setting up new domain and page
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+title: result
+subtitle: A result is something that occurs as a consequence of some action. 
 author:
 tags: featured
 ---
@@ -11,9 +11,9 @@ tags: featured
 * TOC
 {:toc}
 
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
+A result is something that occurs as a consequence of some action. The result of your practical joke is a puddle of water on the floor and a lump on your cousin's head where the bucket hit him.
 
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
+A result is also the answer to some problem, especially one obtained by calculation or experimentation. The result you get for a math problem will be wrong if you add when you should multiply. The verb result means to follow as an outcome of some action. If you forget to book a room in advance, it will result in your having to stay at the hotel by the airport instead of one by the beach.
 
 ## Image Lightbox Example
 Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
