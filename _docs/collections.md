@@ -89,7 +89,7 @@ html {
         <p class="title">CEO & Founder</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <p><button class="button">Reservar</button></p>
       </div>
     </div>
   </div>
@@ -102,7 +102,7 @@ html {
         <p class="title">Art Director</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <p><button class="button">Reservar</button></p>
       </div>
     </div>
   </div>
@@ -114,7 +114,7 @@ html {
         <p class="title">Designer</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <p><button class="button">Reservar</button></p>
       </div>
     </div>
   </div>
