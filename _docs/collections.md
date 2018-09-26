@@ -77,12 +77,12 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/15722148.jpg?k=14a7de0668ed6c18a3bc5d844f56553eb192a17bb1ef4a207cc3ce0acfd3b005&o=" alt="Jane" style="width:100%">
+      <img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/26050987.jpg?k=c5d96916426e87a16842ed32ec4b088297a30d00936c56c94891fda7980e6407&o=" alt="Jane" style="width:100%">
       <div class="container">
-        <h2>Jane Doe</h2>
-        <p class="title">CEO & Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
+        <h2>The Ritz Carlton, Pentagon City</h2>
+        <p class="title">Marriott</p>
+        <p>This 5-star Arlington hotel is within a 10-minute drive of Washington, D.C. The hotel offers an on-site restaurant and modern guest rooms with flat-screen TVs.</p>
+        <p>1250 South Hayes Street, Arlington, VA 22202, USA</p>
         <p><button class="button">Reservar</button></p>
       </div>
     </div>
