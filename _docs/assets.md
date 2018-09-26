@@ -44,7 +44,7 @@ Estados unidos tienes 51 estados y mas 4000 hoteles de francias renocidas.
 
 <table id="customers">
   <tr>
-    <td>Alabama</td>
+    <td><a href="eltiempo.com" target="_parent">Alabama</a></td>
     <td>Alaska</td>
     <td>Arizona</td>
   </tr>
