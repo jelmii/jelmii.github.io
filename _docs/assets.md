@@ -44,8 +44,6 @@ Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendiss
 
 <table id="customers">
   <tr>
-  </tr>
-  <tr>
     <td>Alabama</td>
     <td>Alaska</td>
     <td>Arizona</td>
@@ -70,47 +68,49 @@ Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendiss
     <td>Florida</td>
     <td>Georgia</td>       
   </tr> 
-     <td>Hawái</td>
+  <tr>
+    <td>Hawái</td>
     <td>Idaho</td>
     <td>Illinois</td>
+  </tr> 
   <tr> 
-        <td>Indiana</td>
+    <td>Indiana</td>
     <td>Iowa</td>    
     <td>Kansas</td>
   </tr>  
    <tr> 
-     <td>Kentucky</td>
+    <td>Kentucky</td>
     <td>Luisiana</td>
     <td>Maine</td>   
   </tr> 
-    <tr> 
-    <td>Maryland</td>       
+   <tr> 
+   <td>Maryland</td>       
    <td>Massachusetts</td>
    <td>Míchigan</td>
- </tr> 
-      <tr> 
-    <td>Minnesota</td>   
+  </tr> 
+  <tr> 
+   <td>Minnesota</td>   
    <td>Misisipi</td>
    <td>Misuri</td>          
-    </tr> 
-      <tr> 
+  </tr> 
+  <tr> 
    <td>Montana</td>
    <td>Nebraska</td>
    <td>Nevada</td>          
   </tr> 
-      <tr> 
+  <tr> 
    <td>Nuevo Hampshire</td>          
    <td>Nueva Jersey</td>     
    <td>Nueva York</td>       
   </tr> 
-      <tr> 
-    <td>Nuevo México</td>
+  <tr> 
+   <td>Nuevo México</td>
    <td>Ohio</td>   
    <td>Oklahoma</td>      
   </tr> 
-      <tr> 
-    <td>Oregón</td> 
-       <td>Pensilvania</td>
+  <tr> 
+   <td>Oregón</td> 
+   <td>Pensilvania</td>
    <td>Rhode Island</td>      
   </tr> 
    <td>Tennessee</td>   
@@ -121,7 +121,7 @@ Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendiss
    <td>Vermont</td>
    <td>	Virginia</td>
    <td>Virginia Occidental</td>   
-   </tr>
+  </tr>
   <tr>   
    <td>Washington</td>
    <td>Wisconsin</td>     
