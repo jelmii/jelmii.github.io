@@ -61,6 +61,7 @@ html {
   text-align: center;
   cursor: pointer;
   width: 60%;
+  height: 60%;
 }
 
 .button:hover {
