@@ -69,11 +69,6 @@ html {
 </style>
 </head>
 <body>
-
-<h2>Responsive "Meet The Team" Section</h2>
-<p>Resize the browser window to see the effect.</p>
-<br>
-
 <div class="row">
   <div class="column">
     <div class="card">
@@ -83,7 +78,7 @@ html {
         <p> 
 <img src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" align="left">Marriott</p>
         <p>This 5-star Arlington hotel is within a 10-minute drive of Washington, D.C. The hotel offers an on-site restaurant and modern guest rooms with flat-screen TVs.</p>
-<p><a href="default.asp" target="_self" class="button">Reservar</a></p>
+<p><a href="https://www.booking.com/hotel/us/ritz-carlton-pentagon-city.en.html?aid=893121&no_rooms=1&group_adults=1" target="_self" class="button">Reservar</a></p>
       </div>
     </div>
   </div>
