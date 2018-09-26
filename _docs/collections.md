@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: The Ritz-Carlton
+title: The Ritz-Carlton, Marriott
 subtitle: A result is something that occurs as a consequence of some action. 
 author:
 tags: featured
