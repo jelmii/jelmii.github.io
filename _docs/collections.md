@@ -55,7 +55,7 @@ html {
   border: none;
   outline: 0;
   display: inline-block;
-  padding: 8px;
+  padding: 14px;
   color: white;
   background-color: #0078cc;
   text-align: center;
@@ -64,7 +64,7 @@ html {
 }
 
 .button:hover {
-  background-color: #555;
+  background-color: #00397f;
 }
 </style>
 </head>
