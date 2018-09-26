@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Ed Sheeran, Thinking Out Loud
+title: Marriott
 subtitle: 
 author: Ed Sheeran
 tags: featured
