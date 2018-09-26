@@ -96,7 +96,7 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="/w3images/team2.jpg" alt="Mike" style="width:100%">
+      <img src="http://www.bankhing.com/assets/posts/trcamelia.jpg" alt="Mike" style="width:100%">
       <div class="container">
         <h2>Mike Ross</h2>
         <p class="title">Art Director</p>
@@ -108,7 +108,7 @@ html {
   </div>
   <div class="column">
     <div class="card">
-      <img src="/w3images/team3.jpg" alt="John" style="width:100%">
+      <img src="http://www.bankhing.com/assets/posts/trcboston.jpg" alt="John" style="width:100%">
       <div class="container">
         <h2>John Doe</h2>
         <p class="title">Designer</p>
