@@ -81,7 +81,7 @@ html {
       <div class="container">
         <h2>The Ritz Carlton, Pentagon City</h2>
         <p> 
-<img src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" align="right">Marriott</p>
+<img src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" align="left">Marriott</p>
         <p>This 5-star Arlington hotel is within a 10-minute drive of Washington, D.C. The hotel offers an on-site restaurant and modern guest rooms with flat-screen TVs.</p>
         <p>1250 South Hayes Street, Arlington, VA 22202, USA</p>
         <p><button class="button">Reservar</button></p>
