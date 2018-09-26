@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Alaska
+title: Alaska, Estados Unidos
 subtitle: 
 author: Ed Sheeran
 tags: featured
