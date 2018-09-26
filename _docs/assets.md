@@ -47,61 +47,70 @@ tags: featured
     <td>Alabama</td>
     <td>Alaska</td>
     <td>Arizona</td>
-    <td>Arkansas</td>
-    <td>California</td>
   </tr>
   <tr>
+    <td>Arkansas</td>
+    <td>California</td>    
     <td>Carolina del Norte</td>
+  </tr>
+   <tr>
     <td>Carolina del Sur</td>
     <td>Colorado</td>
     <td>Columbia</td>
-    <td>Connecticut</td>  
   </tr>
-   <tr>
+  <tr>
+    <td>Connecticut</td>  
     <td>Dakota del Norte</td>
     <td>Dakota del Sur</td>
+  </tr> 
+  <tr>
     <td>Delaware</td>
     <td>Florida</td>
-    <td>Georgia</td>    
-  </tr>
-  <tr>
-    <td>Hawái</td>
+    <td>Georgia</td>       
+  </tr> 
+      <td>Hawái</td>
     <td>Idaho</td>
     <td>Illinois</td>
-    <td>Indiana</td>
-    <td>Iowa</td>
-  </tr> 
-  <tr>
+  <tr> 
+        <td>Indiana</td>
+    <td>Iowa</td>    
     <td>Kansas</td>
-    <td>Kentucky</td>
+  </tr>  
+   <tr> 
+     <td>Kentucky</td>
     <td>Luisiana</td>
-    <td>Maine</td>
-    <td>Maryland</td>
-  </tr>     
-  <tr>
+    <td>Maine</td>   
+  </tr> 
+    <tr> 
+    <td>Maryland</td>       
    <td>Massachusetts</td>
    <td>Míchigan</td>
-   <td>Minnesota</td>   
+ </tr> 
+      <tr> 
+    <td>Minnesota</td>   
    <td>Misisipi</td>
-   <td>Misuri</td>        
-  </tr>   
-   <tr>
+   <td>Misuri</td>          
+    </tr> 
+      <tr> 
    <td>Montana</td>
    <td>Nebraska</td>
-   <td>Nevada</td>   
+   <td>Nevada</td>          
+  </tr> 
+      <tr> 
    <td>Nuevo Hampshire/td>
-   <td>Nueva Jersey</td>        
+   <td>Nueva Jersey</td>     
+   <td>Nueva York</td>       
   </tr> 
-   <tr>
-   <td>Nueva York</td>
-   <td>Nuevo México</td>
+      <tr> 
+    <td>Nuevo México</td>
    <td>Ohio</td>   
-   <td>Oklahoma</td>
-   <td>Oregón</td>        
+   <td>Oklahoma</td>      
   </tr> 
-   <tr>
-   <td>Pensilvania</td>
-   <td>Rhode Island</td>
+      <tr> 
+    <td>Oregón</td> 
+       <td>Pensilvania</td>
+   <td>Rhode Island</td>      
+  </tr> 
    <td>Tennessee</td>   
    <td>Texas</td>
    <td>	Utah</td>        
@@ -110,10 +119,10 @@ tags: featured
    <td>Vermont</td>
    <td>	Virginia</td>
    <td>Virginia Occidental</td>   
-   <td>Washington</td>
-   <td>Wisconsin</td>      
-  </tr>
+   </tr>
   <tr>   
+   <td>Washington</td>
+   <td>Wisconsin</td>     
    <td>Wyoming</td>      
   </tr>     
 </table>
