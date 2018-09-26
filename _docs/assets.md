@@ -24,8 +24,17 @@ go to work | go to London | go to a concert etc.
   <li>Tom didn't want to go to the concert</li>
   <li>Where's Ann?</li>
   <li>I went to the dentist</li>
+  </ul>
   
-</ul>
+  go to sleep = start to sleep
+  <ul>
+  <li>I was very tired and went to sleep quickly.</li>
+  </ul>
+   go home (without to)
+  <ul>
+  <li>I'm going home now (not "going to home"</li>
+  </ul>
+  
 
 {% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
 
