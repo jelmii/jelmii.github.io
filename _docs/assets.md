@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Estado Unidos
+title: Estados Unidos
 categories: [Getting Started, Troubleshooting]
 author: John Black
 tags: featured
