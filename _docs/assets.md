@@ -111,8 +111,7 @@ tags: featured
    <td>	Virginia</td>
    <td>Virginia Occidental</td>   
    <td>Washington</td>
-   <td>Wisconsin</td>    
-   <td>Wyoming</td>      
+   <td>Wisconsin</td>      
   </tr>
   <tr>   
    <td>Wyoming</td>      
