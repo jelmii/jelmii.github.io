@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Ed Sheeran, Photograph
+title: Alabama, Estados Unidos 
 subtitle: 
 author: Ed Sheeran
 tags: featured
