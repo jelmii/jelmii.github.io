@@ -57,7 +57,7 @@ html {
   display: inline-block;
   padding: 8px;
   color: white;
-  background-color: #000;
+  background-color: #0078cc;
   text-align: center;
   cursor: pointer;
   width: 100%;
