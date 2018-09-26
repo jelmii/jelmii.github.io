@@ -108,7 +108,7 @@ html {
   </div>
   <div class="column">
     <div class="card">
-      <img src="http://www.bankhing.com/assets/posts/trcboston.jpg" alt="John" style="width:100%">
+      <img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/31725503.jpg?k=3aad8ce54b35232c12ea605c6345feb9d7344198615a50fc9e93efa95d0abb33&o=" alt="John" style="width:100%">
       <div class="container">
         <h2>John Doe</h2>
         <p class="title">Designer</p>
