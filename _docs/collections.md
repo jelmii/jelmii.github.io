@@ -6,19 +6,37 @@ author:
 tags: featured
 ---
 
-#### Sections in this article
+#### About The Ritz-Carlton
 {:.no_toc}
 * TOC
 {:toc}
-
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
-
 
 ## Headquarters
 10400 Fernwood Road,
 Bethesda, MD 20817, United States.
 Phone: (301) 380-3000
 Reservations: (800) 241-3333
+
+## Executive Officers
+
+President & Chief Operations Officer: Herve Humler
+Global Officer, Worldwide Operations: Bob Kharazmi
+
+## Number of Hotels
+
+91 hotels worldwide in 30 countries and territories: Aruba, Austria, Bahrain, Canada, Cayman Islands, Chile, China, Egypt, Germany, India, Indonesia, Israel, Japan, Kazakhstan, Malaysia, Mexico, Oman, Portugal, Puerto Rico, Qatar, Russia, Singapore, Saudi Arabia, South Korea, Spain, Thailand, Turkey, the United Arab Emirates, U.S. Virgin Islands, and the United States.
+
+## Number of Employees
+
+40,000
+
+## Sales Offices
+
+Eastern Region (U.S.), Mid-Atlantic Region (U.S.), Western Region (U.S.), Intermediary Sales (U.S.), Select Account Sales (U.S.), Travel Industry (U.S.), Beijing, Dubai, Frankfurt, Hong Kong, London, Shanghai, Singapore and Tokyo.
+
+## History
+
+Established in 1983 with the purchase of The Ritz-Carlton, Boston and the rights to the name Ritz-Carlton. The management company has grown from one hotel to 81 hotels worldwide with plans for further expansion in Europe, Africa, Asia, the Middle East and the Americas. The Ritz-Carlton Hotel Company is an independently operated division of Marriott International, Bethesda, Md.
 
 <html>
 <head>
