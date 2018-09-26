@@ -83,7 +83,30 @@ html {
         <p> 
 <img src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" align="left">Marriott</p>
         <p>This 5-star Arlington hotel is within a 10-minute drive of Washington, D.C. The hotel offers an on-site restaurant and modern guest rooms with flat-screen TVs.</p>
-        <p><button class="button" href=”https://www.yoseomarketing.com/” >Reservar</button></p>
+        <html>
+<head>
+<style>
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: black;
+}
+</style>
+</head>
+<body>
+
+<a href="https://www.booking.com/hotel/us/ritz-carlton-pentagon-city.en.html?aid=893121&no_rooms=1&group_adults=1" target="_blank">Reservar</a>
+
+</body>
+</html>
       </div>
     </div>
   </div>
