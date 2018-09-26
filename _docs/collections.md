@@ -60,7 +60,7 @@ html {
   background-color: #0078cc;
   text-align: center;
   cursor: pointer;
-  width: 60%;
+  width: 100%;
   height: 60%;
 }
 
