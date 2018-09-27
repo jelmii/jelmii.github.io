@@ -11,6 +11,88 @@ tags: featured
 * TOC
 {:toc}
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #0078cc;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  height: 60%;
+}
+
+.button:hover {
+  background-color: #00397f;
+}
+</style>
+</head>
+<body>
+<div class="row">
+<h2>USA & CANADA</h2>
+<div class="column">
+<div class="card">
+<img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/26050987.jpg?k=c5d96916426e87a16842ed32ec4b088297a30d00936c56c94891fda7980e6407&o=" alt="The Ritz Carlton, Pentagon City" style="width:100%">
+<div class="container">
+<h2>The Ritz Carlton, Pentagon City</h2>
+<p><img src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" align="left">Marriott</p>
+<p>This 5-star Arlington hotel is within a 10-minute drive of Washington, D.C. The hotel offers an on-site restaurant and modern guest rooms with flat-screen TVs.</p>
+<p><h3><a href="https://www.booking.com/hotel/us/ritz-carlton-pentagon-city.en.html?aid=893121&no_rooms=1&group_adults=1" style="text-decoration:none" target="_self" class="button">Reservar</a></h3></p>
+</div>
+</div>
+</div>
+
+
+</div>
+</body>
+</html>
+
 Estados unidos tienes 51 estados y mas 4000 hoteles de francias renocidas.
 
 <html>
