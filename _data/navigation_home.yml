@@ -2,8 +2,7 @@
 
 - title: Transporte o Rentar un auto
   desc: Get your account up and running in just few easy steps
-  icon: <img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/26050987.jpg?k=c5d96916426e87a16842ed32ec4b088297a30d00936c56c94891fda7980e6407&o=" alt="The Ritz Carlton, Pentagon City" style="width:100%">
-<div class="container">
+  icon: settings
   doc: home
 
 - title: City Tours
