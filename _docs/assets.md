@@ -11,57 +11,27 @@ tags: featured
 * TOC
 {:toc}
 
-<div class="uk-overflow-auto">
-    <table class="uk-table uk-table-hover uk-table-middle uk-table-divider">
-        <thead>
-            <tr>
-                <th class="uk-table-shrink"></th>
-                <th class="uk-table-shrink">Preserve</th>
-                <th class="uk-table-expand">Expand + Link</th>
-                <th class="uk-width-small">Truncate</th>
-                <th class="uk-table-shrink uk-text-nowrap">Shrink + Nowrap</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><input class="uk-checkbox" type="checkbox"></td>
-                <td><img class="uk-preserve-width uk-border-circle" src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" width="16" alt=""></td>
-                <td class="uk-table-link">
-                    <a class="uk-link-reset" href="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</a>
-                </td>
-                <td class="uk-text-truncate">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</td>
-                <td class="uk-text-nowrap">Lorem ipsum dolor</td>
-            </tr>
-            <tr>
-                <td><input class="uk-checkbox" type="checkbox"></td>
-                <td><img class="uk-preserve-width uk-border-circle" src="images/avatar.jpg" width="40" alt=""></td>
-                <td class="uk-table-link">
-                    <a class="uk-link-reset" href="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</a>
-                </td>
-                <td class="uk-text-truncate">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</td>
-                <td class="uk-text-nowrap">Lorem ipsum dolor</td>
-            </tr>
-            <tr>
-                <td><input class="uk-checkbox" type="checkbox"></td>
-                <td><img class="uk-preserve-width uk-border-circle" src="images/avatar.jpg" width="40" alt=""></td>
-                <td class="uk-table-link">
-                    <a class="uk-link-reset" href="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</a>
-                </td>
-                <td class="uk-text-truncate">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</td>
-                <td class="uk-text-nowrap">Lorem ipsum dolor</td>
-            </tr>
-            <tr>
-                <td><input class="uk-checkbox" type="checkbox"></td>
-                <td><img class="uk-preserve-width uk-border-circle" src="images/avatar.jpg" width="40" alt=""></td>
-                <td class="uk-table-link">
-                    <a class="uk-link-reset" href="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</a>
-                </td>
-                <td class="uk-text-truncate">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</td>
-                <td class="uk-text-nowrap">Lorem ipsum dolor</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+<table class="uk-table uk-table-middle uk-table-divider">
+    <thead>
+        <tr>
+            <th class="uk-width-small">Table Heading</th>
+            <th>Table Heading</th>
+            <th>Table Heading</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%"</td>
+            <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</td>
+            <td><button class="uk-button uk-button-default" type="button">Button</button></td>
+        </tr>
+        <tr>
+            <td>Table Data</td>
+            <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</td>
+            <td><button class="uk-button uk-button-default" type="button">Button</button></td>
+        </tr>
+    </tbody>
+</table>
 
 <html>
 <head>
