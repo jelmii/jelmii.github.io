@@ -120,9 +120,22 @@ html {
 <img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
 <div class="container">
 <h2>The Ritz-Carlton, Atlanta</h2>
+<ins class="bookingaff" data-aid="1618137" data-target_aid="1618137" data-prod="rw" data-width="0" data-height="0" data-show_rw_badge="1" data-show_rw_text="1" data-hid="265604">
+    <!-- Anything inside will go away once widget is loaded. -->
+    <a href="//www.booking.com?aid=1618137">Booking.com</a>
+</ins>
+<script type="text/javascript">
+    (function(d, sc, u) {
+      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = u + '?v=' + (+new Date());
+      p.parentNode.insertBefore(s,p);
+      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
+</script>  
 <p><img src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" align="left">Marriott</p>
 <p>This 5-star Arlington hotel is within a 10-minute drive of Washington, D.C. The hotel offers an on-site restaurant and modern guest rooms with flat-screen TVs.</p>
-<p><h3><a href="https://www.booking.com/hotel/us/the-ritz-carlton-atlanta.en.html?aid=893121&no_rooms=1&group_adults=1" target="_self" class="button">Reserve</a></h3></p>
+<p><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></p>
 </div>
 </div>
 </div>
