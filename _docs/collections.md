@@ -96,7 +96,7 @@ html {
 <img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/26050987.jpg?k=c5d96916426e87a16842ed32ec4b088297a30d00936c56c94891fda7980e6407&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
 <div class="container">
 <h2>The Ritz Carlton, Pentagon City</h2>
-<h5>Get the celebrity treatment with world-class service at The Ritz Carlton, Pentagon City</h5>  
+<p>This 5-star Arlington hotel is within a 10-minute drive of Washington, D.C. The hotel offers an on-site restaurant and modern guest rooms with flat-screen TVs.</p>  
 <p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-pentagon-city.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
 </div>
 </div>
@@ -107,7 +107,7 @@ html {
 <img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/26085226.jpg?k=336ce6f788542058a98ec2437f17544c6128856e8fd1020a576f00f1dfddaefa&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
 <div class="container">
 <h2>The Ritz-Carlton, Sarasota</h2>
-<h5>Stay in the heart of Sarasota</h5>  
+<p>Located on the seafront in central Sarasota, the resort offers a spa center and access to a nearby private beach and outdoor pool. All rooms feature private balconies.</p>  
 <p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
 </div>
 </div>
@@ -118,7 +118,7 @@ html {
 <img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
 <div class="container">
 <h2>The Ritz-Carlton, Atlanta</h2>
-<h5>This ideally situated downtown Atlanta hotel offers a fitness centre and restaurant. The Ritz-Carlton is less than one kilometer from MARTA mass transit and offers guests 37-inch flat-screen TVs.</h5>  
+<p>This ideally situated downtown Atlanta hotel offers a fitness centre and restaurant. The Ritz-Carlton is less than one kilometer from MARTA mass transit and offers guests 37-inch flat-screen TVs.</p>  
 <p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
 </div>
 </div>
