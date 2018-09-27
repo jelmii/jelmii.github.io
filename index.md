@@ -2,7 +2,7 @@
 layout: home
 hero:
     title: Are you looking for hotel? 
-    subtitle: The Hotel Brands
+    subtitle: The best place about of hotel chains 
   
     search: true
 categories:
