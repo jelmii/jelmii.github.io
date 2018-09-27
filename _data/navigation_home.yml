@@ -2,7 +2,7 @@
 
 - title: Transporte o Rentar un auto
   desc: Get your account up and running in just few easy steps
-  {% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
+  icon: credit-card
   doc: home
 
 - title: City Tours
