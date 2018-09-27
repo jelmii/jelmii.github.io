@@ -2,20 +2,7 @@
 
 - title: Transporte o Rentar un auto
   desc: Get your account up and running in just few easy steps
-  <ul class="uk-slideshow-items">
-    <li>
-        <img data-src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" width="" height="" alt="" uk-img="target: !ul > :last-child, !* +*">
-    </li>
-    <li>
-        <img data-src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" width="" height="" alt="" uk-img="target: !* -*, !* +*">
-    </li>
-    <li>
-        <img data-src="" width="" height="" alt="" uk-img="target: !* -*, !* +*">
-    </li>
-    <li>
-        <img data-src="" width="" height="" alt="" uk-img="target: !* -*, !ul > :first-child">
-    </li>
-</ul>
+  icon: world
   doc: home
 
 - title: City Tours
@@ -25,5 +12,5 @@
 
 - title: Bares y Restaurantes 
   desc: Answers to most common configuration issues
-  icon: cog
+  icon: location
   doc: variables
