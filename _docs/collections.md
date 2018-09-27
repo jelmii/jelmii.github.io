@@ -93,24 +93,24 @@ html {
 <h2>USA & CANADA</h2>
 <div class="column">
 <div class="card">
-<img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/26050987.jpg?k=c5d96916426e87a16842ed32ec4b088297a30d00936c56c94891fda7980e6407&o=" alt="The Ritz Carlton, Pentagon City" style="width:100%">
+<img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
 <div class="container">
-<h2>The Ritz Carlton, Pentagon City</h2>
+<h2>The Ritz-Carlton, Atlanta</h2>
+<ins class="bookingaff" data-aid="1618137" data-target_aid="1618137" data-prod="rw" data-width="0" data-height="0" data-show_rw_badge="1" data-show_rw_text="1" data-hid="265604">
+    <!-- Anything inside will go away once widget is loaded. -->
+    <a href="//www.booking.com?aid=1618137">Booking.com</a>
+</ins>
+<script type="text/javascript">
+    (function(d, sc, u) {
+      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = u + '?v=' + (+new Date());
+      p.parentNode.insertBefore(s,p);
+      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
+</script>
 <p><img src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" align="left">Marriott</p>
-<p>This 5-star Arlington hotel is within a 10-minute drive of Washington, D.C. The hotel offers an on-site restaurant and modern guest rooms with flat-screen TVs.</p>
-<p><h3><a href="https://www.booking.com/hotel/us/ritz-carlton-pentagon-city.en.html?aid=893121&no_rooms=1&group_adults=1" style="text-decoration:none" target="_self" class="button">Reservar</a></h3></p>
-</div>
-</div>
-</div>
-
-<div class="column">
-<div class="card">
-<img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/26085226.jpg?k=336ce6f788542058a98ec2437f17544c6128856e8fd1020a576f00f1dfddaefa&o=" alt="The Ritz-Carlton, Sarasota" style="width:100%">
-<div class="container">
-<h2>The Ritz-Carlton, Sarasota</h2>
-<p><img src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" align="left">Marriott</p>
-<p>Located on the seafront in central Sarasota, the resort offers a spa center and access to a nearby private beach and outdoor pool. All rooms feature private balconies.</p>
-<p><h3><a href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1" style="text-decoration:none" target="_self" class="button">Reserve</a></h3></p>
+<p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
 </div>
 </div>
 </div>
@@ -134,8 +134,31 @@ html {
       })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
 </script>
 <p><img src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" align="left">Marriott</p>
-<p>This 5-star Arlington hotel is within a 10-minute drive of Washington, D.C. The hotel offers an on-site restaurant and modern guest rooms with flat-screen TVs.</p>
-<p><h2><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h2></p>
+<p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
+</div>
+</div>
+</div>
+
+<div class="column">
+<div class="card">
+<img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
+<div class="container">
+<h2>The Ritz-Carlton, Atlanta</h2>
+<ins class="bookingaff" data-aid="1618137" data-target_aid="1618137" data-prod="rw" data-width="0" data-height="0" data-show_rw_badge="1" data-show_rw_text="1" data-hid="265604">
+    <!-- Anything inside will go away once widget is loaded. -->
+    <a href="//www.booking.com?aid=1618137">Booking.com</a>
+</ins>
+<script type="text/javascript">
+    (function(d, sc, u) {
+      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = u + '?v=' + (+new Date());
+      p.parentNode.insertBefore(s,p);
+      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
+</script>
+<p><img src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" align="left">Marriott</p>
+<p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
 </div>
 </div>
 </div>
