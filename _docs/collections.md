@@ -118,7 +118,7 @@ html {
 <img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
 <div class="container">
 <h2>The Ritz-Carlton, Atlanta</h2>
-<p>This ideally situated downtown Atlanta hotel offers a fitness centre and restaurant. The Ritz-Carlton is less than one kilometer from MARTA mass transit and offers guests 37-inch flat-screen TVs.</p>  
+<p>This ideally situated downtown Atlanta hotel offers a fitness centre and restaurant. The Ritz-Carlton is less than one kilometer from MARTA mass transit and offers guests TVs.</p>  
 <p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
 </div>
 </div>
