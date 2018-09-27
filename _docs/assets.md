@@ -21,11 +21,9 @@ tags: featured
     </thead>
     <tbody>
         <tr>
-            <<td><img class="uk-preserve-width uk-border-circle" src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" width="100%" alt=""></td>
-                <td class="uk-table-link">
-                    <a class="uk-link-reset" href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1>This ideally situated downtown Atlanta hotel offers a fitness centre and restaurant. The Ritz-Carlton is less than one kilometer from MARTA mass transit and offers guests 37-inch flat-screen TVs.</a>
-                </td>
-            <td><button class="uk-button uk-button-default" href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1" type="button">Button</button></td>
+            <td><img class="uk-preserve-width uk-border-circle" src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" width="100%" alt=""></td>
+<td>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</td>
+            <td><a class="uk-button uk-button-default" href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1"></a></td>
         </tr>
         <tr>
             <td>Table Data</td>
