@@ -2,7 +2,20 @@
 
 - title: Transporte o Rentar un auto
   desc: Get your account up and running in just few easy steps
-  icon: settings
+  <ul class="uk-slideshow-items">
+    <li>
+        <img data-src="" width="" height="" alt="" uk-img="target: !ul > :last-child, !* +*">
+    </li>
+    <li>
+        <img data-src="" width="" height="" alt="" uk-img="target: !* -*, !* +*">
+    </li>
+    <li>
+        <img data-src="" width="" height="" alt="" uk-img="target: !* -*, !* +*">
+    </li>
+    <li>
+        <img data-src="" width="" height="" alt="" uk-img="target: !* -*, !ul > :first-child">
+    </li>
+</ul>
   doc: home
 
 - title: City Tours
