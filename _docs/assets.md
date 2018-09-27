@@ -25,7 +25,7 @@ tags: featured
         <tbody>
             <tr>
                 <td><input class="uk-checkbox" type="checkbox"></td>
-                <td><img class="uk-preserve-width uk-border-circle" src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" width="40" alt=""></td>
+                <td><img class="uk-preserve-width uk-border-circle" src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" width="16" alt=""></td>
                 <td class="uk-table-link">
                     <a class="uk-link-reset" href="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</a>
                 </td>
