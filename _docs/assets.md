@@ -22,9 +22,9 @@ tags: featured
     <tbody>
         <tr>
 <td><img class="uk-preserve-width uk-border-circle" src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" width="100%" alt=""></td>
-<td><h2>The Ritz-Carlton Atlanta</h2>This ideally situated downtown Atlanta hotel offers a fitness centre and restaurant. The Ritz-Carlton is less than one kilometer from MARTA mass transit and offers guests 37-inch flat-screen TVs.<ins class="bookingaff" data-aid="1617463" data-target_aid="1617463" data-prod="rw" data-width="0" data-height="0" data-lang="en" data-show_rw_logo="1" data-show_rw_badge="1" data-show_rw_text="1" data-show_rw_border="1">
+<td><h2>The Ritz-Carlton Atlanta</h2>This ideally situated downtown Atlanta hotel offers a fitness centre and restaurant. The Ritz-Carlton is less than one kilometer from MARTA mass transit and offers guests 37-inch flat-screen TVs.<ins class="bookingaff" data-aid="1618137" data-target_aid="1618137" data-prod="rw" data-width="0" data-height="0" data-show_rw_badge="1" data-show_rw_text="1" data-hid="265604">
     <!-- Anything inside will go away once widget is loaded. -->
-    <a href="//www.booking.com?aid=1617463">Booking.com</a>
+    <a href="//www.booking.com?aid=1618137">Booking.com</a>
 </ins>
 <script type="text/javascript">
     (function(d, sc, u) {
@@ -37,6 +37,7 @@ tags: featured
 </script></td>
 <td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></td>
         </tr>
+        <br>
         <tr>
             <td><img class="uk-preserve-width uk-border-circle" src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" width="100%" alt=""></td>
 <td>This ideally situated downtown Atlanta hotel offers a fitness centre and restaurant. The Ritz-Carlton is less than one kilometer from MARTA mass transit and offers guests 37-inch flat-screen TVs.</td>
