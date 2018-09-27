@@ -127,33 +127,33 @@ html {
 
 <div class="column">
 <div class="card">
-<img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/26050987.jpg?k=c5d96916426e87a16842ed32ec4b088297a30d00936c56c94891fda7980e6407&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
+<img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/63829176.jpg?k=80d1a15c1319fa807f40ff32709d12f844841e58f79c779bf40dbedb9807a31d&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
 <div class="container">
 <h2>The Ritz-Carlton Bacara, Santa Barbara</h2>
-<p>This 5-star Arlington hotel is within a 10-minute drive of Washington, D.C. The hotel offers an on-site restaurant and modern guest rooms with flat-screen TVs.</p>  
-<p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-pentagon-city.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
+<p>Adjacent to the Sandpiper golf course, this Santa Barbara resort boasts beautiful ocean views, an outdoor pool and on-site dining.</p>  
+<p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/bacara-resort.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
 </div>
 </div>
 </div>
 
 <div class="column">
 <div class="card">
-<img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/26085226.jpg?k=336ce6f788542058a98ec2437f17544c6128856e8fd1020a576f00f1dfddaefa&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
+<img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/51045648.jpg?k=5d97c72ee4b3add45b0dbcd261694831b3718ec57110cba2396570f58db8eb4b&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
 <div class="container">
 <h2>The Ritz-Carlton Bal Harbour, Miami</h2>
-<p>Located on the seafront in central Sarasota, the resort offers a spa center and access to a nearby private beach and outdoor pool. All rooms feature private balconies.</p>  
-<p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
+<p>This property is a 2-minute walk from the beach. The Ritz-Carlton’s 10,000-square-foot spa features a sauna and steam room and offers hydrotherapy and meditative spaces. </p>  
+<p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/the-ritz-carlton-bal-harbour.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
 </div>
 </div>
 </div>
 
 <div class="column">
 <div class="card">
-<img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
+<img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/127833876.jpg?k=7ce8c5d44af39d0ef1772faa659922ac259d8d238f45bbd22d5a2f240d3c254f&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
 <div class="container">
 <h2>The Ritz-Carlton Club, Aspen Highland</h2>
-<p>This ideally situated downtown Atlanta hotel offers a fitness centre and restaurant. The Ritz-Carlton is less than one kilometer from MARTA mass transit and offers guests TVs.</p>  
-<p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
+<p>Set 3.3 km from Aspen Mountain Ajax, The Ritz-Carlton Club, Aspen Highlands offers a fitness centre, and accommodation with a balcony and free WiFi.</p>  
+<p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/the-ritz-carlton-club-aspen-highlands.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
 </div>
 </div>
 </div>
