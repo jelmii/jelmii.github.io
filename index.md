@@ -1,7 +1,7 @@
 ---
 layout: home
 hero:
-    title: Welcome to bankhing.com.
+    title: Are you looking for hotel? 
     subtitle: The Hotel Brands
   
     search: true
