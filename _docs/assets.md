@@ -21,7 +21,7 @@ tags: featured
     </thead>
     <tbody>
         <tr>
-            <<td><img class="uk-preserve-width uk-border-circle" src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" width="40" alt=""></td>
+            <<td><img class="uk-preserve-width uk-border-circle" src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" width="100%" alt=""></td>
                 <td class="uk-table-link">
                     <a class="uk-link-reset" href="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</a>
                 </td>
