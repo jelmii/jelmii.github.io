@@ -95,10 +95,10 @@ html {
 <div class="card">
 <img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
 <div class="container">
-<h2>The Ritz-Carlton, Atlanta</h2>
-<ins class="bookingaff" data-aid="1618137" data-target_aid="1618137" data-prod="rw" data-width="0" data-height="0" data-show_rw_badge="1" data-show_rw_text="1" data-hid="265604">
+<h2>The Ritz-Carlton, Atlanta</h2><img src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" align="left">
+<ins class="bookingaff" data-aid="1618145" data-target_aid="1618145" data-prod="rw" data-width="0" data-height="0" data-show_rw_logo="1" data-show_rw_badge="1" data-show_rw_text="1" data-show_rw_border="1" data-hid="264823">
     <!-- Anything inside will go away once widget is loaded. -->
-    <a href="//www.booking.com?aid=1618137">Booking.com</a>
+    <a href="//www.booking.com?aid=1618145">Booking.com</a>
 </ins>
 <script type="text/javascript">
     (function(d, sc, u) {
@@ -109,7 +109,6 @@ html {
       p.parentNode.insertBefore(s,p);
       })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
 </script>
-<p><img src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" align="left">Marriott</p>
 <p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
 </div>
 </div>
