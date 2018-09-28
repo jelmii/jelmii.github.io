@@ -162,7 +162,7 @@ html {
 <div class="card">
 <img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/8849334.jpg?k=4a1f677e0f4609267b36269567fbad8445f81ee9b2da68ce9ac9d642d42b1193&o=" alt="The Ritz-Carlton Coconut Grove, Miami" style="width:100%">
 <div class="container">
-<h2>The Ritz-Carlton Coconut Grove, Miami</h2>
+<h2>The Ritz-Carlton Coconut Grove, Miami</h2><br>
 <p>A full-service spa, fitness centre, and rooms with balconies await at The Ritz-Carlton Coconut Grove, Miami. This 5-star hotel offers views of Biscayne Bay and is 8 km </p>  
 <p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-coconut-grove-miami.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
 </div>
@@ -184,7 +184,7 @@ html {
 <div class="card">
 <img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/143252420.jpg?k=a9ff77f394dc6415db30858baf0dba6a1f9994c7e9f12b804a9714f77fbd11fa&o=" alt="The Ritz-Carlton Golf Resort, Naples" style="width:100%">
 <div class="container">
-<h2>The Ritz-Carlton Golf Resort, Naples</h2>
+<h2>The Ritz-Carlton Golf Resort, Naples</h2><br>
 <p>Situated in Naples, this 4-star, 5-diamond resort features 2 championship golf courses, 3 award-winning restaurants and rooms with 37-inch flat-screen TVs.</p>  
 <p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-golf-resort-naples.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
 </div>
