@@ -6,11 +6,6 @@ author: John Black
 tags: featured
 ---
 
-#### Sections in this article
-{:.no_toc}
-* TOC
-{:toc}
-
 <table class="uk-table uk-table-middle uk-table-divider">
 <thead>
 <tr>
@@ -88,6 +83,119 @@ tags: featured
 <td><h2>Radisson Colon 2000</h2>Featuring an on-site casino, sun terrace with swimming pool, gym and spa, Radisson Colon 2000 is situated in the shores and offers fine views of the Manzanillo Bay. Free WiFi is available throughout the property.</td>
 <td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/radisson-colon-2000.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
 </tr>
+<br>
+<tr>
+<td><h2>Holiday Inn Panama Canal</h2>Holiday Inn Panama Canal offers its guests an outdoor pool set on a landscaped courtyard. The hotel also offers wired internet access for free and has an equipped fitness centre.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/holiday-inn-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Best Western El Dorado Panama Hotel</h2>Situated next to the Metropolitan Natural Park, the Best Western El Dorado Panama offers an outdoor pool, a gym and an on-site T.G.I. Friday's restaurant. Each stylish air-conditioned room has free Wi-Fi.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/country-inn-amp-suites-panama-city.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Holiday Inn Express Panama</h2>Offering an outdoor pool and a fitness centre, Holiday Inn Express Panama is located in Panama City’s main financial district. The stylish air-conditioned rooms include free WiFi and flat-screen cable TV. Free buffet breakfast is provided at Holiday Inn Express Panama.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/holiday-inn-express-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Sheraton Grand Panama</h2>Located in Panamá City and in front of the Atlapa Convention Centre, Sheraton Grand Panama is a 10-minute drive away from Tocumen International Airport. It features an outdoor swimming pool and spa.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/sheraton-panama-and-convention-center.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Courtyard by Marriott Panama at Metromall Mall</h2>At Courtyard by Marriott Panama at Metromall Mall you can find restaurants, shops and entertainment. Just 8 km from Tocumen International Airport and 15 km from central Panama City.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/courtyard-panama-metromall.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Courtyard by Marriott Panama at Multiplaza Mall</h2>Located at the heart of the entertainment and business center of Panama City, this hotel boasts 2 on-site restaurants and an outdoor pool. Its spacious rooms offer free Wi-Fi and a flat-screen TV.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/courtyard-panama-real.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Marriott Executive Apartments Panama City, Finisterre</h2>Centrally located in Panama City’s business district, this modern hotel offers a gym, free parking and free Wi-Fi in rooms. The terrace has a swimming pool and ocean views.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/finisterre-suites-and-spa.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>RIU Plaza Panama</h2>Located in the business district, Riu Plaza Panama offers stylish rooms with free Wi-Fi. It features an outdoor pool with hot tub and a spa. The Santuario Nacional Corazón de María Church is just 300 m away.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/riu-plaza-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Panama Marriott Hotel</h2>The luxury 20-storey Panama Marriott Hotel is set in central Panama City, 1 km from Bahía de Panamá Bay and its port. It features an outdoor pool, spa, and rooms with seating areas.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/panama-marriott.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr> 
+<br>
+<tr>
+<td><h2>Radisson Decapolis Hotel Panama City</h2>A heated outdoor pool, gym and spa with a Turkish bath, hot tub and massage service are offered at this stylish Panama City hotel. Rooms offer free Wi-Fi and city or sea views.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/radisson-decapolis-panama-city.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Hard Rock Hotel Panama Megapolis</h2>Set in a striking 66-storey tower overlooking Panama’s oceanfront, Hard Rock Hotel Panama Megapolis features a spa, outdoor pool and free WiFi. There are 4 restaurants, 6 bars, a rooftop lounge and a nightclub.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/hard-rock-panama-megapolis.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr> 
+<br>
+<tr>
+<td><h2>Tryp by Wyndham Panama Centro</h2>Tryp by Wyndham Panama Centro is located 1 km away from Panama town centre and 10 minutes’ drive from Panama International Airport. It features an outdoor pool, fitness center and a rooftop with city views.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/tryp-panama-centro.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Waldorf Astoria Panama</h2>Centrally located in the business district in Panama City, The Waldorf Astoria Panama features a swimming pool, spa, gym and massages services. The accommodations offer modern-style décor, air conditioning, flat-screen cable TV, coffee maker and work desk.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/waldorf-astoria-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>The Westin Panama</h2>Featuring modern-style décor and a roof-top garden with sun terrace and swimming pool, The Westin Panama is 3 km from Old Panama City and 5 minutes’ drive from Plaza Costa del Este Shopping Centre.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/the-westin-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Crowne Plaza Panama</h2>Crowne Plaza is located in the Financial District of Panama City and a short distance from restaurants and shops. It offers a 24-hour fitness centre, outdoor pool and a business centre plus meeting facilities.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/crowne-plaza-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Intercontinental Miramar Panama</h2>Intercontinental Miramar Panama offers its guests spa facilities with massage services, sauna and a fitness centre with certified instructors. Located 9 minutes’ drive from central Panama City, this hotel is ideal for business or pleasure.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/intercontinental-miramar-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Dreams Delight Playa Bonita - All Inclusive</h2>IDreams Playa Bonita Resort & Spa offers its guests 5 outdoor pools, spa facilities with massage services and a fitness centre. Located in a private area in the closest beach to Panama City, only 17 km away.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/intercontinental-playa-bonita-resort-amp-spa.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Wyndham Panama Albrook Mall</h2>The accommodations at Wyndham Panama Albrook Mall are air-conditioned, have desks and 42” LED flat-screen TVs. They also feature safety deposit boxes and coffee makers. The spacious bathrooms have 2 sinks and a separate bathtub and shower.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/tryp-by-wyndham-panama-at-albrook-mall.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Radisson Hotel Panama Canal</h2>Located right at the mouth of the Panama Canal, Radisson Hotel Panama Canal offers an outdoor pool, hot tub, gym and lush gardens. Free WiFi and free parking are provided.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/country-inn-amp-suites-panama-canal.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Hilton Panama</h2>Rooms at Hilton Panama will provide you with a flat-screen TV, air conditioning and cable channels. Featuring a shower, private bathrooms also come with free toiletries. Some rooms have a sea view.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/hilton-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Hampton by Hilton Panama</h2>Located near Panama City’s financial district, Hampton Inn Panama offers free WiFi, an on-site gym and free daily breakfast. This modern hotel boasts extensive banquet and meeting facilities. Guests can enjoy the rooftop pool.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/hampton-inn-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Sortis Hotel, Spa & Casino, Autograph Collection</h2>Located in central Panama City, Sortis Hotel Autograph Collection features an outdoor pool, a casino, a spa and a fitness centre. The stylish rooms and apartments offer city views.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/sortis-spa-and-casino-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+    
+ 
+    
     
     
 
