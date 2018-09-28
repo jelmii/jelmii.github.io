@@ -94,7 +94,7 @@ html {
 
 <div class="column">
 <div class="card">
-<img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/26050987.jpg?k=c5d96916426e87a16842ed32ec4b088297a30d00936c56c94891fda7980e6407&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
+<img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/26050987.jpg?k=c5d96916426e87a16842ed32ec4b088297a30d00936c56c94891fda7980e6407&o=" alt="The Ritz Carlton, Pentagon City" style="width:100%">
 <div class="container">
 <h2>The Ritz Carlton, Pentagon City</h2>
 <p>This 5-star Arlington hotel is within a 10-minute drive of Washington, D.C. The hotel offers an on-site restaurant and modern guest rooms with flat-screen TVs.</p>  
@@ -105,7 +105,7 @@ html {
 
 <div class="column">
 <div class="card">
-<img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/26085226.jpg?k=336ce6f788542058a98ec2437f17544c6128856e8fd1020a576f00f1dfddaefa&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
+<img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/26085226.jpg?k=336ce6f788542058a98ec2437f17544c6128856e8fd1020a576f00f1dfddaefa&o=" alt="The Ritz-Carlton, Sarasota" style="width:100%">
 <div class="container">
 <h2>The Ritz-Carlton, Sarasota</h2>
 <p>Located on the seafront in central Sarasota, the resort offers a spa center and access to a nearby private beach and outdoor pool. All rooms feature private balconies.</p>  
@@ -127,7 +127,7 @@ html {
 
 <div class="column">
 <div class="card">
-<img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/63829176.jpg?k=80d1a15c1319fa807f40ff32709d12f844841e58f79c779bf40dbedb9807a31d&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
+<img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/63829176.jpg?k=80d1a15c1319fa807f40ff32709d12f844841e58f79c779bf40dbedb9807a31d&o=" alt="The Ritz-Carlton Bacara, Santa Barbara" style="width:100%">
 <div class="container">
 <h2>The Ritz-Carlton Bacara, Santa Barbara</h2>
 <p>Adjacent to the Sandpiper golf course, this Santa Barbara resort boasts beautiful ocean views, an outdoor pool and on-site dining. All guest rooms include a private</p>  
@@ -138,7 +138,7 @@ html {
 
 <div class="column">
 <div class="card">
-<img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/51045648.jpg?k=5d97c72ee4b3add45b0dbcd261694831b3718ec57110cba2396570f58db8eb4b&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
+<img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/51045648.jpg?k=5d97c72ee4b3add45b0dbcd261694831b3718ec57110cba2396570f58db8eb4b&o=" alt="The Ritz-Carlton Bal Harbour, Miami" style="width:100%">
 <div class="container">
 <h2>The Ritz-Carlton Bal Harbour, Miami</h2>
 <p>This property is a 2-minute walk from the beach. The Ritz-Carlton’s 10,000-square-foot spa features a sauna and steam room and offers hydrotherapy and meditative spaces. </p>  
@@ -149,7 +149,7 @@ html {
 
 <div class="column">
 <div class="card">
-<img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/127833876.jpg?k=7ce8c5d44af39d0ef1772faa659922ac259d8d238f45bbd22d5a2f240d3c254f&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
+<img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/127833876.jpg?k=7ce8c5d44af39d0ef1772faa659922ac259d8d238f45bbd22d5a2f240d3c254f&o=" alt="The Ritz-Carlton Club, Aspen Highland" style="width:100%">
 <div class="container">
 <h2>The Ritz-Carlton Club, Aspen Highland</h2>
 <p>Set 3.3 km from Aspen Mountain Ajax, The Ritz-Carlton Club, Aspen Highlands offers a fitness centre, and accommodation with a balcony and free WiFi. Each unit is fitted with.</p>  
@@ -158,10 +158,38 @@ html {
 </div>
 </div>
 
+<div class="column">
+<div class="card">
+<img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/8849334.jpg?k=4a1f677e0f4609267b36269567fbad8445f81ee9b2da68ce9ac9d642d42b1193&o=" alt="The Ritz-Carlton Coconut Grove, Miami" style="width:100%">
+<div class="container">
+<h2>The Ritz-Carlton Coconut Grove, Miami</h2>
+<p>A full-service spa, fitness centre, and rooms with balconies await at The Ritz-Carlton Coconut Grove, Miami. This 5-star hotel offers views of Biscayne Bay and is 8 km </p>  
+<p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-coconut-grove-miami.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
+</div>
+</div>
+</div>
 
+<div class="column">
+<div class="card">
+<img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/72007500.jpg?k=8861dbcf4df740ab27fb7cdeeac5d143a7748274f1a5418debca1f7e88be092e&o=" alt="The Ritz-Carlton Georgetown, Washington, D.C." style="width:100%">
+<div class="container">
+<h2>The Ritz-Carlton Georgetown, Washington, D.C.</h2>
+<p>Located in the historic Georgetown, The Ritz-Carlton Georgetown, Washington, D.C. offers two on-site restaurants, a full-service fitness centre and spa for guests.</p>  
+<p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/the-ritz-carlton-georgetown.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
+</div>
+</div>
+</div>
 
-
-
+<div class="column">
+<div class="card">
+<img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/143252420.jpg?k=a9ff77f394dc6415db30858baf0dba6a1f9994c7e9f12b804a9714f77fbd11fa&o=" alt="The Ritz-Carlton Golf Resort, Naples" style="width:100%">
+<div class="container">
+<h2>The Ritz-Carlton Golf Resort, Naples</h2>
+<p>Situated in Naples, this 4-star, 5-diamond resort features 2 championship golf courses, 3 award-winning restaurants and rooms with 37-inch flat-screen TVs.</p>  
+<p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-golf-resort-naples.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
+</div>
+</div>
+</div>
 
 </div>
 </body>
