@@ -1,62 +1,70 @@
 ---
 layout: doc
-title: Marriott
-subtitle: 
-author: Ed Sheeran
+title: Estados Unidos
+categories: [Getting Started, Troubleshooting]
+author: John Black
 tags: featured
 ---
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/lp-EO5I60KA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+#### Sections in this article
+{:.no_toc}
+* TOC
+{:toc}
 
-<center>When your legs don't work like they used to before
-And I can't sweep you off of your feet
-Will your mouth still remember the taste of my love?
-Will your eyes still smile from your cheeks?</center>
+<table class="uk-table uk-table-middle uk-table-divider">
+<thead>
+<tr>
+<th class="uk-width-small"></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img class="uk-preserve-width uk-border-circle" src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" width="100%" alt=""></td>
+<td><h2>The Ritz-Carlton Atlanta</h2>This ideally situated downtown Atlanta hotel offers a fitness centre and restaurant. The Ritz-Carlton is less than one kilometer from MARTA mass transit and offers guests 37-inch flat-screen TVs.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><img class="uk-preserve-width uk-border-circle" src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" width="100%" alt=""></td>
+<td><h2>The Ritz-Carlton Atlanta</h2>This ideally situated downtown Atlanta hotel offers a fitness centre and restaurant. The Ritz-Carlton is less than one kilometer from MARTA mass transit and offers guests 37-inch flat-screen TVs.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+</tbody>
+</table>
+<html>
+<head>
+    
+## Image Lightbox Example
+Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
 
-<center>And, darling, I will be loving you 'til we're 70
-And, baby, my heart could still fall as hard at 23
-And I'm thinking 'bout how people fall in love in mysterious ways
-Maybe just the touch of a hand
-Well, me—I fall in love with you every single day
-And I just wanna tell you I am</center>
+{% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
 
-<center>So, honey, now
-Take me into your loving arms
-Kiss me under the light of a thousand stars
-Place your head on my beating heart
-I'm thinking out loud
-Maybe we found love right where we are
-</center>
+Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
 
-<center>When my hair's all but gone and my memory fades
-And the crowds don't remember my name
-When my hands don't play the strings the same way (mmm...)
-I know you will still love me the same</center>
+## Example Of Code Block
+In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
 
-<center>'Cause, honey, your soul could never grow old, it's evergreen
-And, baby, your smile's forever in my mind and memory
-I'm thinking 'bout how people fall in love in mysterious ways
-Maybe it's all part of a plan
-Well, I'll just keep on making the same mistakes
-Hoping that you'll understand</center>
+```html
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  <link rel="shortcut icon" type="image/png" href="{{ "assets/img/favicon.png" | relative_url }}" >
+  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
+</head>
+```
 
-<center>That, baby, now
-Take me into your loving arms
-Kiss me under the light of a thousand stars
-Place your head on my beating heart
-Thinking out loud
-Maybe we found love right where we are (oh, oh)</center>
+## Text and Quote
+Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
 
-<center>La, la, la, la, la, la, la, la, lo-ud</center>
+> Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet
 
-<center>So, baby, now
-Take me into your loving arms
-Kiss me under the light of a thousand stars
-Oh, darling, place your head on my beating heart
-I'm thinking out loud
-But maybe we found love right where we are
-Oh, baby, we found love right where we are
-And we found love right where we are</center>
+In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+
+Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.
 
 
 
