@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: Panama City, Panama, Panama
-categories: [Getting Started, Troubleshooting]
-author: John Black
+subtitle: 3 reasons to visit: gourmet food, outdoor activities and beaches 
+author: Ed Sheeran
 tags: featured
 ---
 
