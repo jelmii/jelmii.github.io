@@ -14,7 +14,6 @@ tags: featured
 <table class="uk-table uk-table-middle uk-table-divider">
 <thead>
 <tr>
-<th class="uk-width-small"></th>
 <th></th>
 <th></th>
 </tr>
