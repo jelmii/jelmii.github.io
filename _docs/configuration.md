@@ -193,6 +193,38 @@ tags: featured
 <td><h2>Sortis Hotel, Spa & Casino, Autograph Collection</h2>Located in central Panama City, Sortis Hotel Autograph Collection features an outdoor pool, a casino, a spa and a fitness centre. The stylish rooms and apartments offer city views.</td>
 <td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/sortis-spa-and-casino-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
 </tr>
+<br>
+<tr>
+<td><h2>Sortis Hotel, Spa & Casino, Autograph Collection</h2>Located in central Panama City, Sortis Hotel Autograph Collection features an outdoor pool, a casino, a spa and a fitness centre. The stylish rooms and apartments offer city views.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/sortis-spa-and-casino-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Crowne Plaza Airport</h2>Crowne Plaza Airport offers accommodation in Tocumen just a 200 m from Tocumen International Airport while a free shuttle service from the airport is offered as well as free internet access throughout the property.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/crowne-plaza-airport.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Ramada Panama Centro Via Argentina</h2>Featuring an outdoor swimming pool, fitness centre and free WiFi, Ramada by Wyndham Panama Centro Via Argentina is located in Panama City, 4.3 km from Ancon Hill and 6 km from Rod Carew National Stadium.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/ramada-panama-centro.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>AC Hotel by Marriott Panama City</h2>Featuring an outdoor swimming pool, fitness centre and free WiFi, Ramada by Wyndham Panama Centro Via Argentina is located in Panama City, 4.3 km from Ancon Hill and 6 km from Rod Carew National Stadium.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/ramada-panama-centro.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>W Panama</h2>Inspired by local art, fashion, culture and cuisine, W Panama offers 5-star accommodation in the business district in Panama City. This property boasts two restaurants, four bars and an outdoor pool.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/w-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>The Santa Maria, a Luxury Collection Hotel & Golf Resort, Panama City</h2>Featuring a fitness centre and a garden, The Santa Maria, a Luxury Collection Hotel & Golf Resort, Panama City is situated in Panama City and is 10 km from Rod Carew National Stadium.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/the-santa-maria-a-luxury-collection-golf-resort-panama-city.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr> 
+    
+    
     
  
     
