@@ -75,8 +75,18 @@ tags: featured
 </tr>
 <br>
 <tr>
-<td><h2>Hilton Garden Inn Panama City Downtown</h2>Hilton Garden Inn Panama City Downtown is set in Panama City’s financial district, 2 blocks from Via España and the metro station. This modern hotel features a gym, a hot tub with panoramic views, free Wi-Fi and free parking.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/hilton-garden-inn-panama-city-downtown.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+<td><h2>Hotel Sercotel Panama Princess</h2>Featuring a swimming pool, sauna, spa centre and free Wi-Fi, Sercotel Panama Princess is set in the World Trade Centre, 3 km from Panama Bay Beach and Panama City Centre.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/four-points-by-sheraton-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>The Bristol Hotel</h2>Amid the financial district of Panamá, The Bristol has a spa centre and a sauna for guests to enjoy a massage, or they may use the fitness centre after a day’s work. Free WiFi is available.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/the-brsitol.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+</tr>
+<br>
+<tr>
+<td><h2>Radisson Colon 2000</h2>Featuring an on-site casino, sun terrace with swimming pool, gym and spa, Radisson Colon 2000 is situated in the shores and offers fine views of the Manzanillo Bay. Free WiFi is available throughout the property.</td>
+<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/radisson-colon-2000.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
 </tr>
     
     
