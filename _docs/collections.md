@@ -152,7 +152,7 @@ html {
 <img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/127833876.jpg?k=7ce8c5d44af39d0ef1772faa659922ac259d8d238f45bbd22d5a2f240d3c254f&o=" alt="The Ritz-Carlton, Atlanta" style="width:100%">
 <div class="container">
 <h2>The Ritz-Carlton Club, Aspen Highland</h2>
-<p>Set 3.3 km from Aspen Mountain Ajax, The Ritz-Carlton Club, Aspen Highlands offers a fitness centre, and accommodation with a balcony and free WiFi. Each unit is fitted with air conditioning, a private bathroom and a kitchen.</p>  
+<p>Set 3.3 km from Aspen Mountain Ajax, The Ritz-Carlton Club, Aspen Highlands offers a fitness centre, and accommodation with a balcony and free WiFi. Each unit is fitted with.</p>  
 <p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/the-ritz-carlton-club-aspen-highlands.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
 </div>
 </div>
