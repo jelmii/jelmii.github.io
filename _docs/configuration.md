@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Panama City, Panama, Panama
-subtitle: 3 reasons to visit: gourmet food, outdoor activities and beaches 
+subtitle: 
 author: Ed Sheeran
 tags: featured
 ---
