@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Estados Unidos
+title: Panamá
 categories: [Getting Started, Troubleshooting]
 author: John Black
 tags: featured
