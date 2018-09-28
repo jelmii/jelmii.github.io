@@ -185,7 +185,7 @@ html {
 <img src="https://r-ec.bstatic.com/xdata/images/hotel/square200/143252420.jpg?k=a9ff77f394dc6415db30858baf0dba6a1f9994c7e9f12b804a9714f77fbd11fa&o=" alt="The Ritz-Carlton Golf Resort, Naples" style="width:100%">
 <div class="container">
 <h2>The Ritz-Carlton Golf Resort, Naples</h2>
-<p>Situated in Naples, this 4-star, 5-diamond resort features 2 championship golf courses, 3 award-winning restaurants and rooms with 37-inch flat-screen TVs.</p>  
+<p>Situated in Naples, this 4-star, 5-diamond resort features 2 championship golf courses, 3 award-winning restaurants and rooms with 37-inch flat-screen TVs. The Gulf of Mexico</p>  
 <p><h1><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-golf-resort-naples.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></h1></p>
 </div>
 </div>
