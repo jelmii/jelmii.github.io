@@ -2,7 +2,7 @@
 layout: doc
 title: Panama City, Panama, Panama
 subtitle: 
-author: Ed Sheeran
+author: 
 tags: featured
 ---
 
