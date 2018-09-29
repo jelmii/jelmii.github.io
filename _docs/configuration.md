@@ -6,7 +6,20 @@ author:
 tags: featured
 ---
 
+#### About The Ritz-Carlton
+{:.no_toc}
+* TOC
+{:toc}
 
+## Aloft Panama
+10400 Fernwood Road,
+Bethesda, MD 20817, United States.
+Phone: (301) 380-3000
+Reservations: (800) 241-3333
+
+## Executive Officers
+
+Aloft Panama is located in Panama City next to Atlapa Convention Centre. This modern hotel features "Re:Fuel," a 24-hour grab-and-go snack bar with sandwiches, wraps and salads. Guests also enjoy an on-site gym and outdoor pool.<a class="uk-button uk-button-link" href="https://www.booking.com/hotel/pa/hyatt-place-panama-city-downtonw.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a>
 <html>
 <thead>
 <tr>
@@ -16,13 +29,13 @@ tags: featured
 </thead>
 <tbody>
 <tr>
-<td><h2>Aloft Panama</h2>Aloft Panama is located in Panama City next to Atlapa Convention Centre. This modern hotel features "Re:Fuel," a 24-hour grab-and-go snack bar with sandwiches, wraps and salads. Guests also enjoy an on-site gym and outdoor pool.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/aloft-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+<td><h2></h2></td>
+<td><</td>
 </tr>
 <br>
 <tr>
 <td><h2>Hyatt Place Panama City Downtown</h2>Offering an outdoor pool and a restaurant, Hyatt Place Panama City Downtown is located in Panama City, Panama. Free WiFi access is available. Each room here will provide you with air conditioning.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/hyatt-place-panama-city-downtonw.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
+<td></td>
 </tr>
 <br>
 <tr>
