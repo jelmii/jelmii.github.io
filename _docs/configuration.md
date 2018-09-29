@@ -7,7 +7,7 @@ tags: featured
 ---
 
 
-<table class="uk-table uk-table-justify uk-table-divider">
+<html>
 <thead>
 <tr>
 <th></th>
@@ -226,7 +226,7 @@ tags: featured
 </tr> 
 
 </tbody>
-</table>
+</html>
 
     
 
