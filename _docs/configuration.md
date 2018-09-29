@@ -6,7 +6,8 @@ author:
 tags: featured
 ---
 
-<table class="uk-table uk-table-middle uk-table-divider">
+
+
 <thead>
 <tr>
 <th></th>
@@ -223,23 +224,9 @@ tags: featured
 <td><h2>The Santa Maria, a Luxury Collection Hotel & Golf Resort, Panama City</h2>Featuring a fitness centre and a garden, The Santa Maria, a Luxury Collection Hotel & Golf Resort, Panama City is situated in Panama City and is 10 km from Rod Carew National Stadium.</td>
 <td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/the-santa-maria-a-luxury-collection-golf-resort-panama-city.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
 </tr> 
-    
-    
-    
- 
-    
-    
-    
-
-
-
-
-
 
 </tbody>
-</table>
-<html>
-<head>
+
     
 
 
