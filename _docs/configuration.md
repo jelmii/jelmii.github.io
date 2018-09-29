@@ -12,234 +12,244 @@ tags: featured
 {:toc}
 
 
-## Aloft Panama
-Aloft Panama is located in Panama City next to Atlapa Convention Centre. This modern hotel features "Re:Fuel," a 24-hour grab-and-go snack bar with sandwiches, wraps and salads. Guests also enjoy an on-site gym and outdoor pool.<a class="uk-button uk-button-link" href="https://www.booking.com/hotel/pa/hyatt-place-panama-city-downtonw.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a>
-
-## Hyatt Place Panama City Downtown
-Offering an outdoor pool and a restaurant, Hyatt Place Panama City Downtown is located in Panama City, Panama. Free WiFi access is available. Each room here will provide you with air conditioning.<a class="uk-button uk-button-link" href="https://www.booking.com/hotel/pa/hyatt-place-panama-city-downtonw.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a>
-
-
-
-<html>
-<thead>
-<tr>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><h2></h2></td>
-<td><</td>
-</tr>
-<br>
-<tr>
-<td><h2></h2></td>
-<td></td>
-</tr>
-<br>
-<tr>
-<td><h2>Ramada Plaza Panamá - Punta Pacífica</h2>Offering an outdoor pool and a spa and wellness centre, Ramada Plaza Panamá - Punta Pacífica is located in Panama City. It boasts panoramic views of the city and free WiFi.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/ramada-plaza-panama-punta-pacifica.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>    
-<br>
-<tr>
-<td><h2>Best Western Plus Panama Zen Hotel</h2>Best Western Plus Panama Zen Hotel has a privileged location only 8 minutes’ drive from important Balboa Avenue and the Corredor Sur. It boasts an infinity pool and a bar in the rooftop terrace.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/best-western-plus-panama-zen.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>DoubleTree by Hilton Panama City</h2>Located in the centre of Panama City, DoubleTree by Hilton Panama City is set opposite El Carmen Church and 500 m from Cinta Costera. It features a rooftop pool and a spa with a hot tub and gym.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/panamacity-viaespanaandavefedericoboyd.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Radisson Summit Resort & Golf Panama</h2>Radisson Summit Hotel & Golf Panama is set in a tropical rainforest within the Camino de Cruces National Park, just 2 km from the Panama Canal. It offers 2 outdoor pools, a nature trail, butterfly farm and frog farm, as well as an 18-hole golf course.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/radisson-summit.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Clarion Victoria Hotel and Suites Panama</h2>This modern hotel is located in Panamá City’s business district, just 8 minutes' drive from Vía España Avenue. It offers a gym, business centre and a rooftop pool with fantastic panoramic views.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/victoria-and-suites.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Le Meridien Panama</h2>Set overlooking Panama Bay, Le Meridien Panama features a spa and an outdoor swimming pool. It offers chic rooms with flat-screen TVs and sofas. Le Meridien Panama offers striking design and has a bright lobby with a glass atrium.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/le-meridien-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>The Westin Playa Bonita Panama</h2>Located on Playa Bonita Beach and offering Pacific Ocean views, The Westin Playa Bonita Panama is set next to lush rainforest. It features a 24-hour gym, outdoor pool, sensory spa sponsored and 6 restaurants.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/the-westin-playa-bonita-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Eurostars Panama City</h2>This stylish hotel is located in the centre of Panama City, in Bella Vista and close to the city's financial district. Eurostars Panama City features a spa, gym and an à la carte restaurant.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/eurostars-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Hilton Garden Inn Panama City Downtown</h2>Hilton Garden Inn Panama City Downtown is set in Panama City’s financial district, 2 blocks from Via España and the metro station. This modern hotel features a gym, a hot tub with panoramic views, free Wi-Fi and free parking.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/hilton-garden-inn-panama-city-downtown.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Hotel Sercotel Panama Princess</h2>Featuring a swimming pool, sauna, spa centre and free Wi-Fi, Sercotel Panama Princess is set in the World Trade Centre, 3 km from Panama Bay Beach and Panama City Centre.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/four-points-by-sheraton-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>The Bristol Hotel</h2>Amid the financial district of Panamá, The Bristol has a spa centre and a sauna for guests to enjoy a massage, or they may use the fitness centre after a day’s work. Free WiFi is available.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/the-brsitol.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Radisson Colon 2000</h2>Featuring an on-site casino, sun terrace with swimming pool, gym and spa, Radisson Colon 2000 is situated in the shores and offers fine views of the Manzanillo Bay. Free WiFi is available throughout the property.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/radisson-colon-2000.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Holiday Inn Panama Canal</h2>Holiday Inn Panama Canal offers its guests an outdoor pool set on a landscaped courtyard. The hotel also offers wired internet access for free and has an equipped fitness centre.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/holiday-inn-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Best Western El Dorado Panama Hotel</h2>Situated next to the Metropolitan Natural Park, the Best Western El Dorado Panama offers an outdoor pool, a gym and an on-site T.G.I. Friday's restaurant. Each stylish air-conditioned room has free Wi-Fi.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/country-inn-amp-suites-panama-city.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Holiday Inn Express Panama</h2>Offering an outdoor pool and a fitness centre, Holiday Inn Express Panama is located in Panama City’s main financial district. The stylish air-conditioned rooms include free WiFi and flat-screen cable TV. Free buffet breakfast is provided at Holiday Inn Express Panama.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/holiday-inn-express-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Sheraton Grand Panama</h2>Located in Panamá City and in front of the Atlapa Convention Centre, Sheraton Grand Panama is a 10-minute drive away from Tocumen International Airport. It features an outdoor swimming pool and spa.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/sheraton-panama-and-convention-center.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Courtyard by Marriott Panama at Metromall Mall</h2>At Courtyard by Marriott Panama at Metromall Mall you can find restaurants, shops and entertainment. Just 8 km from Tocumen International Airport and 15 km from central Panama City.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/courtyard-panama-metromall.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Courtyard by Marriott Panama at Multiplaza Mall</h2>Located at the heart of the entertainment and business center of Panama City, this hotel boasts 2 on-site restaurants and an outdoor pool. Its spacious rooms offer free Wi-Fi and a flat-screen TV.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/courtyard-panama-real.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Marriott Executive Apartments Panama City, Finisterre</h2>Centrally located in Panama City’s business district, this modern hotel offers a gym, free parking and free Wi-Fi in rooms. The terrace has a swimming pool and ocean views.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/finisterre-suites-and-spa.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>RIU Plaza Panama</h2>Located in the business district, Riu Plaza Panama offers stylish rooms with free Wi-Fi. It features an outdoor pool with hot tub and a spa. The Santuario Nacional Corazón de María Church is just 300 m away.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/riu-plaza-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Panama Marriott Hotel</h2>The luxury 20-storey Panama Marriott Hotel is set in central Panama City, 1 km from Bahía de Panamá Bay and its port. It features an outdoor pool, spa, and rooms with seating areas.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/panama-marriott.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr> 
-<br>
-<tr>
-<td><h2>Radisson Decapolis Hotel Panama City</h2>A heated outdoor pool, gym and spa with a Turkish bath, hot tub and massage service are offered at this stylish Panama City hotel. Rooms offer free Wi-Fi and city or sea views.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/radisson-decapolis-panama-city.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Hard Rock Hotel Panama Megapolis</h2>Set in a striking 66-storey tower overlooking Panama’s oceanfront, Hard Rock Hotel Panama Megapolis features a spa, outdoor pool and free WiFi. There are 4 restaurants, 6 bars, a rooftop lounge and a nightclub.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/hard-rock-panama-megapolis.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr> 
-<br>
-<tr>
-<td><h2>Tryp by Wyndham Panama Centro</h2>Tryp by Wyndham Panama Centro is located 1 km away from Panama town centre and 10 minutes’ drive from Panama International Airport. It features an outdoor pool, fitness center and a rooftop with city views.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/tryp-panama-centro.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Waldorf Astoria Panama</h2>Centrally located in the business district in Panama City, The Waldorf Astoria Panama features a swimming pool, spa, gym and massages services. The accommodations offer modern-style décor, air conditioning, flat-screen cable TV, coffee maker and work desk.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/waldorf-astoria-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>The Westin Panama</h2>Featuring modern-style décor and a roof-top garden with sun terrace and swimming pool, The Westin Panama is 3 km from Old Panama City and 5 minutes’ drive from Plaza Costa del Este Shopping Centre.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/the-westin-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Crowne Plaza Panama</h2>Crowne Plaza is located in the Financial District of Panama City and a short distance from restaurants and shops. It offers a 24-hour fitness centre, outdoor pool and a business centre plus meeting facilities.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/crowne-plaza-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Intercontinental Miramar Panama</h2>Intercontinental Miramar Panama offers its guests spa facilities with massage services, sauna and a fitness centre with certified instructors. Located 9 minutes’ drive from central Panama City, this hotel is ideal for business or pleasure.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/intercontinental-miramar-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Dreams Delight Playa Bonita - All Inclusive</h2>IDreams Playa Bonita Resort & Spa offers its guests 5 outdoor pools, spa facilities with massage services and a fitness centre. Located in a private area in the closest beach to Panama City, only 17 km away.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/intercontinental-playa-bonita-resort-amp-spa.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Wyndham Panama Albrook Mall</h2>The accommodations at Wyndham Panama Albrook Mall are air-conditioned, have desks and 42” LED flat-screen TVs. They also feature safety deposit boxes and coffee makers. The spacious bathrooms have 2 sinks and a separate bathtub and shower.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/tryp-by-wyndham-panama-at-albrook-mall.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Radisson Hotel Panama Canal</h2>Located right at the mouth of the Panama Canal, Radisson Hotel Panama Canal offers an outdoor pool, hot tub, gym and lush gardens. Free WiFi and free parking are provided.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/country-inn-amp-suites-panama-canal.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Hilton Panama</h2>Rooms at Hilton Panama will provide you with a flat-screen TV, air conditioning and cable channels. Featuring a shower, private bathrooms also come with free toiletries. Some rooms have a sea view.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/hilton-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Hampton by Hilton Panama</h2>Located near Panama City’s financial district, Hampton Inn Panama offers free WiFi, an on-site gym and free daily breakfast. This modern hotel boasts extensive banquet and meeting facilities. Guests can enjoy the rooftop pool.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/hampton-inn-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Sortis Hotel, Spa & Casino, Autograph Collection</h2>Located in central Panama City, Sortis Hotel Autograph Collection features an outdoor pool, a casino, a spa and a fitness centre. The stylish rooms and apartments offer city views.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/sortis-spa-and-casino-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Sortis Hotel, Spa & Casino, Autograph Collection</h2>Located in central Panama City, Sortis Hotel Autograph Collection features an outdoor pool, a casino, a spa and a fitness centre. The stylish rooms and apartments offer city views.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/sortis-spa-and-casino-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Crowne Plaza Airport</h2>Crowne Plaza Airport offers accommodation in Tocumen just a 200 m from Tocumen International Airport while a free shuttle service from the airport is offered as well as free internet access throughout the property.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/crowne-plaza-airport.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>Ramada Panama Centro Via Argentina</h2>Featuring an outdoor swimming pool, fitness centre and free WiFi, Ramada by Wyndham Panama Centro Via Argentina is located in Panama City, 4.3 km from Ancon Hill and 6 km from Rod Carew National Stadium.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/ramada-panama-centro.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>AC Hotel by Marriott Panama City</h2>Featuring an outdoor swimming pool, fitness centre and free WiFi, Ramada by Wyndham Panama Centro Via Argentina is located in Panama City, 4.3 km from Ancon Hill and 6 km from Rod Carew National Stadium.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/ramada-panama-centro.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>W Panama</h2>Inspired by local art, fashion, culture and cuisine, W Panama offers 5-star accommodation in the business district in Panama City. This property boasts two restaurants, four bars and an outdoor pool.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/w-panama.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr>
-<br>
-<tr>
-<td><h2>The Santa Maria, a Luxury Collection Hotel & Golf Resort, Panama City</h2>Featuring a fitness centre and a garden, The Santa Maria, a Luxury Collection Hotel & Golf Resort, Panama City is situated in Panama City and is 10 km from Rod Carew National Stadium.</td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/pa/the-santa-maria-a-luxury-collection-golf-resort-panama-city.en.html?aid=856525&no_rooms=1&group_adults=1">Reserve</a></td>
-</tr> 
-
-</tbody>
-</html>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/madeira-little-valley-suites.en.html?aid=893121&no_rooms=1&group_adults=1">A Madeira Little Valley Suites</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/ac-by-marriott-panama-city.en.html?aid=893121&no_rooms=1&group_adults=1">AC Hotel by Marriott Panama City</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/albrook-inn.en.html?aid=893121&no_rooms=1&group_adults=1">Albrook Inn</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/aloft-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Aloft Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/amador-ocean-view.en.html?aid=893121&no_rooms=1&group_adults=1">Amador Ocean View</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/american-trade.en.html?aid=893121&no_rooms=1&group_adults=1">American Trade Hotel</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/amigos-en-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Amigos en Panamá</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/apartamento-133.en.html?aid=893121&no_rooms=1&group_adults=1">Apartamento #133</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/apartamento-114.en.html?aid=893121&no_rooms=1&group_adults=1">Apartamento 114</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/santa-ana-cuarto-individual.en.html?aid=893121&no_rooms=1&group_adults=1">Apartamento El Dorado</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/apartamento-estudio.en.html?aid=893121&no_rooms=1&group_adults=1">Apartamento Estudio.</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/ph-las-hortensias.en.html?aid=893121&no_rooms=1&group_adults=1">Apartamento PH Las Hortensias</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/edf-vista-del-mar.en.html?aid=893121&no_rooms=1&group_adults=1">Apartamento Vista del Mar</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/apartamentos-line.en.html?aid=893121&no_rooms=1&group_adults=1">Apartamentos Line</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/aparthotel-sevilla-suites.en.html?aid=893121&no_rooms=1&group_adults=1">Aparthotel Sevilla Suites</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/aparthotel-yacht-club.en.html?aid=893121&no_rooms=1&group_adults=1">Apartment Heart of Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/the-bahia-grand-panama-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Apartment in Trump Tower</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/las-huacas.en.html?aid=893121&no_rooms=1&group_adults=1">AZ Hotel and Suites</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/backpacker-inn.en.html?aid=893121&no_rooms=1&group_adults=1">Backpacker Inn</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/baru-lodge-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Baru Lodge Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/beautiful-1-bedroom-apartment-for-rent-in-casa-bonita-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Beautiful 1 Bedroom apartment for Rent in Casa Bonita-Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/beautiful-studio-aparment-via-argentina.en.html?aid=893121&no_rooms=1&group_adults=1">Beautiful studio aparment via argentina</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/country-inn-amp-suites-panama-city.en.html?aid=893121&no_rooms=1&group_adults=1">Best Western El Dorado Panama Hotel</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/best-western-plus-panama-zen.en.html?aid=893121&no_rooms=1&group_adults=1">Best Western Plus Panama Zen Hotel</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/bocas-style-in-casco-viejo-panama-city.en.html?aid=893121&no_rooms=1&group_adults=1">Bocas Style in Casco Viejo</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/avenida-balboa-apartments-bf.en.html?aid=893121&no_rooms=1&group_adults=1">Boutique Apartments Avenida Balboa</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/cabanas-colindas.en.html?aid=893121&no_rooms=1&group_adults=1">Cabañas Colindas</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/cabanas-don-chema-panama-city.en.html?aid=893121&no_rooms=1&group_adults=1">Cabañas Don Chema</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/cadis.en.html?aid=893121&no_rooms=1&group_adults=1">Cadis Tower</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hostal-carolina-princess-marbella.en.html?aid=893121&no_rooms=1&group_adults=1">Carolina Princess Marbella</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/casa-andrea.en.html?aid=893121&no_rooms=1&group_adults=1">Casa Andrea</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/casa-bonita-apartamento-de-lujo.en.html?aid=893121&no_rooms=1&group_adults=1">Casa Bonita - Apartamento de Lujo</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/casa-de-campo-47-hacienda.en.html?aid=893121&no_rooms=1&group_adults=1">Casa de Campo / Hacienda</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/ph-maralta.en.html?aid=893121&no_rooms=1&group_adults=1">Casa MarAlta</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/casa-monalisa-pty.en.html?aid=893121&no_rooms=1&group_adults=1">Casa MonaLisa PTY</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/casa-ramirez.en.html?aid=893121&no_rooms=1&group_adults=1">Casa Ramirez</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/casa-sucre-boutique.en.html?aid=893121&no_rooms=1&group_adults=1">Casa Sucre Boutique Hotel</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/casco-viejo.en.html?aid=893121&no_rooms=1&group_adults=1">Casco Viejo</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/casco-viejo-best-location-luxuriuos-stay-in-old-city-in-cuidad-de-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Casco Viejo Best Location Luxuriuos Stay in Old City in Cuidad de Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/casco-viejo-direct-ocean-front-22-02.en.html?aid=893121&no_rooms=1&group_adults=1">Casco Viejo Direct Ocean Front 22-02</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/central-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Central Hotel Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/central-park-casino.en.html?aid=893121&no_rooms=1&group_adults=1">Central Park Hotel & Casino</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/chalet-duplex.en.html?aid=893121&no_rooms=1&group_adults=1">Chalet San Agustin</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/chic-apartment-costa-del-este.en.html?aid=893121&no_rooms=1&group_adults=1">Chic apartment Costa del Este</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/victoria-and-suites.en.html?aid=893121&no_rooms=1&group_adults=1">Clarion Victoria Hotel and Suites Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/comodidad.en.html?aid=893121&no_rooms=1&group_adults=1">Comodidad</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/conozca-kuna-yala.en.html?aid=893121&no_rooms=1&group_adults=1">Conozca Kuna Yala</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/continental-casino-panama-city.en.html?aid=893121&no_rooms=1&group_adults=1">Continental Hotel Panamá</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/coronado.en.html?aid=893121&no_rooms=1&group_adults=1">Coronado</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/rogelio-heron.en.html?aid=893121&no_rooms=1&group_adults=1">Coronado Heron House</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/costa-del-este-ph-sevilla.en.html?aid=893121&no_rooms=1&group_adults=1">Costa del este ph Sevilla</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/courtyard-panama-real.en.html?aid=893121&no_rooms=1&group_adults=1">Courtyard by Marriott Panama at Multiplaza Mall</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/cozy-apartment-en-trump-tower.en.html?aid=893121&no_rooms=1&group_adults=1">Cozy Apartment en Trump Tower</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/cresta-inn.en.html?aid=893121&no_rooms=1&group_adults=1">Cresta Inn</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/crowne-plaza-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Crowne Plaza Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/deluxe-suite-bella-vista.en.html?aid=893121&no_rooms=1&group_adults=1">Deluxe suite Bella Vista</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/deville-hotel.en.html?aid=893121&no_rooms=1&group_adults=1">DeVille Hotel</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/discovery.en.html?aid=893121&no_rooms=1&group_adults=1">Discovery</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/dos-palmitos-bed-and-breakfast.en.html?aid=893121&no_rooms=1&group_adults=1">Dos Palmitos Bed and Breakfast</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/panamacity-viaespanaandavefedericoboyd.en.html?aid=893121&no_rooms=1&group_adults=1">DoubleTree by Hilton Panama City</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/dumas-villa.en.html?aid=893121&no_rooms=1&group_adults=1">Dumas Villa</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/el-machico-hostel.en.html?aid=893121&no_rooms=1&group_adults=1">El Machico Hostel</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/espectacular-apartamento.en.html?aid=893121&no_rooms=1&group_adults=1">Espectacular apartamento</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/eurohotel.en.html?aid=893121&no_rooms=1&group_adults=1">Eurohotel</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/eurostars-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Eurostars Panama City</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/finca-la-esperanza.en.html?aid=893121&no_rooms=1&group_adults=1">Finca La Esperanza</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/full-furnished-apartment.en.html?aid=893121&no_rooms=1&group_adults=1">Full Furnished Apartment</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/grace-panama-panama-city.en.html?aid=893121&no_rooms=1&group_adults=1">Global Hotel Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/grand-international.en.html?aid=893121&no_rooms=1&group_adults=1">Grand International Hotel</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/grand-tower-next-to-trump.en.html?aid=893121&no_rooms=1&group_adults=1">Grand Tower next to Trump</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/green-park.en.html?aid=893121&no_rooms=1&group_adults=1">Green Park</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/habitacion-economica-panama.en.html?aid=893121&no_rooms=1&group_adults=1">habitacion economica panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/habitacion-privada-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Habitación privada Panamá</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hampton-inn-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Hampton by Hilton Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hard-rock-panama-megapolis.en.html?aid=893121&no_rooms=1&group_adults=1">Hard Rock Hotel Panama Megapolis</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hilton-garden-inn-panama-city-downtown.en.html?aid=893121&no_rooms=1&group_adults=1">Hilton Garden Inn Panama City Downtown</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hilton-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Hilton Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hogar-fuera-de-casa.en.html?aid=893121&no_rooms=1&group_adults=1">Hogar fuera de casa.</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/holiday-inn-express-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Holiday Inn Express Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/holiday-inn-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Holiday Inn Panama Canal</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hospedaje-camino-real.en.html?aid=893121&no_rooms=1&group_adults=1">Hospedaje Camino Real</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hospedaje-casco-viejo.en.html?aid=893121&no_rooms=1&group_adults=1">Hospedaje Casco Viejo</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hostal-amador-familiar-panama-city.en.html?aid=893121&no_rooms=1&group_adults=1">Hostal Amador Familiar</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hostal-cocos-inn.en.html?aid=893121&no_rooms=1&group_adults=1">Hostal Cocos Inn</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hostal-el-jazmin-panama1.en.html?aid=893121&no_rooms=1&group_adults=1">Hostal El Jazmin</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hostal-entre-2-aguas.en.html?aid=893121&no_rooms=1&group_adults=1">Hostal Entre 2 Aguas</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hostal-gemar.en.html?aid=893121&no_rooms=1&group_adults=1">Hostal Gemar</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hostal-la-dolce-vita.en.html?aid=893121&no_rooms=1&group_adults=1">Hostal La Dolce Vita</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hostal-loco-coco-loco.en.html?aid=893121&no_rooms=1&group_adults=1">Hostal Loco Coco Loco</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hostal-los-laureles.en.html?aid=893121&no_rooms=1&group_adults=1">Hostal Los Laureles</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hostal-luna-house.en.html?aid=893121&no_rooms=1&group_adults=1">Hostal Luna House</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/posada-1914.en.html?aid=893121&no_rooms=1&group_adults=1">Hostal Posada 1914</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hostal-sweet-home-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Hostal Sweet Home Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hostal-casa-33.en.html?aid=893121&no_rooms=1&group_adults=1">Hostel Casa 33</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hostel-casa-nativa.en.html?aid=893121&no_rooms=1&group_adults=1">Hostel Casa Nativa</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hostel-mamallena.en.html?aid=893121&no_rooms=1&group_adults=1">Hostel Mamallena</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hostel-siriri.en.html?aid=893121&no_rooms=1&group_adults=1">Hostel Siriri</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hotel-dos-mares.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel 2 Mares</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/acapulco.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Acapulco</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/aramo.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Aramo</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/arenteiro-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Arenteiro</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/eco-inn-avila-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Avila Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/bahia-suites.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Bahía Suites</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/bella-vista.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Bella Vista</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hotel-benidorm-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Benidorm Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/california-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel California Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/caribe-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Caribe Panamá</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/casa-antigua-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Casa Antigua Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/casa-miller-panama-city.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Casa Miller</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/casa-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Casa Panamá</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/centroamericano.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Centroamericano</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/gran-casino-soloy.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel City House Soloy & Casino</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/coral-suites-aparthotel.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Coral Suites</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/costa-inn.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Costa Inn</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/doral.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Doral</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/el-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel El Panama by Faranda</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/casa-nuratti.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Gatto Blanco & Rooftop Club</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hija-del-conde.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Hija del Conde</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/las-americas-golden-tower-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Las Americas Golden Tower Panamá</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/latino.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Latino</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/lisboa.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Lisboa</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/marbella.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Marbella</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/marparaiso-panama-city.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Marparaiso</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/milan-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Milan Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/montreal.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Montreal</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/ojos-del-rio.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Ojos Del Rio</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/parador.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Parador</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/pension-corona.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Pension Corona</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/principe.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Principe</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/republica-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel República Panamá</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/roma-plaza.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Roma Plaza</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/san-remo.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel San Remo</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/four-points-by-sheraton-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Sercotel Panama Princess</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/terranova.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Terranova</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/tower-house-suites.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Tower House Suites</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/valencia.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Valencia</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/veracruz.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Veracruz</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/via-espana.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Via Espana</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/villa-del-mar-calidonia.en.html?aid=893121&no_rooms=1&group_adults=1">Hotel Villa del Mar</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/hyatt-place-panama-city-downtonw.en.html?aid=893121&no_rooms=1&group_adults=1">Hyatt Place Panama City Downtown</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/ibrais.en.html?aid=893121&no_rooms=1&group_adults=1">Ibrais</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/innfinit-amp-suites.en.html?aid=893121&no_rooms=1&group_adults=1">Innfiniti Hotel & Suites</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/intercontinental-miramar-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Intercontinental Miramar Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/la-concordia-boutique.en.html?aid=893121&no_rooms=1&group_adults=1">La Concordia - Boutique Hotel</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/la-isabela-panama-city.en.html?aid=893121&no_rooms=1&group_adults=1">La Isabela Suites</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/las-clementinas.en.html?aid=893121&no_rooms=1&group_adults=1">Las Clementinas</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/las-perlas.en.html?aid=893121&no_rooms=1&group_adults=1">Las Perlas</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/le-meridien-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Le Meridien Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/lemon-inn.en.html?aid=893121&no_rooms=1&group_adults=1">Lemon Inn</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/los-mostros-hostel.en.html?aid=893121&no_rooms=1&group_adults=1">Los Mostros Hostel- Adults Only</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/los-panas-hostel.en.html?aid=893121&no_rooms=1&group_adults=1">Los Panas Hostel</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/lunas-castle-hostel.en.html?aid=893121&no_rooms=1&group_adults=1">Lunas Castle Hostel</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/magnolia-inn.en.html?aid=893121&no_rooms=1&group_adults=1">Magnolia Inn</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/margarita-acevedo.en.html?aid=893121&no_rooms=1&group_adults=1">Margarita Acevedo</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/finisterre-suites-and-spa.en.html?aid=893121&no_rooms=1&group_adults=1">Marriott Executive Apartments Panama City, Finisterre</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/mediterranean-dreams.en.html?aid=893121&no_rooms=1&group_adults=1">Mediterranean Dreams el Dorado</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/mediterranean-dreams-san-francisco.en.html?aid=893121&no_rooms=1&group_adults=1">Mediterranean Dreams San Francisco</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/metro-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Metro Hotel Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/mochila-amp-art-hostal.en.html?aid=893121&no_rooms=1&group_adults=1">Mochila & Art Hostal</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/niadub-sanblas.en.html?aid=893121&no_rooms=1&group_adults=1">Niadub (sanblas).</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/nomade-hostal.en.html?aid=893121&no_rooms=1&group_adults=1">Nomade Hostal</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/novotel-panama-city.en.html?aid=893121&no_rooms=1&group_adults=1">Novotel Panama City</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/occidental-panamacity.en.html?aid=893121&no_rooms=1&group_adults=1">Occidental Panamá City by Barceló Hotel Group</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/bayfront-tower.en.html?aid=893121&no_rooms=1&group_adults=1">Ocean Front Tower</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/ocean-front-view-apartment.en.html?aid=893121&no_rooms=1&group_adults=1">Ocean Front View Apartment</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/oceanfront-casco-viejo-22.en.html?aid=893121&no_rooms=1&group_adults=1">Oceanfront Casco Viejo 22</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/ohana.en.html?aid=893121&no_rooms=1&group_adults=1">Ohana</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/ph-el-palmar.en.html?aid=893121&no_rooms=1&group_adults=1">P.H. El Palmar</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/pacific-dreams.en.html?aid=893121&no_rooms=1&group_adults=1">Pacific Dreams</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/pacific-village.en.html?aid=893121&no_rooms=1&group_adults=1">Pacific Village</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/panama-hat-hostel.en.html?aid=893121&no_rooms=1&group_adults=1">Panama Hat Hostel</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/panama-house-bed-amp-breakfast.en.html?aid=893121&no_rooms=1&group_adults=1">Panama House Bed & Breakfast</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/panama-marriott.en.html?aid=893121&no_rooms=1&group_adults=1">Panama Marriott Hotel</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/panama-guna-yala.en.html?aid=893121&no_rooms=1&group_adults=1">Panamá, Guna yala</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/panama-playa-corona.en.html?aid=893121&no_rooms=1&group_adults=1">Panama, Playa Corona</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/pasadia-en-san-blas.en.html?aid=893121&no_rooms=1&group_adults=1">Pasadia en San Blas</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/pension-america.en.html?aid=893121&no_rooms=1&group_adults=1">Pensión América</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/penthouse-deluxe.en.html?aid=893121&no_rooms=1&group_adults=1">Penthouse deluxe</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/ph-city.en.html?aid=893121&no_rooms=1&group_adults=1">Ph City Apartment</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/ph-vivaldi.en.html?aid=893121&no_rooms=1&group_adults=1">PH Vivaldi</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/playa-corona-ibiza.en.html?aid=893121&no_rooms=1&group_adults=1">Playa Corona Ibiza</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/plaza-paitilla-inn.en.html?aid=893121&no_rooms=1&group_adults=1">Plaza Paitilla Inn</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/portobello-historico.en.html?aid=893121&no_rooms=1&group_adults=1">Portobello Historico</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/yate-nephenta.en.html?aid=893121&no_rooms=1&group_adults=1">Presidential Yacht</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/punta-paitilla-residencias-ph-mirasol.en.html?aid=893121&no_rooms=1&group_adults=1">Punta Paitilla. Residencias PH MIrasol</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/radisson-decapolis-panama-city.en.html?aid=893121&no_rooms=1&group_adults=1">Radisson Decapolis Hotel Panama City</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/country-inn-amp-suites-panama-canal.en.html?aid=893121&no_rooms=1&group_adults=1">Radisson Hotel Panama Canal</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/ramada-panama-centro.en.html?aid=893121&no_rooms=1&group_adults=1">Ramada by Wyndham Panama Centro Via Argentina</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/ramada-plaza-panama-punta-pacifica.en.html?aid=893121&no_rooms=1&group_adults=1">Ramada Plaza by Wyndham Panama Punta Pacifica</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/residencial-alameda.en.html?aid=893121&no_rooms=1&group_adults=1">Residencial Alameda</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/residencial-el-amanecer.en.html?aid=893121&no_rooms=1&group_adults=1">Residencial El Amanecer</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/residencial-las-canarias.en.html?aid=893121&no_rooms=1&group_adults=1">Residencial Las Canarias</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/cibeles.en.html?aid=893121&no_rooms=1&group_adults=1">Residencial Mexico</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/residencial-oasis.en.html?aid=893121&no_rooms=1&group_adults=1">Residencial Oasis</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/residencial-turistico-chorrera.en.html?aid=893121&no_rooms=1&group_adults=1">Residencial Turístico Chorrera</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/residencial-turistico-cuba.en.html?aid=893121&no_rooms=1&group_adults=1">Residencial Turistico Cuba</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/residencial-el-descanso.en.html?aid=893121&no_rooms=1&group_adults=1">Residencial Turístico El Descanso</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/riande-granada-and-casino.en.html?aid=893121&no_rooms=1&group_adults=1">Riande Granada Urban Hotel</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/riu-plaza-panama.en.html?aid=893121&no_rooms=1&group_adults=1">RIU Plaza Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/romantic-ocean-apartment.en.html?aid=893121&no_rooms=1&group_adults=1">Romantic Ocean Apartment</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/royal-center.en.html?aid=893121&no_rooms=1&group_adults=1">Royal Center</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/royal-mansion-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Royal Mansion Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/san-blas-hostal.en.html?aid=893121&no_rooms=1&group_adults=1">San Blas hostal</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/selina-casco-antiguo.en.html?aid=893121&no_rooms=1&group_adults=1">Selina Casco Viejo Panama City</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/sheraton-panama-and-convention-center.en.html?aid=893121&no_rooms=1&group_adults=1">Sheraton Grand Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/sofia-39-s-b-amp-b-hostal-boutique.en.html?aid=893121&no_rooms=1&group_adults=1">Sofia's B&B Hostal Boutique</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/panamacentralhome.en.html?aid=893121&no_rooms=1&group_adults=1">Sophias Hostel PTY</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/sortis-spa-and-casino-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Sortis Hotel, Spa & Casino, Autograph Collection</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/star-amp-herald.en.html?aid=893121&no_rooms=1&group_adults=1">Star & Herald</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/stunning-four-room-apartment.en.html?aid=893121&no_rooms=1&group_adults=1">Stunning four room apartment</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/stylish-balboa-4-room-apt.en.html?aid=893121&no_rooms=1&group_adults=1">Stylish Balboa 4-room apt</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/suite-deluxe-in-hard-rock-megapolis-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Suite Megapolis Panamá</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/tantalo-boutique.en.html?aid=893121&no_rooms=1&group_adults=1">Tantalo Hotel - Kitchen - Roofbar</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/trump-ocean-club-panama.en.html?aid=893121&no_rooms=1&group_adults=1">The Bahia Grand Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/the-balboa-inn-panama-city.en.html?aid=893121&no_rooms=1&group_adults=1">The Balboa Inn</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/the-beach-house.en.html?aid=893121&no_rooms=1&group_adults=1">The Beach House</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/the-brsitol.en.html?aid=893121&no_rooms=1&group_adults=1">The Bristol Hotel</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/the-executive.en.html?aid=893121&no_rooms=1&group_adults=1">The Executive Hotel</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/the-hummingbird-apartment.en.html?aid=893121&no_rooms=1&group_adults=1">The Hummingbird Apartment</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/the-saba.en.html?aid=893121&no_rooms=1&group_adults=1">The Saba Hotel</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/the-santa-maria-a-luxury-collection-golf-resort-panama-city.en.html?aid=893121&no_rooms=1&group_adults=1">The Santa Maria, a Luxury Collection Hotel & Golf Resort, Panama City</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/the-westin-panama.en.html?aid=893121&no_rooms=1&group_adults=1">The Westin Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/torres-de-alba.en.html?aid=893121&no_rooms=1&group_adults=1">Torres de Alba Hotel & Suites</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/toscana-inn.en.html?aid=893121&no_rooms=1&group_adults=1">Toscana Inn Hotel</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/trendy-apartment-in-casco-viejo-panama-city.en.html?aid=893121&no_rooms=1&group_adults=1">Trendy Apartment in Casco Viejo</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/tryp-panama-centro.en.html?aid=893121&no_rooms=1&group_adults=1">Tryp by Wyndham Panama Centro</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/boutique-villa-palma.en.html?aid=893121&no_rooms=1&group_adults=1">Villa Palma Boutique Hotel</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/villas-playa-blanca.en.html?aid=893121&no_rooms=1&group_adults=1">Villas playa blanca</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/vista-del-mar-hermoso-apartamento-amoblado-frente-al-mar.en.html?aid=893121&no_rooms=1&group_adults=1">Vista Del Mar Hermoso apartamento amoblado frente al mar</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/vista-mar-golf-and-beach.en.html?aid=893121&no_rooms=1&group_adults=1">Vista Mar Golf and Beach</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/vitro-loft.en.html?aid=893121&no_rooms=1&group_adults=1">Vitro Loft</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/w-panama.en.html?aid=893121&no_rooms=1&group_adults=1">W Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/waldorf-astoria-panama.en.html?aid=893121&no_rooms=1&group_adults=1">Waldorf Astoria Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/waldorf-astoria-pent-house.en.html?aid=893121&no_rooms=1&group_adults=1">Waldorf Astoria Pent House</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/waters-on-the-bay-luxury-boutique-apartment.en.html?aid=893121&no_rooms=1&group_adults=1">Waters On the Bay Luxury Boutique Apartment</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/tryp-by-wyndham-panama-at-albrook-mall.en.html?aid=893121&no_rooms=1&group_adults=1">Wyndham Panama Albrook Mall</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/yates-en-panama-panama-city.en.html?aid=893121&no_rooms=1&group_adults=1">Yates en Panama</a></h3>
+## <h3><a class="uk-link-heading" href="https://www.booking.com/hotel/pa/zebulo-hostel.en.html?aid=893121&no_rooms=1&group_adults=1">Zebulo Hostel</a></h3>
 
     
 
