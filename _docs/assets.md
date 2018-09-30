@@ -2,7 +2,7 @@
 layout: doc
 title: Capital
 subtitle: This is article was writing by Investopedia
-author: a
+author:
 tags: featured
 ---
 
