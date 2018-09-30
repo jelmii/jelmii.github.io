@@ -1,281 +1,56 @@
 ---
 layout: doc
-title: Estados Unidos
-categories: [Getting Started, Troubleshooting]
-author: John Black
+title: Capital
+subtitle: Read more: Capital https://www.investopedia.com/terms/c/capital.asp#ixzz5Sd112PKL 
+author:
 tags: featured
 ---
 
-#### Sections in this article
+#### About The Ritz-Carlton
 {:.no_toc}
 * TOC
 {:toc}
 
-<table class="uk-table uk-table-middle uk-table-divider">
-    <thead>
-        <tr>
-            <th class="uk-width-small"></th>
-            <th></th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-<td><img class="uk-preserve-width uk-border-circle" src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" width="100%" alt=""></td>
-<td><h2>The Ritz-Carlton Atlanta</h2>This ideally situated downtown Atlanta hotel offers a fitness centre and restaurant. The Ritz-Carlton is less than one kilometer from MARTA mass transit and offers guests 37-inch flat-screen TVs.<ins class="bookingaff" data-aid="1618137" data-target_aid="1618137" data-prod="rw" data-width="0" data-height="0" data-show_rw_badge="1" data-show_rw_text="1" data-hid="265604">
-    <!-- Anything inside will go away once widget is loaded. -->
-    <a href="//www.booking.com?aid=1618137">Booking.com</a>
-</ins>
-<script type="text/javascript">
-    (function(d, sc, u) {
-      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = u + '?v=' + (+new Date());
-      p.parentNode.insertBefore(s,p);
-      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
-</script></td>
-<td><a class="uk-button uk-button-danger" href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></td>
-        </tr>
-        <br>
-        <tr>
-            <td><img class="uk-preserve-width uk-border-circle" src="https://r-ec.bstatic.com/xdata/images/hotel/square200/21896470.jpg?k=24d2e2653f4de000159af5cd41db8457877d248f788785675ea5eb1dd8adbfb2&o=" width="100%" alt=""></td>
-<td>This ideally situated downtown Atlanta hotel offers a fitness centre and restaurant. The Ritz-Carlton is less than one kilometer from MARTA mass transit and offers guests 37-inch flat-screen TVs.</td>
-<td><a class="uk-button uk-button-secondary" href="https://www.booking.com/hotel/us/ritz-carlton-sarasota.en.html?aid=893121&no_rooms=1&group_adults=1">Reserve</a></td>
-        </tr>
-    </tbody>
-</table>
-
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-html {
-  box-sizing: border-box;
-}
-
-*, *:before, *:after {
-  box-sizing: inherit;
-}
-
-.column {
-  float: left;
-  width: 33.3%;
-  margin-bottom: 16px;
-  padding: 0 8px;
-}
-
-@media screen and (max-width: 650px) {
-  .column {
-    width: 100%;
-    display: block;
-  }
-}
-
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-}
-
-.container {
-  padding: 0 16px;
-}
-
-.container::after, .row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-.title {
-  color: grey;
-}
-
-.button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 8px;
-  color: white;
-  background-color: #0078cc;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-  height: 60%;
-}
-
-.button:hover {
-  background-color: #00397f;
-}
-</style>
-</head>
-<body>
-<div class="row">
-<h2>USA & CANADA</h2>
-<div class="column">
-<div class="card">
-<img src="https://q-ec.bstatic.com/xdata/images/hotel/square200/26050987.jpg?k=c5d96916426e87a16842ed32ec4b088297a30d00936c56c94891fda7980e6407&o=" alt="The Ritz Carlton, Pentagon City" style="width:100%">
-<div class="container">
-<h2>The Ritz Carlton, Pentagon City</h2>
-<p><img src="http://www.google.com/s2/favicons?domain=https://www.marriott.com" align="left">Marriott</p>
-<p>This 5-star Arlington hotel is within a 10-minute drive of Washington, D.C. The hotel offers an on-site restaurant and modern guest rooms with flat-screen TVs.</p>
-<p><h3><a href="https://www.booking.com/hotel/us/ritz-carlton-pentagon-city.en.html?aid=893121&no_rooms=1&group_adults=1" style="text-decoration:none" target="_self" class="button">Reservar</a></h3></p>
-</div>
-</div>
-</div>
+## What is 'Capital'
+Capital is a term for financial assets or their financial value (such as funds held in deposit accounts), as well as the tangible factors of production including equipment used in environments such as factories and other manufacturing facilities. Additionally, capital includes facilities, such as the buildings used for the production and storage of the manufactured goods. Materials used and consumed as part of the manufacturing process do not qualify.
 
 
-</div>
-</body>
-</html>
+## BREAKING DOWN 'Capital'
 
-Estados unidos tienes 51 estados y mas 4000 hoteles de francias renocidas.
+While money is used to purchase goods and services for consumption, capital is more durable and is used to generate wealth through investment. Examples of capital include automobiles, patents, software and brand names. All of these items are inputs that can be used to create wealth. Besides being used in production, capital can be rented out for a monthly or annual fee to create wealth, or it can be sold when it is no longer required.
 
-<html>
-<head>
-<style>
-#customers {
-    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
+## Ongoing Service to Business
 
-#customers td, #customers th {
-    border: 1px solid #ddd;
-    padding: 8px;
-}
+In order to qualify as capital, the goods must provide an ongoing service to the business to create wealth. Capital must be combined with labor, the work of individuals who exchange their time and skills for money, to create value. By investing in capital and foregoing current consumption, a business or individual can direct those efforts into future prosperity.
 
-#customers tr:nth-child(even){background-color: #f2f2f2;}
+Tangible assets that function as capital within a business are subject to depreciation, which occurs as normal wear and tear on an item, diminishing its overall value. Depreciation is often noted on a business’s financial statements and may be eligible for use as tax deductions.
 
-#customers tr:hover {background-color: #ddd;}
+The assertion of property rights designates the value of associated capital. Individuals or companies can claim ownership to their capital and direct its function to suit their needs. Ownership of capital can also be transferred to another individual or corporation with any resulting proceeds from the sale being directed to the previous owner. For example, a business can sell a piece of production equipment to another facility in exchange for cash. The purchasing facility becomes the new owner of the equipment and the selling business can include the funds as revenue.
 
-#customers th {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    text-align: left;
-    background-color: #4CAF50;
-    color: white;
-}
-</style>
-</head>
-<body>
+## Types of Capital
 
-<table id="customers">
-  <tr>
-    <td><a href="https://www.eltiempo.com/" target="_self">Alabama</a></td>
-    <td>Alaska</td>
-    <td>Arizona</td>
-  </tr>
-  <tr>
-    <td>Arkansas</td>
-    <td>California</td>    
-    <td>Carolina del Norte</td>
-  </tr>
-   <tr>
-    <td>Carolina del Sur</td>
-    <td>Colorado</td>
-    <td>Columbia</td>
-  </tr>
-  <tr>
-    <td>Connecticut</td>  
-    <td>Dakota del Norte</td>
-    <td>Dakota del Sur</td>
-  </tr> 
-  <tr>
-    <td>Delaware</td>
-    <td>Florida</td>
-    <td>Georgia</td>       
-  </tr> 
-  <tr>
-    <td>Hawái</td>
-    <td>Idaho</td>
-    <td>Illinois</td>
-  </tr> 
-  <tr> 
-    <td>Indiana</td>
-    <td>Iowa</td>    
-    <td>Kansas</td>
-  </tr>  
-   <tr> 
-    <td>Kentucky</td>
-    <td>Luisiana</td>
-    <td>Maine</td>   
-  </tr> 
-   <tr> 
-   <td>Maryland</td>       
-   <td>Massachusetts</td>
-   <td>Míchigan</td>
-  </tr> 
-  <tr> 
-   <td>Minnesota</td>   
-   <td>Misisipi</td>
-   <td>Misuri</td>          
-  </tr> 
-  <tr> 
-   <td>Montana</td>
-   <td>Nebraska</td>
-   <td>Nevada</td>          
-  </tr> 
-  <tr> 
-   <td>Nuevo Hampshire</td>          
-   <td>Nueva Jersey</td>     
-   <td>Nueva York</td>       
-  </tr> 
-  <tr> 
-   <td>Nuevo México</td>
-   <td>Ohio</td>   
-   <td>Oklahoma</td>      
-  </tr> 
-  <tr> 
-   <td>Oregón</td> 
-   <td>Pensilvania</td>
-   <td>Rhode Island</td>      
-  </tr> 
-  <tr>  
-   <td>Tennessee</td>   
-   <td>Texas</td>
-   <td>	Utah</td>        
-  </tr> 
-   <tr>
-   <td>Vermont</td>
-   <td>	Virginia</td>
-   <td>Virginia Occidental</td>   
-  </tr>
-  <tr>   
-   <td>Washington</td>
-   <td>Wisconsin</td>     
-   <td>Wyoming</td>      
-  </tr>     
-</table>
-</body>
-</html>
+Debt Capital: A business can acquire capital through the assumption of debt. Debt capital can be obtained through private sources, such as friends and family, financial institutions and insurance companies, or through public sources, such as federal loan programs. 
+
+Equity Capital: Equity capital is based on investments that, unlike debt capital, do not need to be repaid. This can include private investment by the business owners, as well as contributions derived from the sale of stock. 
+
+Working Capital: Defined as the difference between a company's current assets and current liabilities, working capital is a measure of a company's short-term liquidity – more specifically, its ability to cover its debts, accounts payable and other obligations that are due within a year. In a sense, it's a snapshot of a firm's financial health.
+
+Trading Capital: Trading capital refers to the amount of money allotted to buying and selling various securities. Generally, trading capital is distinct from investment capital in that it is reserved for more speculative ventures. Trading capital is sometimes referred to as "bankroll." Investors may attempt to add to their trading capital by employing a variety of trade optimization methods. These methods attempt to make the best use of capital by determining the ideal percentage of funds to invest each time. In particular, in order to be successful, it is important for traders to determine the optimal cash reserves required for their investing strategies.
 
 
-## Image Lightbox Example
-Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
+## Additional Paid-In Capital
 
-{% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
+Additional paid-in capital is an account in the equity section of a corporate balance sheet. It represents the additional amount paid for a company’s shares over the par value of the shares. Additional paid-in capital only arises when a person buys shares directly from the company. The price paid for shares bought in the secondary market does not affect additional paid-in capital.
 
-Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
+Usually, stock par value is intentionally kept low, often at $0.01 per share. Thus, the amount paid for a share bought from the company is mostly additional paid-in capital. Additional paid-in capital can apply to both common and preferred shares.
 
-## Example Of Code Block
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+Assume ABC Inc. offers 10 million shares to potential shareholders.  The shares have a par value of $5. Assume the shares are sold for $12 per share, which is $7 per share over the par value. ABC receives $120 million from this offering. This sale will be reflected on two different lines of the equity section in ABC’s balance sheet. The common stock line will reflect the portion ABC received for the par value ($50 million). The remaining $70 million will be reflected in the additional paid-in capital account line. 
 
-```html
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  <link rel="shortcut icon" type="image/png" href="{{ "assets/img/favicon.png" | relative_url }}" >
-  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
-</head>
-```
 
-## Text and Quote
-Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
 
-> Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet
+## Capital vs. Money
 
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+People often interchange the words capital and money, believing the mean the same thing. But there is a really big difference between the two. Capital involves the aspects of the company that help shape and grow it, and includes any of its assets that can benefit the company in the long-term future, whereas money refers to the instrument used to purchase goods and services between companies and/or individuals, serving a more immediate purpose. 
 
-Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.
+
+
