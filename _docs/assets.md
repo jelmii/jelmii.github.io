@@ -6,7 +6,7 @@ author: a
 tags: featured
 ---
 
-#### About The Ritz-Carlton
+#### About Capital
 {:.no_toc}
 * TOC
 {:toc}
