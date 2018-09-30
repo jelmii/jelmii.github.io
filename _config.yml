@@ -24,7 +24,7 @@ brand:
 
 # Default author settings
 author:
-    name:       John Smith
+    name:       Jose Sepulveda
     github:     PressApps    # Github username for avatar
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
