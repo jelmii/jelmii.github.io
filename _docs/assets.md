@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Capital
+title: Multibank, Panamá
 subtitle: This is article was writing by Investopedia
 author:
 tags: featured
