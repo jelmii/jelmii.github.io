@@ -1,7 +1,7 @@
 ---
 layout: home
 hero:
-    title: Are you looking for hotel? 
+    title: Learning English is possible! 
     subtitle: The best place about of hotel chains 
   
     search: true
