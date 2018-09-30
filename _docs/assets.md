@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Capital
-subtitle: Read more: Capital https://www.investopedia.com/terms/c/capital.asp#ixzz5Sd112PKL 
+subtitle: This is article was write by Investopedia
 author:
 tags: featured
 ---
