@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: Capital
-subtitle: This is article was write by Investopedia
-author:
+subtitle: This is article was writing by Investopedia
+author: a
 tags: featured
 ---
 
