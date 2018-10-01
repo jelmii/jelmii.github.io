@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: BAC International Bank, Inc, Panamá
+title: Balboa Bank & Trust Corp, Inc, Panamá
 subtitle: This is article was writing by Investopedia
 author:
 tags: featured
