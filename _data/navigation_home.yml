@@ -1,8 +1,8 @@
 # Categories home page navigation
 
-- title: Transporte o Rentar un auto
+- title: Private Taxi
   desc: Get your account up and running in just few easy steps
-  icon: world
+  icon: taxi
   doc: home
 
 - title: City Tours
@@ -10,7 +10,7 @@
   icon: credit-card
   doc: frontmatter
 
-- title: Bares y Restaurantes 
+- title: Bar & Restaurants 
   desc: Answers to most common configuration issues
-  icon: location
+  icon: eat
   doc: variables
