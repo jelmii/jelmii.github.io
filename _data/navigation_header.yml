@@ -1,11 +1,11 @@
 # Navbar menu navigation links
-- title: Ayuda
-  url: /
+- title: Hotels
+  url: https://www.booking.com/index.html?aid=893121
 
-- title: Noticias
-  url: /news/
+- title: Apartments
+  url: https://www.booking.com/apartments/index.html?aid=893121
 
-- title: Mercados
+- title: Car Rentals
   url: /changelog/
 
 - title: Contacto
