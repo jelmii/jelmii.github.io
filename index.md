@@ -10,7 +10,7 @@ categories:
     title: Otros Servicios 
     subtitle: Nos gusta la comodidad igual que a ti, por eso ofrecemos servicios complementarios los cuales te ayudaran a tener un viaje más placentero, tranquilo y seguro.
 featured:
-    title: Lo más buscado
+    title: Popular Places
     tag: featured
 section:
     title: Writing Us for Cheaper hotel Deals! +507-6548-3317
