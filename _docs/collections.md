@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: The Ritz-Carlton, Marriott
+title: Balboa Bank & Trust Corp, Panamá
 subtitle: THE GOLD STANDARD, The Ritz-Carlton inspires life's most meaningful journeys.. 
 author:
 tags: featured
