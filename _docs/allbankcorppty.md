@@ -11,7 +11,8 @@ tags: featured
 * TOC
 {:toc}
 
-<iframe name=miframeflotante src="https://www.booking.com/searchresults.en.html?city=-168008&aid=893121&no_rooms=1&group_adults=1" width=400 height=550 frameborder="0" scrolling=yes marginwidth=2 marginheight=4 align=left>Tu navegador no soporta frames!!</iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="https://www.booking.com/searchresults.en.html?city=-168008&aid=893121&no_rooms=1&group_adults=1"></iframe>
+
 
 
 
