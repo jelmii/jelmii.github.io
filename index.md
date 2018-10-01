@@ -1,8 +1,8 @@
 ---
 layout: home
 hero:
-    title: Learning English is possible! 
-    subtitle: The best place about of hotel chains 
+    title: ¿Buscas un Banco?  
+    subtitle: Bankhing.com te ayuda a entender el complejo mundo bancario. 
   
     search: true
 categories:
