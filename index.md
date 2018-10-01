@@ -2,7 +2,7 @@
 layout: home
 hero:
     title: Are you looking for cheap hotels?  
-    subtitle: Bankhing.com Big savings on hotels in 120,000 destinations worldwide. Browse hotel reviews and find the guaranteed best price on hotels for all budgets.o. 
+    subtitle: Big savings on hotels in 120,000 destinations worldwide. Browse hotel reviews and find the guaranteed best price on hotels for all budgets.o. 
   
     search: true
 categories:
