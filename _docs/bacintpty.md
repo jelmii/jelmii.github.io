@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Balboa Bank & Trust Corp, Panamá
+title: BAC International Bank, Inc., Panamá
 subtitle: THE GOLD STANDARD, The Ritz-Carlton inspires life's most meaningful journeys.. 
 author:
 tags: featured
