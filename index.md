@@ -1,8 +1,8 @@
 ---
 layout: home
 hero:
-    title: ¿Buscas un Banco?  
-    subtitle: Bankhing.com te ayuda a entender el complejo mundo bancario. 
+    title: Are you looking for cheap hotels?  
+    subtitle: Bankhing.com Big savings on hotels in 120,000 destinations worldwide. Browse hotel reviews and find the guaranteed best price on hotels for all budgets.o. 
   
     search: true
 categories:
@@ -13,7 +13,7 @@ featured:
     title: Lo más buscado
     tag: featured
 section:
-    title: Ayuda 24/7
+    title: Writing Us for Cheaper hotel Deals! +507-6548-3317
     subtitle: Si tienes alguna pregunta no dudes en escribirnos (WhatsApp) +507 6503-7188
 cta:
     title: ¿No encontraste lo que estabas buscando?
