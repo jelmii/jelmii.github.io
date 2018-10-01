@@ -5,9 +5,7 @@ layout: default
 <div class="uk-section">
     <div class="uk-container uk-container-small"></div>
         <article class="uk-article">
-
-   
-
+            
             <div class="uk-article-meta uk-margin-top uk-margin-medium-bottom">
                 {% include post-meta.html %}
             </div>
@@ -18,8 +16,6 @@ layout: default
             </div>
 
             <hr class="uk-margin-medium">
-
-            {% include paginate-post.html %}
 
             {% if site.disqus.shortname %} {% include disqus_comments.html %} {% endif %}
         </article>
