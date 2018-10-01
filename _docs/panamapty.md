@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: doc
 title: Panama City, Panama, Panama
 subtitle: 
 author: Bankhing.com
