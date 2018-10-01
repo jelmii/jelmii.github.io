@@ -6,10 +6,14 @@ author:
 tags: featured
 ---
 
-#### About Capital
+#### Resumen Banco Aliado
 {:.no_toc}
 * TOC
 {:toc}
 
-## What is 'Capital'
-Capital is a term for financial assets or their financial value (such as funds held in deposit accounts), as well as the tangible factors of production including equipment used in environments such as factories and other manufacturing facilities. Additionally, capital includes facilities, such as the buildings used for the production and storage of the manufactured goods. Materials used and consumed as part of the manufacturing process do not qualify.
+## Factores Clave de lasCalificaciones
+Desempeño Intrínseco: Las calificaciones deBanco Aliado, S.A. (Aliado) se fundamentan en su perfil  intrínseco  y  consideran  su  modeloy  estrategia  de  negocio  especializado,  que  deriva  ensutamaño  pequeño,cartera  crediticia  sana  yrentabilidad  baja  aunque  consistente.Asimismo,  las calificaciones consideran su posición patrimonial y fondeo estables.
+
+Negocio  Especializado:Aliado orientasu  modelo  de negocio  y  estrategias  comerciales  hacia  el segmento corporativo,medianteproductos especializadosy participaciónen varios sectores. Esta diversificaciónreflejaun  apetito  de  riesgo  bajoyderiva  en  una  escala  de  operaciones pequeña,con participaciones de mercado de 2.5%en promedio, aunque con un desempeño estable.
+
+Cartera  Crediticia  Sana:Fitch Ratings considera  que  los  indicadores  de  calidad  crediticia  se mantendrán  en  niveles adecuados,dados  los  controles  de  riesgo  efectivos  de  la  entidad. La cartera crediticia  de  Aliado  es sanay se  concentra  enel  segmento empresarial,  lo  que  deriva  en exposiciones  moderadas  en  sus  deudores  mayores.  Sus indicadores  de  calidad  crediticiason superiores al promedio del sector bancario. A junio de 2017, los créditos con mora mayor a 90 días representaban 0.3% del total y las coberturas de provisiones permanecían superiores a 200%
