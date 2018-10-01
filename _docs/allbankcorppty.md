@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Panama City, Panama, Panama
 subtitle: This is article was writing by Investopedia
 author:
