@@ -2,7 +2,7 @@
 
 - title: Private Taxi
   desc: Get your account up and running in just few easy steps
-  icon: taxi
+  icon: cart
   doc: home
 
 - title: City Tours
@@ -12,5 +12,5 @@
 
 - title: Bar & Restaurants 
   desc: Answers to most common configuration issues
-  icon: eat
+  icon: happy
   doc: variables
