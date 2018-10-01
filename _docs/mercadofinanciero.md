@@ -13,7 +13,7 @@ tags: featured
 
 ## ¿Qué es un mercado financiero?
 Un mercado financiero se compone de unidades
-institucionales1 y mercados entre los que se producen
+institucionales y mercados entre los que se producen
 interacciones generalmente complejas con el fin
 de movilizar fondos para la inversión y brindar servicios,
 incluidos los sistemas de pagos, para el financiamiento
@@ -30,4 +30,7 @@ depósitos a la vista), mientras que los activos tienen
 un plazo de vencimiento más largo y suelen no ser líquidos
 (por ejemplo, préstamos). Los mercados financieros
 constituyen un foro que permite la negociación
-de los derechos financieros conforme a normas de 
+de los derechos financieros conforme a normas de conducta preestablecidas y facilita la gestión y transformación
+del riesgo. También cumplen una función
+importante en la determinación de los precios de mercado
+(“descubrimiento de precios”). Por FMI 
