@@ -1,16 +1,16 @@
 # Categories home page navigation
 
 - title: Private Taxi
-  desc: Get your account up and running in just few easy steps
+  desc: Safety, comfortable and fast cars
   icon: cart
   doc: home
 
 - title: City Tours
-  desc: Managing your account, creating new users and exporting data
+  desc: You could know the places most important
   icon: credit-card
   doc: frontmatter
 
 - title: Bar & Restaurants 
-  desc: Answers to most common configuration issues
+  desc: Always eat and drink away is a good plan
   icon: happy
   doc: variables
