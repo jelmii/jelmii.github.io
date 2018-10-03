@@ -21,5 +21,60 @@ cta:
     button_text: Contact  
     button_url: /contact/  
 ---
+<div class="uk-h3">Slide</div>
+<div class="uk-child-width-1-3@m" uk-grid uk-lightbox="animation: slide">
+    <div>
+        <a class="uk-inline" href="images/photo.jpg" data-caption="Caption 1">
+            <img src="images/photo.jpg" alt="">
+        </a>
+    </div>
+    <div>
+        <a class="uk-inline" href="images/dark.jpg" data-caption="Caption 2">
+            <img src="images/dark.jpg" alt="">
+        </a>
+    </div>
+    <div>
+        <a class="uk-inline" href="images/light.jpg" data-caption="Caption 3">
+            <img src="images/light.jpg" alt="">
+        </a>
+    </div>
+</div>
 
+<div class="uk-h3">Fade</div>
+<div class="uk-child-width-1-3@m" uk-grid uk-lightbox="animation: fade">
+    <div>
+        <a class="uk-inline" href="images/photo.jpg" data-caption="Caption 1">
+            <img src="images/photo.jpg" alt="">
+        </a>
+    </div>
+    <div>
+        <a class="uk-inline" href="images/dark.jpg" data-caption="Caption 2">
+            <img src="images/dark.jpg" alt="">
+        </a>
+    </div>
+    <div>
+        <a class="uk-inline" href="images/light.jpg" data-caption="Caption 3">
+            <img src="images/light.jpg" alt="">
+        </a>
+    </div>
+</div>
+
+<div class="uk-h3">Scale</div>
+<div class="uk-child-width-1-3@m" uk-grid uk-lightbox="animation: scale">
+    <div>
+        <a class="uk-inline" href="images/photo.jpg" data-caption="Caption 1">
+            <img src="images/photo.jpg" alt="">
+        </a>
+    </div>
+    <div>
+        <a class="uk-inline" href="images/dark.jpg" data-caption="Caption 2">
+            <img src="images/dark.jpg" alt="">
+        </a>
+    </div>
+    <div>
+        <a class="uk-inline" href="images/light.jpg" data-caption="Caption 3">
+            <img src="images/light.jpg" alt="">
+        </a>
+    </div>
+</div>
 
