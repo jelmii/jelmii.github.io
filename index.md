@@ -2,7 +2,7 @@
 layout: home
 hero:
     title: ¿Necesitas un Empleado?
-    subtitle: Encuentra los mejores candidados 
+    subtitle: Somos la red mas amplia de Curriculums Vitae, busca, encuentra, contrata!
     image: imac.svg
     search: true
 categories:
