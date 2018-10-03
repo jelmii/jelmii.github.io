@@ -2,15 +2,19 @@
 
 - title: Private Taxi
   desc: Safety, comfortable and fast cars
+  image: imac.svg
   icon: cart
   doc: home
+  
 
 - title: City Tours
   desc: You could know the places most important
+  image: imac.svg
   icon: credit-card
   doc: frontmatter
 
 - title: Bar & Restaurants 
+  image: imac.svg
   desc: Always eat and drink away is a good plan
   icon: happy
   doc: variables
