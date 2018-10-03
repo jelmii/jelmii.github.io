@@ -1,7 +1,7 @@
 ---
 layout: doc
-title: Yendi Paola Gomez Padilla, Contador Publico, Cartagena, Master en Finanzas, 5 años de experiencia, nivel de ingles alto, disponibilidad 
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+title: Yendi Paola Gomez Padilla, Contador Publico, Cartagena, Master en Finanzas, 5 años de experiencia, nivel de ingles alto
+subtitle: Email: Ypgp_18@hotmail.com Phone: +57 350 273 8920.
 author:
 tags: featured
 ---
