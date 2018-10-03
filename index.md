@@ -1,8 +1,8 @@
 ---
 layout: home
 hero:
-    title: ¿Olvidaste tu Curriculum Vitae?
-    subtitle: No te preocupes en Bankhing.com te la cuidamos, otros podran contratarte!
+    title: ¿Curriculum Vitae?
+    subtitle: Bankhing.com te hace visible!
     image: books.svg
     search: true
 categories:
