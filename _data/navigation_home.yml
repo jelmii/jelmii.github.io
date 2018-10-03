@@ -6,7 +6,6 @@
   icon: location
   doc: home
   
-
 - title: Estados unidos
   desc: You could know the places most important
   image: imac.svg
@@ -16,5 +15,23 @@
 - title: Bar & Restaurants 
   image: imac.svg
   desc: Always eat and drink away is a good plan
-  icon: bulding
+  icon: location
+  doc: variables
+  
+- title: Argelia
+  desc: Safety, comfortable and fast cars
+  image: imac.svg
+  icon: location
+  doc: home
+  
+- title: Estados unidos
+  desc: You could know the places most important
+  image: imac.svg
+  icon: location
+  doc: frontmatter
+
+- title: Bar & Restaurants 
+  image: imac.svg
+  desc: Always eat and drink away is a good plan
+  icon: location
   doc: variables
