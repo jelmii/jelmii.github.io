@@ -2,8 +2,8 @@
 layout: home
 hero:
     title: ¿Necesitas un Empleado?
-    subtitle: Somos la red mas amplia de Curriculums Vitae, busca, encuentra, contrata!
-    image: imac.svg
+    subtitle: Somos la red más amplia de Curriculums Vitae, busca, encuentra y contrata!
+    image: books.svg
     search: true
 categories:
     columns: 3
