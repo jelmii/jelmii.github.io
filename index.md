@@ -1,8 +1,8 @@
 ---
 layout: home
 hero:
-    title: How Can We Help?
-    subtitle: Search or browse in depth articles and videos on everything Jekyll, from basic theme setup and hosting to customisation and development
+    title: ¿Necesitas un Empleado?
+    subtitle: Encuentra los mejores candidados 
     image: imac.svg
     search: true
 categories:
