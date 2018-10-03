@@ -7,7 +7,6 @@ hero:
     search: true
 cta:
     image: imac.svg
-    image: imac.svg
     title: Did not find what you were looking for?
     subtitle: The most important thing for us is that together we find a solution, give us more information than you are looking for. 
     button_text: Argelia  
