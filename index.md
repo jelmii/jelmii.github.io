@@ -6,7 +6,7 @@ hero:
     image: city.svg
     search: true
 categories:
-    columns: 24
+    columns: 12
     title: Hotels by Country
     subtitle: Get your answers fast, jump to most popular documentation content       
 ---
