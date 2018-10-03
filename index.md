@@ -22,5 +22,11 @@ cta:
     button_url: /contact/  
 ---
 <div uk-lightbox>
-    <a class="uk-button uk-button-default" href="images/photo.jpg" data-alt="Image">Open Lightbox</a>
+    <a href="image.jpg"></a>
+    <a href="image.jpg"></a>
+    <a href="image.jpg"></a>
+    <a href="image.jpg"></a>
+</div>
+<div uk-lightbox>
+    <a href="image.jpg"></a>
 </div>
