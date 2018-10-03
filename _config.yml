@@ -24,7 +24,7 @@ brand:
 
 # Default author settings
 author:
-    name:       Jose Sepulveda
+    name:       Bankhing.com
     github:     PressApps    # Github username for avatar
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
