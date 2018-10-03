@@ -26,10 +26,16 @@ cta:
 <a class="uk-button uk-button-default" href="images/photo.jpg">Open Lightbox</a>
 <a class="uk-button uk-button-default" href="images/photo.jpg">Open Lightbox</a>
 <a class="uk-button uk-button-default" href="images/photo.jpg">Open Lightbox</a>
-</div>
-<div uk-lightbox>
-    <a class="uk-button uk-button-default" href="images/photo.jpg">Open Lightbox</a>
-</div>
-<div uk-lightbox>
-    <a class="uk-button uk-button-default" href="images/photo.jpg">Open Lightbox</a>
+<a class="uk-button uk-button-default" href="images/photo.jpg">Open Lightbox</a>
+<a class="uk-button uk-button-default" href="images/photo.jpg">Open Lightbox</a>
+<a class="uk-button uk-button-default" href="images/photo.jpg">Open Lightbox</a>
+<a class="uk-button uk-button-default" href="images/photo.jpg">Open Lightbox</a>
+<a class="uk-button uk-button-default" href="images/photo.jpg">Open Lightbox</a>
+<a class="uk-button uk-button-default" href="images/photo.jpg">Open Lightbox</a>
+<a class="uk-button uk-button-default" href="images/photo.jpg">Open Lightbox</a>
+<a class="uk-button uk-button-default" href="images/photo.jpg">Open Lightbox</a>
+<a class="uk-button uk-button-default" href="images/photo.jpg">Open Lightbox</a>
+<a class="uk-button uk-button-default" href="images/photo.jpg">Open Lightbox</a>
+<a class="uk-button uk-button-default" href="images/photo.jpg">Open Lightbox</a>
+<a class="uk-button uk-button-default" href="images/photo.jpg">Open Lightbox</a>    
 </div>
