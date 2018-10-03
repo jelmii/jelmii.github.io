@@ -1,8 +1,8 @@
 ---
 layout: home
 hero:
-    title: ¿Necesitas un Empleado?
-    subtitle: Somos la red más amplia de Curriculums Vitae, busca, encuentra y contrata!
+    title: ¿Olvidaste tu Curriculums Vitae?
+    subtitle: No te preocupes en Bankhing.com te la cuidamos, otros podran contratarte!
     image: books.svg
     search: true
 categories:
