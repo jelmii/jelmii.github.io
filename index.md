@@ -6,7 +6,7 @@ hero:
     image: city.svg
     search: true
 categories:
-    columns: 3
+    columns: 6
     title: Browse Topics
     subtitle: Get your answers fast, jump to most popular documentation content       
 ---
