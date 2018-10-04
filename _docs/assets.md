@@ -1,5 +1,5 @@
 ---
-layout: doc
+layout: post 
 title: How To Setup Domain SSL With Github Pages
 categories: [Getting Started, Troubleshooting]
 author: John Black
