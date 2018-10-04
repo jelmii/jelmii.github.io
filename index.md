@@ -7,8 +7,8 @@ hero:
     search: true
 categories:
     columns: 3
-    title: Browse Topics
-    subtitle: Get your answers fast, jump to most popular documentation content
+    title: Nuestros Servicios 
+    subtitle: Te hacemos visibles 365 dias al año, tu Curriculum estara disponible para que cualquier empresa descubra tu talento.
 section:
     title: Need More?
     subtitle: This section displays optional page content lorem ipsum
