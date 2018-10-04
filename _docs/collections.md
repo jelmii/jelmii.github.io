@@ -7,6 +7,5 @@ tags: featured
 ---
 
 
-<iframe src="https://drive.google.com/file/d/1b9Xp6IV7lJSfP9R73r4G6eeUyCDSwvzr/view" width="100%" height="940"></iframe>
-
+<iframe src="https://drive.google.com/file/d/1b9Xp6IV7lJSfP9R73r4G6eeUyCDSwvzr/preview" width="640" height="480"></iframe>
 
