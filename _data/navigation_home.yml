@@ -1,9 +1,9 @@
 # Categories home page navigation
 
-- title: Argelia
-  desc: Safety, comfortable and fast cars
+- title: Subir Curriculum Vitae
+  desc: Hazte visible, sube tu curriculum
   image: imac.svg
-  icon: location
+  icon: cloud-upload
   doc: home
   
 - title: Estados unidos
