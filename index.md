@@ -11,10 +11,10 @@ categories:
     subtitle: Te hacemos visibles 365 dias al año, tu Curriculum estara disponible para que cualquier empresa descubra tu talento.
 section:
     title: Publicación Anual
-    subtitle: This section displays optional page content lorem ipsum
+    subtitle: Hazte visible en internet para que muchos descubran tu talento por solo $9,900.
 cta:
-    title: Didn't find an answer to your question?
-    subtitle: Get in touch with us for details on additional services and custom work pricing
+    title: ¿No encontraste una respuesta a tu pregunta?
+    subtitle: Póngase en contacto con nosotros para obtener detalles sobre servicios adicionales y precios de trabajo personalizados.
     button_text: Contact Us   
     button_url: /contact/  
 ---
