@@ -15,7 +15,7 @@ section:
 cta:
     title: ¿No encontraste una respuesta a tu pregunta?
     subtitle: Póngase en contacto con nosotros para obtener detalles sobre servicios adicionales y precios de trabajo personalizados.
-    button_text: Contact Us   
+    button_text: Contáctenos   
     button_url: /contact/  
 ---
 
