@@ -1,19 +1,16 @@
 # Categories home page navigation
 
-- title: Subir Curriculum Vitae
-  desc: Hazte visible, sube tu curriculum
-  image: imac.svg
-  icon: cloud-upload
-  doc: home
+- title: Curriculum Vitae
+  desc: Envianos tu Curriculum Vitae, hazte visible
+  icon: mail
+  doc: http://www.bankhing.com/
   
 - title: Estados unidos
   desc: You could know the places most important
-  image: imac.svg
   icon: location
   doc: frontmatter
 
 - title: Bar & Restaurants 
-  image: imac.svg
   desc: Always eat and drink away is a good plan
   icon: location
   doc: variables
