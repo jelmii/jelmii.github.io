@@ -8,10 +8,10 @@ hero:
 categories:
     columns: 3
     title: Nuestros Servicios 
-    subtitle: Te hacemos visibles 365 dias al año, tu Curriculum estara disponible para que cualquier empresa descubra tu talento.
+    subtitle: Te hacemos visibles 365 días al año, tu Curriculum estará disponible para que cualquier empresa descubra tu talento.
 section:
     title: Publicación Anual
-    subtitle: Hazte visible en internet para que muchos descubran tu talento por solo $9,900.
+    subtitle: Hazte visible en internet para que muchos descubran tu talento, por solo $9,900.
 cta:
     title: ¿No encontraste una respuesta a tu pregunta?
     subtitle: Póngase en contacto con nosotros para obtener detalles sobre servicios adicionales y precios de trabajo personalizados.
