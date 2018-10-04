@@ -10,7 +10,7 @@ categories:
     title: Nuestros Servicios 
     subtitle: Te hacemos visibles 365 dias al año, tu Curriculum estara disponible para que cualquier empresa descubra tu talento.
 section:
-    title: Need More?
+    title: Publicación Anual
     subtitle: This section displays optional page content lorem ipsum
 cta:
     title: Didn't find an answer to your question?
