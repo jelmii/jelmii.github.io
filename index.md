@@ -11,7 +11,7 @@ categories:
     subtitle: Te hacemos visibles 365 días al año, tu Curriculum estará disponible para que cualquier empresa descubra tu talento.
 section:
     title: Publicación Anual
-    subtitle: Hazte visible en internet para que muchos descubran tu talento, por solo $9,900.
+    subtitle: Hazte visible en internet para que muchos descubran tu talento, por solo $9 USD .
 cta:
     title: ¿No encontraste una respuesta a tu pregunta?
     subtitle: Póngase en contacto con nosotros para obtener detalles sobre servicios adicionales y precios de trabajo personalizados.
