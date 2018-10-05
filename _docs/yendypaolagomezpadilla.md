@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Yendy Paola Gomez Padilla
-subtitle: Contador Publico, Especialista en Finanzas, Cartagena - Colombia, 5 años de Experiencia, Ingles Avanzado.
+title: Yendy Paola Gomez Padilla, Contador Publico, Especialista en Finanzas, Cartagena - Colombia, 5 años de Experiencia, Ingles Avanzado
+subtitle:
 author:
 tags: othertag
 ---
