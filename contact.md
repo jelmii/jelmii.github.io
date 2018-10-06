@@ -7,7 +7,7 @@ formspree:
     redirect: /thanks/
 ---
 
-##### Morbi varius in accumsan blandit, elit ligula velit, luctus mattis ante nulla nulla.
+##### Servicio al cliente bankhing
 
 Gracias por escribirnos, estaremos respondiendo en el tiempo más corto posible.
 
