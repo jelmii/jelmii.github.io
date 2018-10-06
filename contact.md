@@ -1,14 +1,14 @@
 ---
 layout: contact
-title: Got Any Questions
+title: Escríbenos, estamos para servirte!
 permalink: /contact/
 formspree:
-    email: jlsepulveda27@gmail.com
+    email: curriculum@bankhing.com 
     redirect: /thanks/
 ---
 
 ##### Morbi varius in accumsan blandit, elit ligula velit, luctus mattis ante nulla nulla.
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+Gracias por escribirnos, estaremos respondiendo en el tiempo más corto posible.
 
 {% include map.html latitude="40.6700" longitude="-73.9400" zoom="16" %}
