@@ -113,32 +113,32 @@ img {
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 6</div>
-    <img src="img_woods_wide.jpg" style="width:100%">
+    <img src="https://cdn-images.zety.com/templates/zety/cascade-3-duo-blue-navy-21.png" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 6</div>
-    <img src="img_5terre_wide.jpg" style="width:100%">
+    <img src="https://cdn-images.zety.com/templates/zety/crisp-15-classic-silver-dark-388.png" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 6</div>
-    <img src="img_mountains_wide.jpg" style="width:100%">
+    <img src="https://cdn-images.zety.com/templates/zety/muse-2-classic-blue-navy-172.png" style="width:100%">
   </div>
     
   <div class="mySlides">
     <div class="numbertext">4 / 6</div>
-    <img src="img_lights_wide.jpg" style="width:100%">
+    <img src="https://cdn-images.zety.com/templates/zety/modern-57-classic-blue-navy-3568.png" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 6</div>
-    <img src="img_nature_wide.jpg" style="width:100%">
+    <img src="https://cdn-images.zety.com/templates/zety/cubic-20-trio-silver-dark-19.png" style="width:100%">
   </div>
     
   <div class="mySlides">
     <div class="numbertext">6 / 6</div>
-    <img src="img_snow_wide.jpg" style="width:100%">
+    <img src="https://cdn-images.zety.com/templates/zety/concept-10-classic-blue-navy-312.png" style="width:100%">
   </div>
     
   <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -150,13 +150,13 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="img_woods.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+      <img class="demo cursor" src="https://cdn-images.zety.com/templates/zety/valera-11-classic-silver-dark-332.png" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img_5terre.jpg" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
+      <img class="demo cursor" src="https://cdn-images.zety.com/templates/zety/valera-11-classic-silver-dark-332.png" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img_mountains.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+      <img class="demo cursor" src="https://cdn-images.zety.com/templates/zety/valera-11-classic-silver-dark-332.png" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
     </div>
     <div class="column">
       <img class="demo cursor" src="img_lights.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
