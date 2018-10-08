@@ -11,7 +11,7 @@ categories:
     subtitle: Te hacemos visibles 365 días al año, tu Curriculum estará disponible para que cualquier empresa descubra tu talento, aquí no estas en un solo sitio web, estas en toda la web.
 section:
     title: ¿Necesitas mejorar tu Currículum ?
-    subtitle: No te preocuoes, nosotros mejoramos tu CV por solo $19 USD .
+    subtitle: Nosotros lo hacemos por ti, envianos tu CV y por solo $19 USD podrás impactar en tu próxima entrevista de trabajo.
 cta:
     title: ¿No encontraste una respuesta a tu pregunta?
     subtitle: Póngase en contacto con nosotros para obtener detalles sobre servicios adicionales y precios de trabajo personalizados.
