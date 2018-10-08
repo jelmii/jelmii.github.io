@@ -1,8 +1,8 @@
 ---
 layout: home
 hero:
-    title: ¿Curriculum Vitae?
-    subtitle: Bankhing.com te hace visible!
+    title: Publica tu Currículum Vitae
+    subtitle: Hazte visible, envianos tu CV en PDF, en minutos será publica en la web, así podrás llegar más rápido a conseguir un buen empleo. 
     image: books.svg
     search: true
 categories:
