@@ -8,7 +8,7 @@ hero:
 categories:
     columns: 3
     title: ¿Que hacemos?
-    subtitle: Te hacemos visibles 365 días al año, tu Curriculum estará disponible para que cualquier empresa descubra tu talento.
+    subtitle: Te hacemos visibles 365 días al año, tu Curriculum estará disponible para que cualquier empresa descubra tu talento, aquí no estas en un solo sitio web, estas en toda la web.
 section:
     title: ¿Necesitas mejorar tu Currículum ?
     subtitle: No te preocuoes, nosotros mejoramos tu CV por solo $19 USD .
