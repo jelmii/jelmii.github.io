@@ -7,7 +7,7 @@ hero:
     search: true
 categories:
     columns: 3
-    title: Nuestros Servicios 
+    title: ¿Que hacemos?
     subtitle: Te hacemos visibles 365 días al año, tu Curriculum estará disponible para que cualquier empresa descubra tu talento.
 section:
     title: ¿Necesitas mejorar tu Currículum ?
