@@ -1,7 +1,7 @@
 # Categories home page navigation
 
-- title: curriculum@bankhing.com
-  desc: Envíanos tu Curriculum Vitae, bankhing.com te hace visible!
+- title: micv@publicatucv.com
+  desc: Envíanos tu Curriculum en PDF, en pocos minutos será piblicada!
   icon: mail
   doc: http://www.bankhing.com/
   
@@ -11,7 +11,7 @@
   doc: /contact
 
 - title: Disponible 24/7 
-  desc: Tu Currículum lo podrás descargar en cualquier momento, un servicio rápido, fácil y práctico, puedes enviarnos una actualizada cuando lo desees.
+  desc: Tu Currículum lo podrás descargar en cualquier momento, un servicio rápido, fácil y práctico, puedes enviarnos un CV actualizado cuando lo desees.
   icon: location
   doc: variables
   
