@@ -10,8 +10,8 @@ categories:
     title: Nuestros Servicios 
     subtitle: Te hacemos visibles 365 días al año, tu Curriculum estará disponible para que cualquier empresa descubra tu talento.
 section:
-    title: Publicación Anual
-    subtitle: Hazte visible en internet para que muchos descubran tu talento, por solo $9 USD .
+    title: ¿Necesitas mejorar tu Currículum ?
+    subtitle: No te preocuoes, nosotros mejoramos tu CV por solo $19 USD .
 cta:
     title: ¿No encontraste una respuesta a tu pregunta?
     subtitle: Póngase en contacto con nosotros para obtener detalles sobre servicios adicionales y precios de trabajo personalizados.
