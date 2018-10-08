@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diana Tavarez, Ingeniera Industria, 5 años de experiencia, Santo Dominogo - Republica Dominicana
+title: Computrabajo
 subtitle:
 author:
 tags: othertag
