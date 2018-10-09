@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: How To Setup Domain SSL With Github Pages
+title: Contador Público, Cartagena de Indias, Colombia
 categories: [Getting Started, Troubleshooting]
 author: John Black
 tags: featured
