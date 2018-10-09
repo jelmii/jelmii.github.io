@@ -17,7 +17,7 @@ tags: featured
 
 <h3>Yendi Gomez Padilla</h3>
 Contador Publico, Especialista en Finanzas, Cartagena - Colombia, 5 años de Experiencia, Ingles Avanzado <a href="http://mindxpres.com/img/pdf.gif" download>
-  <img src="/images/myw3schoolsimage.jpg" alt="W3Schools" width="104" height="142">
+  <img src="http://mindxpres.com/img/pdf.gif" alt="W3Schools" width="104" height="142">
 </a>
 
 {% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
