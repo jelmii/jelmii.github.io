@@ -24,7 +24,7 @@ brand:
 
 # Default author settings
 author:
-    name:       Bankhing.com
+    name:       Publicatucv.com
     github:     PressApps    # Github username for avatar
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
@@ -54,7 +54,7 @@ twitter_username:
 
 # Default footer image settings
 footer:
-    copyright:      Hecho por un <a href="https://bankhing.com/"> humano </a> en algún lugar del planeta tierra.
+    copyright:      Hecho por un <a href="https://publicatuv.com/"> humano </a> en algún lugar del planeta tierra.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
