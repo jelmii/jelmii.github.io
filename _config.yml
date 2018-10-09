@@ -5,7 +5,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Publica Tu Curriculum Vitae
+title:              Docs
 description:        Hazte visible, envianos tu CV en PDF, en minutos será publica en la web, así podrás llegar más rápido a conseguir un buen empleo.
 
 # Site subpath, e.g. /blog
@@ -19,7 +19,7 @@ url:                "http://www.publicatucv.com/"
 
 # Site logo, image or text
 brand:
-    image:          logo.png  # e.g. logo.png, upload logo image file to /assets/img/
+    image:          logo.svg  # e.g. logo.png, upload logo image file to /assets/img/
     text:           CV      # if the above "logo:" image variable  is not set, this text logo is displayed instead
 
 # Default author settings
