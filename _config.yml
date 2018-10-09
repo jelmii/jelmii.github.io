@@ -19,7 +19,7 @@ url:                "http://www.publicatucv.com/"
 
 # Site logo, image or text
 brand:
-    image:          logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
+    image:          https://pbs.twimg.com/profile_images/1049434734688780288/5ikM4FCF_bigger.jpg  # e.g. logo.png, upload logo image file to /assets/img/ folder
     text:           Docs      # if the above "logo:" image variable  is not set, this text logo is displayed instead
 
 # Default author settings
