@@ -16,7 +16,9 @@ tags: featured
 ## Especialistas en Fianzas
 
 <h3>Yendi Gomez Padilla</h3>
-Contador Publico, Especialista en Finanzas, Cartagena - Colombia, 5 años de Experiencia, Ingles Avanzado <a target="_blank" href="https://github.com/tomjoht/documentation-theme-jekyll/blob/gh-pages/pages/mydoc/mydoc_hyperlinks.md" class="btn btn-default githubEditButton" role="button"><i class="fa fa-github fa-lg"></i> Edit me</a>
+Contador Publico, Especialista en Finanzas, Cartagena - Colombia, 5 años de Experiencia, Ingles Avanzado <a href="/images/myw3schoolsimage.jpg" download>
+  <img src="/images/myw3schoolsimage.jpg" alt="W3Schools" width="104" height="142">
+</a>
 
 {% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
 
