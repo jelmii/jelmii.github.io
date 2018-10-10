@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: Johan Gomez Ruiz, Administrador de Empresas, Especialista en Recursos Humanos, 10 años de experiencia, Caracas - Venezuela
 subtitle:
