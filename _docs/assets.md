@@ -84,11 +84,14 @@ html {
     <div class="card">
       <img src="https://media.licdn.com/dms/image/C4D03AQFqQERmW1mmtA/profile-displayphoto-shrink_800_800/0?e=1544659200&v=beta&t=ES7btt1UoqT2-nIXol-TvT29511L1NBfIoRCJkfCEhk" alt="Jane" style="width:100%">
       <div class="container">
-        <h2>Jane Doe</h2>
-        <p class="title">CEO & Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <h2>Edgar Navarro Martinez</h2>
+        <p class="title">Contador Publico</p>
+        <p class="title">Especialista en Finanzas</p>
+        <p>Profesional en Contaduría Pública con tarjeta profesional vigente. Experiencia laboral en Contabilidad
+General, Contabilidad de Costos, Auditoria, Control Interno e Impuestos; de excelentes relaciones
+interpersonales y habilidad para trabajar en equipo o individualmente.</p>
+        <p>enavarro.martinez@gmail.com</p>
+        <p><button class="button">Ver Currículum</button></p>
       </div>
     </div>
   </div>
@@ -100,8 +103,8 @@ html {
         <h2>Mike Ross</h2>
         <p class="title">Art Director</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <p>enavarro.martinez@gmail.com</p>
+        <p><button class="button">Ver Currículum</button></p>
       </div>
     </div>
   </div>
