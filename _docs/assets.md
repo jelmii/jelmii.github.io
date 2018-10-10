@@ -11,17 +11,6 @@ tags: featured
 * TOC
 {:toc}
 
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
-
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
-
-## Image Lightbox Example
-Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
-
-{% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
-
-Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -93,7 +82,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
+      <img src="https://media.licdn.com/dms/image/C4D03AQFqQERmW1mmtA/profile-displayphoto-shrink_800_800/0?e=1544659200&v=beta&t=ES7btt1UoqT2-nIXol-TvT29511L1NBfIoRCJkfCEhk" alt="Jane" style="width:100%">
       <div class="container">
         <h2>Jane Doe</h2>
         <p class="title">CEO & Founder</p>
